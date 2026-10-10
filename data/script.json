@@ -1,0 +1,530 @@
+{
+ "source": "Wikipedia: Khmer script (consonant and dependent vowel tables, UNGEGN + IPA); Khmer numerals",
+ "consonants": [
+  {
+   "id": "c01",
+   "char": "ក",
+   "name": "kâ",
+   "ipa_name": "[kɑː]",
+   "ipa": "[k]",
+   "value": "k",
+   "series": "a"
+  },
+  {
+   "id": "c02",
+   "char": "ខ",
+   "name": "khâ",
+   "ipa_name": "[kʰɑː]",
+   "ipa": "[kʰ]",
+   "value": "kh",
+   "series": "a"
+  },
+  {
+   "id": "c03",
+   "char": "គ",
+   "name": "kô",
+   "ipa_name": "[kɔː]",
+   "ipa": "[k]",
+   "value": "k",
+   "series": "o"
+  },
+  {
+   "id": "c04",
+   "char": "ឃ",
+   "name": "khô",
+   "ipa_name": "[kʰɔː]",
+   "ipa": "[kʰ]",
+   "value": "kh",
+   "series": "o"
+  },
+  {
+   "id": "c05",
+   "char": "ង",
+   "name": "ngô",
+   "ipa_name": "[ŋɔː]",
+   "ipa": "[ŋ]",
+   "value": "ng",
+   "series": "o"
+  },
+  {
+   "id": "c06",
+   "char": "ច",
+   "name": "châ",
+   "ipa_name": "[cɑː]",
+   "ipa": "[c]",
+   "value": "ch",
+   "series": "a"
+  },
+  {
+   "id": "c07",
+   "char": "ឆ",
+   "name": "chhâ",
+   "ipa_name": "[cʰɑː]",
+   "ipa": "[cʰ]",
+   "value": "chh",
+   "series": "a"
+  },
+  {
+   "id": "c08",
+   "char": "ជ",
+   "name": "chô",
+   "ipa_name": "[cɔː]",
+   "ipa": "[c]",
+   "value": "ch",
+   "series": "o"
+  },
+  {
+   "id": "c09",
+   "char": "ឈ",
+   "name": "chhô",
+   "ipa_name": "[cʰɔː]",
+   "ipa": "[cʰ]",
+   "value": "chh",
+   "series": "o"
+  },
+  {
+   "id": "c10",
+   "char": "ញ",
+   "name": "nhô",
+   "ipa_name": "[ɲɔː]",
+   "ipa": "[ɲ]",
+   "value": "nh",
+   "series": "o"
+  },
+  {
+   "id": "c11",
+   "char": "ដ",
+   "name": "dâ",
+   "ipa_name": "[ɗɑː]",
+   "ipa": "[ɗ]",
+   "value": "d",
+   "series": "a"
+  },
+  {
+   "id": "c12",
+   "char": "ឋ",
+   "name": "thâ",
+   "ipa_name": "[tʰɑː]",
+   "ipa": "[tʰ]",
+   "value": "th",
+   "series": "a"
+  },
+  {
+   "id": "c13",
+   "char": "ឌ",
+   "name": "dô",
+   "ipa_name": "[ɗɔː]",
+   "ipa": "[ɗ]",
+   "value": "d",
+   "series": "o"
+  },
+  {
+   "id": "c14",
+   "char": "ឍ",
+   "name": "thô",
+   "ipa_name": "[tʰɔː]",
+   "ipa": "[tʰ]",
+   "value": "th",
+   "series": "o"
+  },
+  {
+   "id": "c15",
+   "char": "ណ",
+   "name": "nâ",
+   "ipa_name": "[nɑː]",
+   "ipa": "[n]",
+   "value": "n",
+   "series": "a"
+  },
+  {
+   "id": "c16",
+   "char": "ត",
+   "name": "tâ",
+   "ipa_name": "[tɑː]",
+   "ipa": "[t]",
+   "value": "t",
+   "series": "a"
+  },
+  {
+   "id": "c17",
+   "char": "ថ",
+   "name": "thâ",
+   "ipa_name": "[tʰɑː]",
+   "ipa": "[tʰ]",
+   "value": "th",
+   "series": "a"
+  },
+  {
+   "id": "c18",
+   "char": "ទ",
+   "name": "tô",
+   "ipa_name": "[tɔː]",
+   "ipa": "[t]",
+   "value": "t",
+   "series": "o"
+  },
+  {
+   "id": "c19",
+   "char": "ធ",
+   "name": "thô",
+   "ipa_name": "[tʰɔː]",
+   "ipa": "[tʰ]",
+   "value": "th",
+   "series": "o"
+  },
+  {
+   "id": "c20",
+   "char": "ន",
+   "name": "nô",
+   "ipa_name": "[nɔː]",
+   "ipa": "[n]",
+   "value": "n",
+   "series": "o"
+  },
+  {
+   "id": "c21",
+   "char": "ប",
+   "name": "bâ",
+   "ipa_name": "[ɓɑː]",
+   "ipa": "[ɓ], [p]",
+   "value": "b, p",
+   "series": "a"
+  },
+  {
+   "id": "c22",
+   "char": "ផ",
+   "name": "phâ",
+   "ipa_name": "[pʰɑː]",
+   "ipa": "[pʰ]",
+   "value": "ph",
+   "series": "a"
+  },
+  {
+   "id": "c23",
+   "char": "ព",
+   "name": "pô",
+   "ipa_name": "[pɔː]",
+   "ipa": "[p]",
+   "value": "p",
+   "series": "o"
+  },
+  {
+   "id": "c24",
+   "char": "ភ",
+   "name": "phô",
+   "ipa_name": "[pʰɔː]",
+   "ipa": "[pʰ]",
+   "value": "ph",
+   "series": "o"
+  },
+  {
+   "id": "c25",
+   "char": "ម",
+   "name": "mô",
+   "ipa_name": "[mɔː]",
+   "ipa": "[m]",
+   "value": "m",
+   "series": "o"
+  },
+  {
+   "id": "c26",
+   "char": "យ",
+   "name": "yô",
+   "ipa_name": "[jɔː]",
+   "ipa": "[j]",
+   "value": "y",
+   "series": "o"
+  },
+  {
+   "id": "c27",
+   "char": "រ",
+   "name": "rô",
+   "ipa_name": "[rɔː]",
+   "ipa": "[r]",
+   "value": "r",
+   "series": "o"
+  },
+  {
+   "id": "c28",
+   "char": "ល",
+   "name": "lô",
+   "ipa_name": "[lɔː]",
+   "ipa": "[l]",
+   "value": "l",
+   "series": "o"
+  },
+  {
+   "id": "c29",
+   "char": "វ",
+   "name": "vô",
+   "ipa_name": "[ʋɔː]",
+   "ipa": "[ʋ]",
+   "value": "v",
+   "series": "o"
+  },
+  {
+   "id": "c30",
+   "char": "ស",
+   "name": "sâ",
+   "ipa_name": "[sɑː]",
+   "ipa": "[s]",
+   "value": "s",
+   "series": "a"
+  },
+  {
+   "id": "c31",
+   "char": "ហ",
+   "name": "hâ",
+   "ipa_name": "[hɑː]",
+   "ipa": "[h]",
+   "value": "h",
+   "series": "a"
+  },
+  {
+   "id": "c32",
+   "char": "ឡ",
+   "name": "lâ",
+   "ipa_name": "[lɑː]",
+   "ipa": "[l]",
+   "value": "l",
+   "series": "a"
+  },
+  {
+   "id": "c33",
+   "char": "អ",
+   "name": "'â",
+   "ipa_name": "[ʔɑː]",
+   "ipa": "[ʔ]",
+   "value": "'",
+   "series": "a"
+  }
+ ],
+ "vowels": [
+  {
+   "id": "v01",
+   "char": "◌ា",
+   "example": "អា",
+   "ipa_a": "[aː]",
+   "ipa_o": "[iːə]",
+   "rom_a": "a",
+   "rom_o": "éa"
+  },
+  {
+   "id": "v02",
+   "char": "◌ិ",
+   "example": "អិ",
+   "ipa_a": "[ə], [e]",
+   "ipa_o": "[ɨ], [i]",
+   "rom_a": "ĕ",
+   "rom_o": "ĭ"
+  },
+  {
+   "id": "v03",
+   "char": "◌ី",
+   "example": "អី",
+   "ipa_a": "[ej]",
+   "ipa_o": "[iː]",
+   "rom_a": "ei",
+   "rom_o": "i"
+  },
+  {
+   "id": "v04",
+   "char": "◌ឹ",
+   "example": "អឹ",
+   "ipa_a": "[ə]",
+   "ipa_o": "[ɨ]",
+   "rom_a": "œ̆",
+   "rom_o": "œ̆"
+  },
+  {
+   "id": "v05",
+   "char": "◌ឺ",
+   "example": "អឺ",
+   "ipa_a": "[əː]",
+   "ipa_o": "[ɨː]",
+   "rom_a": "œ",
+   "rom_o": "œ"
+  },
+  {
+   "id": "v06",
+   "char": "◌ុ",
+   "example": "អុ",
+   "ipa_a": "[o]",
+   "ipa_o": "[u]",
+   "rom_a": "ŏ",
+   "rom_o": "ŭ"
+  },
+  {
+   "id": "v07",
+   "char": "◌ូ",
+   "example": "អូ",
+   "ipa_a": "[oː]",
+   "ipa_o": "[uː]",
+   "rom_a": "o",
+   "rom_o": "u"
+  },
+  {
+   "id": "v08",
+   "char": "◌ួ",
+   "example": "អួ",
+   "ipa_a": "[uə]",
+   "ipa_o": "[uə]",
+   "rom_a": "uŏ",
+   "rom_o": "uŏ"
+  },
+  {
+   "id": "v09",
+   "char": "◌ើ",
+   "example": "អើ",
+   "ipa_a": "[aə]",
+   "ipa_o": "[əː]",
+   "rom_a": "aeu",
+   "rom_o": "eu"
+  },
+  {
+   "id": "v10",
+   "char": "◌ឿ",
+   "example": "អឿ",
+   "ipa_a": "[ɨə]",
+   "ipa_o": "[ɨə]",
+   "rom_a": "œă",
+   "rom_o": "œă"
+  },
+  {
+   "id": "v11",
+   "char": "◌ៀ",
+   "example": "អៀ",
+   "ipa_a": "[iə]",
+   "ipa_o": "[iə]",
+   "rom_a": "iĕ",
+   "rom_o": "iĕ"
+  },
+  {
+   "id": "v12",
+   "char": "◌េ",
+   "example": "អេ",
+   "ipa_a": "[eː]",
+   "ipa_o": "[eː]",
+   "rom_a": "é",
+   "rom_o": "é"
+  },
+  {
+   "id": "v13",
+   "char": "◌ែ",
+   "example": "អែ",
+   "ipa_a": "[ae]",
+   "ipa_o": "[ɛː]",
+   "rom_a": "ê",
+   "rom_o": "ê"
+  },
+  {
+   "id": "v14",
+   "char": "◌ៃ",
+   "example": "អៃ",
+   "ipa_a": "[ej]",
+   "ipa_o": "[aj]",
+   "rom_a": "ai",
+   "rom_o": "ey"
+  },
+  {
+   "id": "v15",
+   "char": "◌ោ",
+   "example": "អោ",
+   "ipa_a": "[ao]",
+   "ipa_o": "[oː]",
+   "rom_a": "aô",
+   "rom_o": "oŭ"
+  },
+  {
+   "id": "v16",
+   "char": "◌ៅ",
+   "example": "អៅ",
+   "ipa_a": "[aɨ]",
+   "ipa_o": "[əɨ]",
+   "rom_a": "au",
+   "rom_o": "ŏu"
+  }
+ ],
+ "digits": [
+  {
+   "id": "d0",
+   "char": "០",
+   "value": 0,
+   "word": "សូន្យ",
+   "word_rom": "soun",
+   "word_item": "zero"
+  },
+  {
+   "id": "d1",
+   "char": "១",
+   "value": 1,
+   "word": "មួយ",
+   "word_rom": "muəy",
+   "word_item": "one"
+  },
+  {
+   "id": "d2",
+   "char": "២",
+   "value": 2,
+   "word": "ពីរ",
+   "word_rom": "pii",
+   "word_item": "two"
+  },
+  {
+   "id": "d3",
+   "char": "៣",
+   "value": 3,
+   "word": "បី",
+   "word_rom": "bəy",
+   "word_item": "three"
+  },
+  {
+   "id": "d4",
+   "char": "៤",
+   "value": 4,
+   "word": "បួន",
+   "word_rom": "buən",
+   "word_item": "four"
+  },
+  {
+   "id": "d5",
+   "char": "៥",
+   "value": 5,
+   "word": "ប្រាំ",
+   "word_rom": "pram",
+   "word_item": "five"
+  },
+  {
+   "id": "d6",
+   "char": "៦",
+   "value": 6,
+   "word": "ប្រាំមួយ",
+   "word_rom": "pram muəy",
+   "word_item": "six"
+  },
+  {
+   "id": "d7",
+   "char": "៧",
+   "value": 7,
+   "word": "ប្រាំពីរ",
+   "word_rom": "pram pii",
+   "word_item": "seven"
+  },
+  {
+   "id": "d8",
+   "char": "៨",
+   "value": 8,
+   "word": "ប្រាំបី",
+   "word_rom": "pram bəy",
+   "word_item": "eight"
+  },
+  {
+   "id": "d9",
+   "char": "៩",
+   "value": 9,
+   "word": "ប្រាំបួន",
+   "word_rom": "pram buən",
+   "word_item": "nine"
+  }
+ ]
+}

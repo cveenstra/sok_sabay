@@ -1,0 +1,2025 @@
+{
+ "items": [
+  {
+   "id": "hello",
+   "km": "សួស្តី",
+   "rom": "suəsdəy",
+   "en": "hello",
+   "cat": "greet",
+   "src": "wiktionary:សួស្តី",
+   "ipa": "/suə.ˈsɗəj/"
+  },
+  {
+   "id": "hello-formal",
+   "km": "ជម្រាបសួរ",
+   "rom": "cumriəp suə",
+   "en": "hello (formal)",
+   "cat": "greet",
+   "src": "wiktionary:ជម្រាបសួរ",
+   "ipa": "/cum.ˈriəp suə/",
+   "note": "Said with a sampeah to elders, teachers and people you respect."
+  },
+  {
+   "id": "good-morning",
+   "km": "អរុណសួស្តី",
+   "rom": "ʼaʼrun suəsdəy",
+   "en": "good morning",
+   "cat": "greet",
+   "src": "wiktionary:អរុណសួស្តី",
+   "ipa": "/ʔaʔ.run suə.sɗəj/"
+  },
+  {
+   "id": "goodbye",
+   "km": "លាហើយ",
+   "rom": "liə haəy",
+   "en": "goodbye, see you",
+   "cat": "greet",
+   "src": "wiktionary:លាហើយ",
+   "ipa": "/liə ˈhaəj/"
+  },
+  {
+   "id": "goodbye-formal",
+   "km": "ជម្រាបលា",
+   "rom": "cumriəp liə",
+   "en": "goodbye (formal)",
+   "cat": "greet",
+   "src": "wiktionary:ជម្រាបលា",
+   "ipa": "/cum.ˈriəp liə/"
+  },
+  {
+   "id": "see-you-later",
+   "km": "លាសិនហើយ",
+   "rom": "liə sən haəy",
+   "en": "see you later",
+   "cat": "greet",
+   "src": "wiktionary:លាសិនហើយ",
+   "ipa": "/liə sən haəj/"
+  },
+  {
+   "id": "thank-you",
+   "km": "អរគុណ",
+   "rom": "ʼɑɑ kun",
+   "en": "thank you",
+   "cat": "polite",
+   "src": "wiktionary:អរគុណ",
+   "ipa": "/ʔɑː ˈkun/"
+  },
+  {
+   "id": "sorry",
+   "km": "សូមទោស",
+   "rom": "soum tooh",
+   "en": "sorry, excuse me",
+   "cat": "polite",
+   "src": "wiktionary:សូមទោស",
+   "ipa": "/soum ˈtoːh/"
+  },
+  {
+   "id": "its-ok",
+   "km": "មិនអីទេ",
+   "rom": "mɨn ʼəy tei",
+   "en": "it's all right",
+   "cat": "polite",
+   "src": "wiktionary:មិនអីទេ",
+   "ipa": "/mɨn ʔəj tei/"
+  },
+  {
+   "id": "no-problem",
+   "km": "អត់អី",
+   "rom": "ʼɑt ʼəy",
+   "en": "no problem, you're welcome",
+   "cat": "polite",
+   "src": "wiktionary:អត់អី",
+   "ipa": "/ʔɑt ˈʔəj/"
+  },
+  {
+   "id": "please",
+   "km": "សូម",
+   "rom": "soum",
+   "en": "please",
+   "cat": "polite",
+   "src": "wiktionary:សូម",
+   "ipa": "/soum/",
+   "note": "Used at the start of a polite request."
+  },
+  {
+   "id": "invite",
+   "km": "អញ្ជើញ",
+   "rom": "ʼɑñcəəñ",
+   "en": "please (invitation); to invite",
+   "cat": "polite",
+   "src": "wiktionary:អញ្ជើញ",
+   "ipa": "/ʔɑɲ.ˈcəːɲ/",
+   "note": "Also a reply to thanks: you are welcome."
+  },
+  {
+   "id": "yes-m",
+   "km": "បាទ",
+   "rom": "baat",
+   "en": "yes (said by men)",
+   "cat": "polite",
+   "src": "wiktionary:បាទ",
+   "ipa": "/ɓaːt/",
+   "note": "Men say បាទ baat; women say ចាស caah."
+  },
+  {
+   "id": "yes-f",
+   "km": "ចាស",
+   "rom": "caah",
+   "en": "yes (said by women)",
+   "cat": "polite",
+   "src": "wiktionary:ចាស",
+   "ipa": "/caːh/",
+   "note": "Women say ចាស caah; men say បាទ baat."
+  },
+  {
+   "id": "no",
+   "km": "ទេ",
+   "rom": "tei",
+   "en": "no; question particle",
+   "cat": "polite",
+   "src": "wiktionary:ទេ",
+   "ipa": "/tei/ ~ /teː/",
+   "note": "At the end of a sentence it also turns a statement into a yes/no question, or closes a negative."
+  },
+  {
+   "id": "sampeah",
+   "km": "សំពះ",
+   "rom": "sɑmpĕəh",
+   "en": "to greet with palms pressed together",
+   "cat": "polite",
+   "src": "wiktionary:សំពះ",
+   "ipa": "/sɑm.ˈpĕəh/",
+   "note": "The sampeah: palms together in front of the chest, fingers up, when meeting or leaving."
+  },
+  {
+   "id": "well",
+   "km": "សុខ",
+   "rom": "sok",
+   "en": "well, healthy, at peace",
+   "cat": "greet",
+   "src": "wiktionary:សុខ",
+   "ipa": "/sok/ ~ /so.kʰaʔ./"
+  },
+  {
+   "id": "happy",
+   "km": "សប្បាយ",
+   "rom": "sapbaay",
+   "en": "happy, having fun",
+   "cat": "greet",
+   "src": "wiktionary:សប្បាយ",
+   "ipa": "/sap.ˈɓaːj/"
+  },
+  {
+   "id": "name",
+   "km": "ឈ្មោះ",
+   "rom": "chmŭəh",
+   "en": "name; to be called",
+   "cat": "greet",
+   "src": "wiktionary:ឈ្មោះ",
+   "ipa": "/cʰmŭəh/"
+  },
+  {
+   "id": "i",
+   "km": "ខ្ញុំ",
+   "rom": "khñom",
+   "en": "I, me",
+   "cat": "people",
+   "src": "wiktionary:ខ្ញុំ",
+   "ipa": "/kɲom/"
+  },
+  {
+   "id": "you",
+   "km": "អ្នក",
+   "rom": "nĕək",
+   "en": "you (to an equal)",
+   "cat": "people",
+   "src": "wiktionary:អ្នក",
+   "ipa": "/nĕəʔ/"
+  },
+  {
+   "id": "bong",
+   "km": "បង",
+   "rom": "bɑɑng",
+   "en": "older sibling; you (to someone older)",
+   "cat": "people",
+   "src": "wiktionary:បង",
+   "ipa": "/ɓɑːŋ/",
+   "note": "Used as \"you\" for someone a little older than you, and by a husband or older sibling as \"I\"."
+  },
+  {
+   "id": "oun",
+   "km": "ប្អូន",
+   "rom": "pʼoun",
+   "en": "younger sibling; you (to someone younger)",
+   "cat": "people",
+   "src": "wiktionary:ប្អូន",
+   "ipa": "/pʔoun/"
+  },
+  {
+   "id": "lok",
+   "km": "លោក",
+   "rom": "look",
+   "en": "sir; you (to a man, respectfully)",
+   "cat": "people",
+   "src": "wiktionary:លោក",
+   "ipa": "/loːk/ ~ /loː.kaʔ./"
+  },
+  {
+   "id": "lok-srey",
+   "km": "លោកស្រី",
+   "rom": "look srəy",
+   "en": "madam, Mrs.; you (to a woman of standing)",
+   "cat": "people",
+   "src": "wiktionary:លោកស្រី",
+   "ipa": "/loːk ˈsrəj/"
+  },
+  {
+   "id": "uncle",
+   "km": "ពូ",
+   "rom": "puu",
+   "en": "uncle; you (to a man younger than your parents)",
+   "cat": "people",
+   "src": "wiktionary:ពូ",
+   "ipa": "/puː/"
+  },
+  {
+   "id": "aunt",
+   "km": "មីង",
+   "rom": "miing",
+   "en": "aunt; you (to a woman younger than your parents)",
+   "cat": "people",
+   "src": "wiktionary:មីង",
+   "ipa": "/miːŋ/"
+  },
+  {
+   "id": "he-she",
+   "km": "គាត់",
+   "rom": "kŏət",
+   "en": "he, she (polite)",
+   "cat": "people",
+   "src": "wiktionary:គាត់",
+   "ipa": "/kŏət/"
+  },
+  {
+   "id": "we",
+   "km": "យើង",
+   "rom": "yəəng",
+   "en": "we",
+   "cat": "people",
+   "src": "wiktionary:យើង",
+   "ipa": "/jəːŋ/"
+  },
+  {
+   "id": "they",
+   "km": "ពួកគេ",
+   "rom": "puək kei",
+   "en": "they",
+   "cat": "people",
+   "src": "wiktionary:ពួកគេ",
+   "ipa": "/puəʔ ˈkei/"
+  },
+  {
+   "id": "teacher",
+   "km": "គ្រូ",
+   "rom": "kruu",
+   "en": "teacher",
+   "cat": "people",
+   "src": "wiktionary:គ្រូ",
+   "ipa": "/kruː/"
+  },
+  {
+   "id": "student",
+   "km": "សិស្ស",
+   "rom": "səh",
+   "en": "student",
+   "cat": "people",
+   "src": "wiktionary:សិស្ស",
+   "ipa": "/səh/"
+  },
+  {
+   "id": "friend",
+   "km": "មិត្តភក្តិ",
+   "rom": "mɨttaʼphĕək",
+   "en": "friend",
+   "cat": "people",
+   "src": "wiktionary:មិត្តភក្តិ",
+   "ipa": "/mɨt.taʔ.pʰĕəʔ/"
+  },
+  {
+   "id": "man",
+   "km": "ប្រុស",
+   "rom": "proh",
+   "en": "male, man",
+   "cat": "people",
+   "src": "wiktionary:ប្រុស",
+   "ipa": "/proh/"
+  },
+  {
+   "id": "woman",
+   "km": "ស្រី",
+   "rom": "srəy",
+   "en": "female, woman",
+   "cat": "people",
+   "src": "wiktionary:ស្រី",
+   "ipa": "/srəj/"
+  },
+  {
+   "id": "father",
+   "km": "ឪពុក",
+   "rom": "ʼəwpuk",
+   "en": "father",
+   "cat": "family",
+   "src": "wiktionary:ឪពុក",
+   "ipa": "/ʔəw.ˈpuk/",
+   "note": "Starts with the independent vowel ឪ."
+  },
+  {
+   "id": "mother",
+   "km": "ម្ដាយ",
+   "rom": "mdaay",
+   "en": "mother",
+   "cat": "family",
+   "src": "wiktionary:ម្ដាយ",
+   "ipa": "/mɗaːj/"
+  },
+  {
+   "id": "child",
+   "km": "កូន",
+   "rom": "koun",
+   "en": "child",
+   "cat": "family",
+   "src": "wiktionary:កូន",
+   "ipa": "/koun/"
+  },
+  {
+   "id": "husband",
+   "km": "ប្ដី",
+   "rom": "pdəy",
+   "en": "husband",
+   "cat": "family",
+   "src": "wiktionary:ប្ដី",
+   "ipa": "/pɗəj/"
+  },
+  {
+   "id": "wife",
+   "km": "ប្រពន្ធ",
+   "rom": "prɑpŭən",
+   "en": "wife",
+   "cat": "family",
+   "src": "wiktionary:ប្រពន្ធ",
+   "ipa": "/prɑ.ˈpŭən/"
+  },
+  {
+   "id": "family",
+   "km": "គ្រួសារ",
+   "rom": "kruəsaa",
+   "en": "family",
+   "cat": "family",
+   "src": "wiktionary:គ្រួសារ",
+   "ipa": "/kruə.ˈsaː/"
+  },
+  {
+   "id": "older-brother",
+   "km": "បងប្រុស",
+   "rom": "bɑɑng proh",
+   "en": "older brother",
+   "cat": "family",
+   "src": "wiktionary:បងប្រុស",
+   "ipa": "/ɓɑːŋ ˈproh/"
+  },
+  {
+   "id": "older-sister",
+   "km": "បងស្រី",
+   "rom": "bɑɑng srəy",
+   "en": "older sister",
+   "cat": "family",
+   "src": "wiktionary:បងស្រី",
+   "ipa": "/ɓɑːŋ ˈsrəj/"
+  },
+  {
+   "id": "younger-brother",
+   "km": "ប្អូនប្រុស",
+   "rom": "pʼoun proh",
+   "en": "younger brother",
+   "cat": "family",
+   "src": "wiktionary:ប្អូនប្រុស",
+   "ipa": "/pʔoun ˈproh/"
+  },
+  {
+   "id": "younger-sister",
+   "km": "ប្អូនស្រី",
+   "rom": "pʼoun srəy",
+   "en": "younger sister",
+   "cat": "family",
+   "src": "wiktionary:ប្អូនស្រី",
+   "ipa": "/pʔoun ˈsrəj/"
+  },
+  {
+   "id": "grandmother",
+   "km": "យាយ",
+   "rom": "yiəy",
+   "en": "grandmother",
+   "cat": "family",
+   "src": "wiktionary:យាយ",
+   "ipa": "/jiəj/"
+  },
+  {
+   "id": "grandfather",
+   "km": "តា",
+   "rom": "taa",
+   "en": "grandfather",
+   "cat": "family",
+   "src": "wiktionary:តា",
+   "ipa": "/taː/"
+  },
+  {
+   "id": "zero",
+   "km": "សូន្យ",
+   "rom": "soun",
+   "en": "zero",
+   "cat": "number",
+   "src": "wiktionary:សូន្យ",
+   "ipa": "/soun/",
+   "value": 0,
+   "digits": "០"
+  },
+  {
+   "id": "one",
+   "km": "មួយ",
+   "rom": "muəy",
+   "en": "one",
+   "cat": "number",
+   "src": "wiktionary:មួយ",
+   "ipa": "/muəj/",
+   "value": 1,
+   "digits": "១"
+  },
+  {
+   "id": "two",
+   "km": "ពីរ",
+   "rom": "pii",
+   "en": "two",
+   "cat": "number",
+   "src": "wiktionary:ពីរ",
+   "ipa": "/piː/",
+   "value": 2,
+   "digits": "២"
+  },
+  {
+   "id": "three",
+   "km": "បី",
+   "rom": "bəy",
+   "en": "three",
+   "cat": "number",
+   "src": "wiktionary:បី",
+   "ipa": "/ɓəj/",
+   "value": 3,
+   "digits": "៣"
+  },
+  {
+   "id": "four",
+   "km": "បួន",
+   "rom": "buən",
+   "en": "four",
+   "cat": "number",
+   "src": "wiktionary:បួន",
+   "ipa": "/ɓuən/",
+   "value": 4,
+   "digits": "៤"
+  },
+  {
+   "id": "five",
+   "km": "ប្រាំ",
+   "rom": "pram",
+   "en": "five",
+   "cat": "number",
+   "src": "wiktionary:ប្រាំ",
+   "ipa": "/pram/",
+   "value": 5,
+   "digits": "៥"
+  },
+  {
+   "id": "six",
+   "km": "ប្រាំមួយ",
+   "rom": "pram muəy",
+   "en": "six",
+   "cat": "number",
+   "src": "wiktionary:ប្រាំមួយ",
+   "ipa": "/pram ˈmuəj/",
+   "note": "Literally \"five one\": Khmer counts 6–9 as five plus one to four.",
+   "value": 6,
+   "digits": "៦"
+  },
+  {
+   "id": "seven",
+   "km": "ប្រាំពីរ",
+   "rom": "pram pii",
+   "en": "seven",
+   "cat": "number",
+   "src": "wiktionary:ប្រាំពីរ",
+   "ipa": "/pram ˈpiː/",
+   "note": "Literally \"five two\".",
+   "value": 7,
+   "digits": "៧"
+  },
+  {
+   "id": "eight",
+   "km": "ប្រាំបី",
+   "rom": "pram bəy",
+   "en": "eight",
+   "cat": "number",
+   "src": "wiktionary:ប្រាំបី",
+   "ipa": "/pram ˈɓəj/",
+   "note": "Literally \"five three\".",
+   "value": 8,
+   "digits": "៨"
+  },
+  {
+   "id": "nine",
+   "km": "ប្រាំបួន",
+   "rom": "pram buən",
+   "en": "nine",
+   "cat": "number",
+   "src": "wiktionary:ប្រាំបួន",
+   "ipa": "/pram ˈɓuən/",
+   "note": "Literally \"five four\".",
+   "value": 9,
+   "digits": "៩"
+  },
+  {
+   "id": "ten",
+   "km": "ដប់",
+   "rom": "dɑp",
+   "en": "ten",
+   "cat": "number",
+   "src": "wiktionary:ដប់",
+   "ipa": "/ɗɑp/",
+   "value": 10,
+   "digits": "១០"
+  },
+  {
+   "id": "twenty",
+   "km": "ម្ភៃ",
+   "rom": "mphɨy",
+   "en": "twenty",
+   "cat": "number",
+   "src": "wiktionary:ម្ភៃ",
+   "ipa": "/mpʰɨj/",
+   "value": 20,
+   "digits": "២០"
+  },
+  {
+   "id": "thirty",
+   "km": "សាមសិប",
+   "rom": "saam səp",
+   "en": "thirty",
+   "cat": "number",
+   "src": "wiktionary:សាមសិប",
+   "ipa": "/saːm ˈsəp/",
+   "value": 30,
+   "digits": "៣០"
+  },
+  {
+   "id": "forty",
+   "km": "សែសិប",
+   "rom": "sae səp",
+   "en": "forty",
+   "cat": "number",
+   "src": "wiktionary:សែសិប",
+   "ipa": "/sae ˈsəp/",
+   "value": 40,
+   "digits": "៤០"
+  },
+  {
+   "id": "fifty",
+   "km": "ហាសិប",
+   "rom": "haa səp",
+   "en": "fifty",
+   "cat": "number",
+   "src": "wiktionary:ហាសិប",
+   "ipa": "/haː ˈsəp/",
+   "value": 50,
+   "digits": "៥០"
+  },
+  {
+   "id": "sixty",
+   "km": "ហុកសិប",
+   "rom": "hok səp",
+   "en": "sixty",
+   "cat": "number",
+   "src": "wiktionary:ហុកសិប",
+   "ipa": "/hok ˈsəp/",
+   "value": 60,
+   "digits": "៦០"
+  },
+  {
+   "id": "seventy",
+   "km": "ចិតសិប",
+   "rom": "cət səp",
+   "en": "seventy",
+   "cat": "number",
+   "src": "wiktionary:ចិតសិប",
+   "ipa": "/cət ˈsəp/",
+   "value": 70,
+   "digits": "៧០"
+  },
+  {
+   "id": "eighty",
+   "km": "ប៉ែតសិប",
+   "rom": "paet səp",
+   "en": "eighty",
+   "cat": "number",
+   "src": "wiktionary:ប៉ែតសិប",
+   "ipa": "/paet ˈsəp/",
+   "value": 80,
+   "digits": "៨០"
+  },
+  {
+   "id": "ninety",
+   "km": "កៅសិប",
+   "rom": "kaw səp",
+   "en": "ninety",
+   "cat": "number",
+   "src": "wiktionary:កៅសិប",
+   "ipa": "/kaw ˈsəp/",
+   "value": 90,
+   "digits": "៩០"
+  },
+  {
+   "id": "hundred",
+   "km": "រយ",
+   "rom": "rɔɔy",
+   "en": "hundred",
+   "cat": "number",
+   "src": "wiktionary:រយ",
+   "ipa": "/rɔːj/"
+  },
+  {
+   "id": "thousand",
+   "km": "ពាន់",
+   "rom": "pŏən",
+   "en": "thousand",
+   "cat": "number",
+   "src": "wiktionary:ពាន់",
+   "ipa": "/pŏən/"
+  },
+  {
+   "id": "number",
+   "km": "លេខ",
+   "rom": "leek",
+   "en": "number",
+   "cat": "number",
+   "src": "wiktionary:លេខ",
+   "ipa": "/leːk/ ~ /leː.kʰaʔ./"
+  },
+  {
+   "id": "rice",
+   "km": "បាយ",
+   "rom": "baay",
+   "en": "cooked rice; meal",
+   "cat": "food",
+   "src": "wiktionary:បាយ",
+   "ipa": "/ɓaːj/"
+  },
+  {
+   "id": "water",
+   "km": "ទឹក",
+   "rom": "tɨk",
+   "en": "water",
+   "cat": "food",
+   "src": "wiktionary:ទឹក",
+   "ipa": "/tɨk/"
+  },
+  {
+   "id": "fish",
+   "km": "ត្រី",
+   "rom": "trəy",
+   "en": "fish",
+   "cat": "food",
+   "src": "wiktionary:ត្រី",
+   "ipa": "/trəj/"
+  },
+  {
+   "id": "meat",
+   "km": "សាច់",
+   "rom": "sac",
+   "en": "meat",
+   "cat": "food",
+   "src": "wiktionary:សាច់",
+   "ipa": "/sac/"
+  },
+  {
+   "id": "vegetable",
+   "km": "បន្លែ",
+   "rom": "bɑnlae",
+   "en": "vegetable",
+   "cat": "food",
+   "src": "wiktionary:បន្លែ",
+   "ipa": "/ɓɑn.ˈlae/"
+  },
+  {
+   "id": "fruit",
+   "km": "ផ្លែឈើ",
+   "rom": "phlae chəə",
+   "en": "fruit",
+   "cat": "food",
+   "src": "wiktionary:ផ្លែឈើ",
+   "ipa": "/pʰlae ˈcʰəː/"
+  },
+  {
+   "id": "food",
+   "km": "ម្ហូប",
+   "rom": "mhoup",
+   "en": "food, dish",
+   "cat": "food",
+   "src": "wiktionary:ម្ហូប",
+   "ipa": "/mhoup/"
+  },
+  {
+   "id": "chicken",
+   "km": "មាន់",
+   "rom": "mŏən",
+   "en": "chicken",
+   "cat": "food",
+   "src": "wiktionary:មាន់",
+   "ipa": "/mŏən/"
+  },
+  {
+   "id": "chicken-meat",
+   "km": "សាច់មាន់",
+   "rom": "sac mŏən",
+   "en": "chicken (meat)",
+   "cat": "food",
+   "src": "wiktionary:សាច់មាន់",
+   "ipa": "/sac ˈmŏən/"
+  },
+  {
+   "id": "beef",
+   "km": "សាច់គោ",
+   "rom": "sac koo",
+   "en": "beef",
+   "cat": "food",
+   "src": "wiktionary:សាច់គោ",
+   "ipa": "/sac ˈkoː/"
+  },
+  {
+   "id": "pork",
+   "km": "សាច់ជ្រូក",
+   "rom": "sac cruuk",
+   "en": "pork",
+   "cat": "food",
+   "src": "wiktionary:សាច់ជ្រូក",
+   "ipa": "/sac ˈcruːk/"
+  },
+  {
+   "id": "coffee",
+   "km": "កាហ្វេ",
+   "rom": "kaafee",
+   "en": "coffee",
+   "cat": "food",
+   "src": "wiktionary:កាហ្វេ",
+   "ipa": "/kaː.ˈfeː/"
+  },
+  {
+   "id": "tea",
+   "km": "តែ",
+   "rom": "tae",
+   "en": "tea",
+   "cat": "food",
+   "src": "wiktionary:តែ",
+   "ipa": "/tae/"
+  },
+  {
+   "id": "ice",
+   "km": "ទឹកកក",
+   "rom": "tɨk kɑɑk",
+   "en": "ice",
+   "cat": "food",
+   "src": "wiktionary:ទឹកកក",
+   "ipa": "/tɨk ˈkɑːʔ/",
+   "note": "Literally \"water + frozen\"."
+  },
+  {
+   "id": "milk",
+   "km": "ទឹកដោះគោ",
+   "rom": "tɨk dɑh koo",
+   "en": "cow's milk",
+   "cat": "food",
+   "src": "wiktionary:ទឹកដោះគោ",
+   "ipa": "/tɨk ɗɑh koː/"
+  },
+  {
+   "id": "banana",
+   "km": "ចេក",
+   "rom": "ceek",
+   "en": "banana",
+   "cat": "food",
+   "src": "wiktionary:ចេក",
+   "ipa": "/ceːk/"
+  },
+  {
+   "id": "mango",
+   "km": "ស្វាយ",
+   "rom": "svaay",
+   "en": "mango",
+   "cat": "food",
+   "src": "wiktionary:ស្វាយ",
+   "ipa": "/sʋaːj/"
+  },
+  {
+   "id": "coconut",
+   "km": "ដូង",
+   "rom": "doung",
+   "en": "coconut",
+   "cat": "food",
+   "src": "wiktionary:ដូង",
+   "ipa": "/ɗouŋ/"
+  },
+  {
+   "id": "orange",
+   "km": "ក្រូច",
+   "rom": "krouc",
+   "en": "orange (fruit)",
+   "cat": "food",
+   "src": "wiktionary:ក្រូច",
+   "ipa": "/krouc/"
+  },
+  {
+   "id": "bread",
+   "km": "នំបុ័ង",
+   "rom": "num pang",
+   "en": "bread",
+   "cat": "food",
+   "src": "wiktionary:នំបុ័ង",
+   "ipa": "/num ˈpaŋ/"
+  },
+  {
+   "id": "noodle-soup",
+   "km": "គុយទាវ",
+   "rom": "kuy tiəw",
+   "en": "kuyteav (rice noodle soup)",
+   "cat": "food",
+   "src": "wiktionary:គុយទាវ",
+   "ipa": "/kuj ˈtiəw/"
+  },
+  {
+   "id": "soup",
+   "km": "ស៊ុប",
+   "rom": "sup",
+   "en": "soup",
+   "cat": "food",
+   "src": "wiktionary:ស៊ុប",
+   "ipa": "/sup/"
+  },
+  {
+   "id": "delicious",
+   "km": "ឆ្ងាញ់",
+   "rom": "chngañ",
+   "en": "delicious",
+   "cat": "food",
+   "src": "wiktionary:ឆ្ងាញ់",
+   "ipa": "/cʰŋaɲ/"
+  },
+  {
+   "id": "sweet",
+   "km": "ផ្អែម",
+   "rom": "phʼaem",
+   "en": "sweet",
+   "cat": "food",
+   "src": "wiktionary:ផ្អែម",
+   "ipa": "/pʔaem/"
+  },
+  {
+   "id": "spicy",
+   "km": "ហឹរ",
+   "rom": "haə",
+   "en": "spicy",
+   "cat": "food",
+   "src": "wiktionary:ហឹរ",
+   "ipa": "/haə/ ~ /həl/"
+  },
+  {
+   "id": "hungry",
+   "km": "ឃ្លាន",
+   "rom": "khliən",
+   "en": "hungry",
+   "cat": "food",
+   "src": "wiktionary:ឃ្លាន",
+   "ipa": "/kʰliən/"
+  },
+  {
+   "id": "thirsty",
+   "km": "ស្រេក",
+   "rom": "sreek",
+   "en": "thirsty",
+   "cat": "food",
+   "src": "wiktionary:ស្រេក",
+   "ipa": "/sreːk/"
+  },
+  {
+   "id": "eat",
+   "km": "ញ៉ាំ",
+   "rom": "ñam",
+   "en": "to eat",
+   "cat": "food",
+   "src": "wiktionary:ញ៉ាំ",
+   "ipa": "/ɲam/",
+   "note": "Everyday, colloquial word."
+  },
+  {
+   "id": "drink",
+   "km": "ផឹក",
+   "rom": "phək",
+   "en": "to drink",
+   "cat": "food",
+   "src": "wiktionary:ផឹក",
+   "ipa": "/pʰək/"
+  },
+  {
+   "id": "restaurant",
+   "km": "ភោជនីយដ្ឋាន",
+   "rom": "phoocĕəʼniiyĕəʼthaan",
+   "en": "restaurant",
+   "cat": "food",
+   "src": "wiktionary:ភោជនីយដ្ឋាន",
+   "ipa": "/pʰoː.cĕəʔ.niː.jĕəʔ.tʰaːn/ ~ /pʰoː.cə.niː.jə.tʰaːn/"
+  },
+  {
+   "id": "market",
+   "km": "ផ្សារ",
+   "rom": "phsaa",
+   "en": "market",
+   "cat": "market",
+   "src": "wiktionary:ផ្សារ",
+   "ipa": "/pʰsaː/"
+  },
+  {
+   "id": "buy",
+   "km": "ទិញ",
+   "rom": "tɨñ",
+   "en": "to buy",
+   "cat": "market",
+   "src": "wiktionary:ទិញ",
+   "ipa": "/tɨɲ/"
+  },
+  {
+   "id": "sell",
+   "km": "លក់",
+   "rom": "lŭək",
+   "en": "to sell",
+   "cat": "market",
+   "src": "wiktionary:លក់",
+   "ipa": "/lŭəʔ/"
+  },
+  {
+   "id": "money",
+   "km": "លុយ",
+   "rom": "luy",
+   "en": "money",
+   "cat": "market",
+   "src": "wiktionary:លុយ",
+   "ipa": "/luj/"
+  },
+  {
+   "id": "riel",
+   "km": "រៀល",
+   "rom": "riəl",
+   "en": "riel (Cambodian currency)",
+   "cat": "market",
+   "src": "wiktionary:រៀល",
+   "ipa": "/riəl/"
+  },
+  {
+   "id": "dollar",
+   "km": "ដុល្លារ",
+   "rom": "dollaa",
+   "en": "dollar",
+   "cat": "market",
+   "src": "wiktionary:ដុល្លារ",
+   "ipa": "/ɗol.ˈlaː/"
+  },
+  {
+   "id": "price",
+   "km": "ថ្លៃ",
+   "rom": "thlay",
+   "en": "price; expensive",
+   "cat": "market",
+   "src": "wiktionary:ថ្លៃ",
+   "ipa": "/tʰlaj/"
+  },
+  {
+   "id": "cheap",
+   "km": "ថោក",
+   "rom": "thaok",
+   "en": "cheap",
+   "cat": "market",
+   "src": "wiktionary:ថោក",
+   "ipa": "/tʰaok/"
+  },
+  {
+   "id": "how-much",
+   "km": "ប៉ុន្មាន",
+   "rom": "ponmaan",
+   "en": "how much? how many?",
+   "cat": "market",
+   "src": "wiktionary:ប៉ុន្មាន",
+   "ipa": "/pon.ˈmaːn/"
+  },
+  {
+   "id": "day",
+   "km": "ថ្ងៃ",
+   "rom": "thngay",
+   "en": "day; sun",
+   "cat": "time",
+   "src": "wiktionary:ថ្ងៃ",
+   "ipa": "/tʰŋaj/"
+  },
+  {
+   "id": "today",
+   "km": "ថ្ងៃនេះ",
+   "rom": "thngay nih",
+   "en": "today",
+   "cat": "time",
+   "src": "wiktionary:ថ្ងៃនេះ",
+   "ipa": "/tʰŋaj ˈnih/",
+   "note": "Literally \"day this\"."
+  },
+  {
+   "id": "yesterday",
+   "km": "ម្សិលមិញ",
+   "rom": "msəl mɨñ",
+   "en": "yesterday",
+   "cat": "time",
+   "src": "wiktionary:ម្សិលមិញ",
+   "ipa": "/msəl ˈmɨɲ/"
+  },
+  {
+   "id": "tomorrow",
+   "km": "ស្អែក",
+   "rom": "sʼaek",
+   "en": "tomorrow",
+   "cat": "time",
+   "src": "wiktionary:ស្អែក",
+   "ipa": "/sʔaek/"
+  },
+  {
+   "id": "now",
+   "km": "ឥឡូវ",
+   "rom": "ʼəyləw",
+   "en": "now",
+   "cat": "time",
+   "src": "wiktionary:ឥឡូវ",
+   "ipa": "/ʔəj.ˈləw/",
+   "note": "Starts with the independent vowel ឥ."
+  },
+  {
+   "id": "morning",
+   "km": "ព្រឹក",
+   "rom": "prɨk",
+   "en": "morning",
+   "cat": "time",
+   "src": "wiktionary:ព្រឹក",
+   "ipa": "/prɨk/"
+  },
+  {
+   "id": "evening",
+   "km": "ល្ងាច",
+   "rom": "lngiəc",
+   "en": "evening",
+   "cat": "time",
+   "src": "wiktionary:ល្ងាច",
+   "ipa": "/lŋiəc/"
+  },
+  {
+   "id": "night",
+   "km": "យប់",
+   "rom": "yup",
+   "en": "night",
+   "cat": "time",
+   "src": "wiktionary:យប់",
+   "ipa": "/jup/"
+  },
+  {
+   "id": "hour",
+   "km": "ម៉ោង",
+   "rom": "maong",
+   "en": "hour; o'clock",
+   "cat": "time",
+   "src": "wiktionary:ម៉ោង",
+   "ipa": "/maoŋ/"
+  },
+  {
+   "id": "minute",
+   "km": "នាទី",
+   "rom": "niətii",
+   "en": "minute",
+   "cat": "time",
+   "src": "wiktionary:នាទី",
+   "ipa": "/niə.ˈtiː/"
+  },
+  {
+   "id": "week",
+   "km": "សប្តាហ៍",
+   "rom": "sappədaa",
+   "en": "week",
+   "cat": "time",
+   "src": "wiktionary:សប្តាហ៍",
+   "ipa": "/sap.pə.ɗaː/"
+  },
+  {
+   "id": "month",
+   "km": "ខែ",
+   "rom": "khae",
+   "en": "month; moon",
+   "cat": "time",
+   "src": "wiktionary:ខែ",
+   "ipa": "/kʰae/"
+  },
+  {
+   "id": "year",
+   "km": "ឆ្នាំ",
+   "rom": "chnam",
+   "en": "year",
+   "cat": "time",
+   "src": "wiktionary:ឆ្នាំ",
+   "ipa": "/cʰnam/"
+  },
+  {
+   "id": "age",
+   "km": "អាយុ",
+   "rom": "ʼaayuʼ",
+   "en": "age; to be ... years old",
+   "cat": "time",
+   "src": "wiktionary:អាយុ",
+   "ipa": "/ʔaː.ˈjuʔ/"
+  },
+  {
+   "id": "monday",
+   "km": "ថ្ងៃច័ន្ទ",
+   "rom": "thngay can",
+   "en": "Monday",
+   "cat": "days",
+   "src": "wiktionary:ថ្ងៃច័ន្ទ",
+   "ipa": "/tʰŋaj ˈcan/"
+  },
+  {
+   "id": "tuesday",
+   "km": "ថ្ងៃអង្គារ",
+   "rom": "thngay ʼɑngkiə",
+   "en": "Tuesday",
+   "cat": "days",
+   "src": "wiktionary:ថ្ងៃអង្គារ",
+   "ipa": "/tʰŋaj ʔɑŋ.ˈkiə/"
+  },
+  {
+   "id": "wednesday",
+   "km": "ថ្ងៃពុធ",
+   "rom": "thngay put",
+   "en": "Wednesday",
+   "cat": "days",
+   "src": "wiktionary:ថ្ងៃពុធ",
+   "ipa": "/tʰŋaj ˈput/"
+  },
+  {
+   "id": "thursday",
+   "km": "ថ្ងៃព្រហស្បតិ៍",
+   "rom": "thngay prɔhŏəh",
+   "en": "Thursday",
+   "cat": "days",
+   "src": "wiktionary:ថ្ងៃព្រហស្បតិ៍",
+   "ipa": "/tʰŋaj prɔ.ˈhŏəh/"
+  },
+  {
+   "id": "friday",
+   "km": "ថ្ងៃសុក្រ",
+   "rom": "thngay sok",
+   "en": "Friday",
+   "cat": "days",
+   "src": "wiktionary:ថ្ងៃសុក្រ",
+   "ipa": "/tʰŋaj ˈsok/"
+  },
+  {
+   "id": "saturday",
+   "km": "ថ្ងៃសៅរ៍",
+   "rom": "thngay saw",
+   "en": "Saturday",
+   "cat": "days",
+   "src": "wiktionary:ថ្ងៃសៅរ៍",
+   "ipa": "/tʰŋaj ˈsaw/"
+  },
+  {
+   "id": "sunday",
+   "km": "ថ្ងៃអាទិត្យ",
+   "rom": "thngay ʼaatɨt",
+   "en": "Sunday",
+   "cat": "days",
+   "src": "wiktionary:ថ្ងៃអាទិត្យ",
+   "ipa": "/tʰŋaj ʔaː.ˈtɨt/"
+  },
+  {
+   "id": "left",
+   "km": "ឆ្វេង",
+   "rom": "chveeng",
+   "en": "left",
+   "cat": "directions",
+   "src": "wiktionary:ឆ្វេង",
+   "ipa": "/cʰʋeːŋ/"
+  },
+  {
+   "id": "right",
+   "km": "ស្ដាំ",
+   "rom": "sdam",
+   "en": "right",
+   "cat": "directions",
+   "src": "wiktionary:ស្ដាំ",
+   "ipa": "/sɗam/"
+  },
+  {
+   "id": "straight",
+   "km": "ត្រង់",
+   "rom": "trɑng",
+   "en": "straight",
+   "cat": "directions",
+   "src": "wiktionary:ត្រង់",
+   "ipa": "/trɑŋ/"
+  },
+  {
+   "id": "stop",
+   "km": "ឈប់",
+   "rom": "chup",
+   "en": "to stop",
+   "cat": "directions",
+   "src": "wiktionary:ឈប់",
+   "ipa": "/cʰup/"
+  },
+  {
+   "id": "near",
+   "km": "ជិត",
+   "rom": "cɨt",
+   "en": "near",
+   "cat": "directions",
+   "src": "wiktionary:ជិត",
+   "ipa": "/cɨt/"
+  },
+  {
+   "id": "far",
+   "km": "ឆ្ងាយ",
+   "rom": "chngaay",
+   "en": "far",
+   "cat": "directions",
+   "src": "wiktionary:ឆ្ងាយ",
+   "ipa": "/cʰŋaːj/"
+  },
+  {
+   "id": "road",
+   "km": "ផ្លូវ",
+   "rom": "phləw",
+   "en": "road, street",
+   "cat": "directions",
+   "src": "wiktionary:ផ្លូវ",
+   "ipa": "/pʰləw/"
+  },
+  {
+   "id": "return",
+   "km": "ត្រឡប់",
+   "rom": "trɑlɑp",
+   "en": "to return, go back",
+   "cat": "directions",
+   "src": "wiktionary:ត្រឡប់",
+   "ipa": "/trɑ.ˈlɑp/"
+  },
+  {
+   "id": "wait",
+   "km": "រង់ចាំ",
+   "rom": "rŭəng cam",
+   "en": "to wait",
+   "cat": "directions",
+   "src": "wiktionary:រង់ចាំ",
+   "ipa": "/rŭəŋ ˈcam/"
+  },
+  {
+   "id": "at",
+   "km": "នៅ",
+   "rom": "nɨw",
+   "en": "to be at; at; to live",
+   "cat": "directions",
+   "src": "wiktionary:នៅ",
+   "ipa": "/nɨw/"
+  },
+  {
+   "id": "where",
+   "km": "ឯណា",
+   "rom": "ʼae naa",
+   "en": "where",
+   "cat": "question",
+   "src": "wiktionary:ឯណា",
+   "ipa": "/ʔae ˈnaː/"
+  },
+  {
+   "id": "which",
+   "km": "ណា",
+   "rom": "naa",
+   "en": "where? which?",
+   "cat": "question",
+   "src": "wiktionary:ណា",
+   "ipa": "/naː/"
+  },
+  {
+   "id": "from",
+   "km": "ពី",
+   "rom": "pii",
+   "en": "from",
+   "cat": "directions",
+   "src": "wiktionary:ពី",
+   "ipa": "/piː/"
+  },
+  {
+   "id": "house",
+   "km": "ផ្ទះ",
+   "rom": "phtĕəh",
+   "en": "house, home",
+   "cat": "places",
+   "src": "wiktionary:ផ្ទះ",
+   "ipa": "/pʰtĕəh/"
+  },
+  {
+   "id": "hotel",
+   "km": "សណ្ឋាគារ",
+   "rom": "sɑnthaakiə",
+   "en": "hotel",
+   "cat": "places",
+   "src": "wiktionary:សណ្ឋាគារ",
+   "ipa": "/sɑn.tʰaː.kiə/"
+  },
+  {
+   "id": "toilet",
+   "km": "បង្គន់",
+   "rom": "bɑngkŭən",
+   "en": "toilet",
+   "cat": "places",
+   "src": "wiktionary:បង្គន់",
+   "ipa": "/ɓɑŋ.ˈkŭən/"
+  },
+  {
+   "id": "school",
+   "km": "សាលារៀន",
+   "rom": "saalaa riən",
+   "en": "school",
+   "cat": "places",
+   "src": "wiktionary:សាលារៀន",
+   "ipa": "/saː.ˈlaː riən/"
+  },
+  {
+   "id": "pagoda",
+   "km": "វត្ត",
+   "rom": "vŏət",
+   "en": "wat, pagoda, Buddhist temple",
+   "cat": "places",
+   "src": "wiktionary:វត្ត",
+   "ipa": "/ʋŏət/"
+  },
+  {
+   "id": "city",
+   "km": "ទីក្រុង",
+   "rom": "tii krong",
+   "en": "city",
+   "cat": "places",
+   "src": "wiktionary:ទីក្រុង",
+   "ipa": "/tiː ˈkroŋ/"
+  },
+  {
+   "id": "phnom-penh",
+   "km": "ភ្នំពេញ",
+   "rom": "phnum pɨñ",
+   "en": "Phnom Penh",
+   "cat": "places",
+   "src": "wiktionary:ភ្នំពេញ",
+   "ipa": "/pʰnum ˈpɨɲ/"
+  },
+  {
+   "id": "siem-reap",
+   "km": "សៀមរាប",
+   "rom": "siəm riəp",
+   "en": "Siem Reap",
+   "cat": "places",
+   "src": "wiktionary:សៀមរាប",
+   "ipa": "/siəm ˈriəp/"
+  },
+  {
+   "id": "angkor-wat",
+   "km": "អង្គរវត្ត",
+   "rom": "ʼɑngkɔɔ vŏət",
+   "en": "Angkor Wat",
+   "cat": "places",
+   "src": "wiktionary:អង្គរវត្ត",
+   "ipa": "/ʔɑŋ.ˈkɔː ʋŏət/"
+  },
+  {
+   "id": "cambodia",
+   "km": "កម្ពុជា",
+   "rom": "kampuciə",
+   "en": "Cambodia",
+   "cat": "places",
+   "src": "wiktionary:កម្ពុជា",
+   "ipa": "/kam.pu.ciə/"
+  },
+  {
+   "id": "car",
+   "km": "ឡាន",
+   "rom": "laan",
+   "en": "car",
+   "cat": "transport",
+   "src": "wiktionary:ឡាន",
+   "ipa": "/laːn/"
+  },
+  {
+   "id": "motorbike",
+   "km": "ម៉ូតូ",
+   "rom": "moutou",
+   "en": "motorbike",
+   "cat": "transport",
+   "src": "wiktionary:ម៉ូតូ",
+   "ipa": "/mou.ˈtou/"
+  },
+  {
+   "id": "bicycle",
+   "km": "កង់",
+   "rom": "kɑng",
+   "en": "bicycle; wheel",
+   "cat": "transport",
+   "src": "wiktionary:កង់",
+   "ipa": "/kɑŋ/"
+  },
+  {
+   "id": "bus",
+   "km": "ឡានក្រុង",
+   "rom": "laan krong",
+   "en": "bus",
+   "cat": "transport",
+   "src": "wiktionary:ឡានក្រុង",
+   "ipa": "/laːn ˈkroŋ/",
+   "note": "Literally \"car + city\"."
+  },
+  {
+   "id": "airplane",
+   "km": "យន្តហោះ",
+   "rom": "yŭən hɑh",
+   "en": "airplane",
+   "cat": "transport",
+   "src": "wiktionary:យន្តហោះ",
+   "ipa": "/jŭən ˈhɑh/"
+  },
+  {
+   "id": "boat",
+   "km": "ទូក",
+   "rom": "tuuk",
+   "en": "boat",
+   "cat": "transport",
+   "src": "wiktionary:ទូក",
+   "ipa": "/tuːk/"
+  },
+  {
+   "id": "go",
+   "km": "ទៅ",
+   "rom": "tɨw",
+   "en": "to go",
+   "cat": "transport",
+   "src": "wiktionary:ទៅ",
+   "ipa": "/tɨw/ ~ /toh/"
+  },
+  {
+   "id": "come",
+   "km": "មក",
+   "rom": "mɔɔk",
+   "en": "to come",
+   "cat": "transport",
+   "src": "wiktionary:មក",
+   "ipa": "/mɔːʔ/"
+  },
+  {
+   "id": "walk",
+   "km": "ដើរ",
+   "rom": "daə",
+   "en": "to walk",
+   "cat": "transport",
+   "src": "wiktionary:ដើរ",
+   "ipa": "/ɗaə/"
+  },
+  {
+   "id": "want",
+   "km": "ចង់",
+   "rom": "cɑng",
+   "en": "to want",
+   "cat": "verb",
+   "src": "wiktionary:ចង់",
+   "ipa": "/cɑŋ/"
+  },
+  {
+   "id": "like",
+   "km": "ចូលចិត្ត",
+   "rom": "coul cət",
+   "en": "to like",
+   "cat": "verb",
+   "src": "wiktionary:ចូលចិត្ត",
+   "ipa": "/coul ˈcət/ ~ /coul cət.ˈtaʔ/ ~ /coul cət.ˈtraʔ/"
+  },
+  {
+   "id": "love",
+   "km": "ស្រឡាញ់",
+   "rom": "srɑlañ",
+   "en": "to love",
+   "cat": "verb",
+   "src": "wiktionary:ស្រឡាញ់",
+   "ipa": "/srɑ.ˈlaɲ/"
+  },
+  {
+   "id": "know",
+   "km": "ដឹង",
+   "rom": "dəng",
+   "en": "to know (a fact)",
+   "cat": "verb",
+   "src": "wiktionary:ដឹង",
+   "ipa": "/ɗəŋ/"
+  },
+  {
+   "id": "know-how",
+   "km": "ចេះ",
+   "rom": "ceh",
+   "en": "to know how to, can",
+   "cat": "verb",
+   "src": "wiktionary:ចេះ",
+   "ipa": "/ceh/"
+  },
+  {
+   "id": "understand",
+   "km": "យល់",
+   "rom": "yŭəl",
+   "en": "to understand",
+   "cat": "verb",
+   "src": "wiktionary:យល់",
+   "ipa": "/jŭəl/"
+  },
+  {
+   "id": "speak",
+   "km": "និយាយ",
+   "rom": "niyiəy",
+   "en": "to speak",
+   "cat": "verb",
+   "src": "wiktionary:និយាយ",
+   "ipa": "/ni.ˈjiəj/"
+  },
+  {
+   "id": "study",
+   "km": "រៀន",
+   "rom": "riən",
+   "en": "to study, learn",
+   "cat": "verb",
+   "src": "wiktionary:រៀន",
+   "ipa": "/riən/"
+  },
+  {
+   "id": "work",
+   "km": "ធ្វើការ",
+   "rom": "thvəə kaa",
+   "en": "to work",
+   "cat": "verb",
+   "src": "wiktionary:ធ្វើការ",
+   "ipa": "/tʰʋəː ˈkaː/"
+  },
+  {
+   "id": "sleep",
+   "km": "ដេក",
+   "rom": "deek",
+   "en": "to sleep, lie down",
+   "cat": "verb",
+   "src": "wiktionary:ដេក",
+   "ipa": "/ɗeːk/"
+  },
+  {
+   "id": "look",
+   "km": "មើល",
+   "rom": "məəl",
+   "en": "to look, watch",
+   "cat": "verb",
+   "src": "wiktionary:មើល",
+   "ipa": "/məːl/"
+  },
+  {
+   "id": "listen",
+   "km": "ស្ដាប់",
+   "rom": "sdap",
+   "en": "to listen; to understand (speech)",
+   "cat": "verb",
+   "src": "wiktionary:ស្ដាប់",
+   "ipa": "/sɗap/"
+  },
+  {
+   "id": "write",
+   "km": "សរសេរ",
+   "rom": "sɑsee",
+   "en": "to write",
+   "cat": "verb",
+   "src": "wiktionary:សរសេរ",
+   "ipa": "/sɑ.ˈseː/"
+  },
+  {
+   "id": "read",
+   "km": "អាន",
+   "rom": "ʼaan",
+   "en": "to read (aloud)",
+   "cat": "verb",
+   "src": "wiktionary:អាន",
+   "ipa": "/ʔaːn/"
+  },
+  {
+   "id": "help",
+   "km": "ជួយ",
+   "rom": "cuəy",
+   "en": "to help",
+   "cat": "verb",
+   "src": "wiktionary:ជួយ",
+   "ipa": "/cuəj/"
+  },
+  {
+   "id": "have",
+   "km": "មាន",
+   "rom": "miən",
+   "en": "to have; there is",
+   "cat": "verb",
+   "src": "wiktionary:មាន",
+   "ipa": "/miən/"
+  },
+  {
+   "id": "be",
+   "km": "ជា",
+   "rom": "ciə",
+   "en": "to be; to be well",
+   "cat": "verb",
+   "src": "wiktionary:ជា",
+   "ipa": "/ciə/"
+  },
+  {
+   "id": "believe",
+   "km": "ជឿ",
+   "rom": "cɨə",
+   "en": "to believe",
+   "cat": "verb",
+   "src": "wiktionary:ជឿ",
+   "ipa": "/cɨə/"
+  },
+  {
+   "id": "play",
+   "km": "លេង",
+   "rom": "leeng",
+   "en": "to play, have fun",
+   "cat": "verb",
+   "src": "wiktionary:លេង",
+   "ipa": "/leːŋ/ ~ /leiŋ/"
+  },
+  {
+   "id": "can",
+   "km": "បាន",
+   "rom": "baan",
+   "en": "can; to get; did",
+   "cat": "verb",
+   "src": "wiktionary:បាន",
+   "ipa": "/ɓaːn/"
+  },
+  {
+   "id": "good",
+   "km": "ល្អ",
+   "rom": "lʼɑɑ",
+   "en": "good",
+   "cat": "adj",
+   "src": "wiktionary:ល្អ",
+   "ipa": "/lʔɑː/"
+  },
+  {
+   "id": "big",
+   "km": "ធំ",
+   "rom": "thom",
+   "en": "big",
+   "cat": "adj",
+   "src": "wiktionary:ធំ",
+   "ipa": "/tʰom/"
+  },
+  {
+   "id": "small",
+   "km": "តូច",
+   "rom": "touc",
+   "en": "small",
+   "cat": "adj",
+   "src": "wiktionary:តូច",
+   "ipa": "/touc/ ~ /tuːc/"
+  },
+  {
+   "id": "beautiful",
+   "km": "ស្អាត",
+   "rom": "sʼaat",
+   "en": "beautiful; clean",
+   "cat": "adj",
+   "src": "wiktionary:ស្អាត",
+   "ipa": "/sʔaːt/"
+  },
+  {
+   "id": "hot",
+   "km": "ក្ដៅ",
+   "rom": "kdaw",
+   "en": "hot",
+   "cat": "adj",
+   "src": "wiktionary:ក្ដៅ",
+   "ipa": "/kɗaw/"
+  },
+  {
+   "id": "cold",
+   "km": "ត្រជាក់",
+   "rom": "trɑcĕək",
+   "en": "cold",
+   "cat": "adj",
+   "src": "wiktionary:ត្រជាក់",
+   "ipa": "/trɑ.ˈcĕəʔ/"
+  },
+  {
+   "id": "many",
+   "km": "ច្រើន",
+   "rom": "craən",
+   "en": "many, much",
+   "cat": "adj",
+   "src": "wiktionary:ច្រើន",
+   "ipa": "/craən/"
+  },
+  {
+   "id": "few",
+   "km": "តិច",
+   "rom": "təc",
+   "en": "few, a little",
+   "cat": "adj",
+   "src": "wiktionary:តិច",
+   "ipa": "/təc/"
+  },
+  {
+   "id": "very",
+   "km": "ណាស់",
+   "rom": "nah",
+   "en": "very",
+   "cat": "adj",
+   "src": "wiktionary:ណាស់",
+   "ipa": "/nah/",
+   "note": "Comes after the word it intensifies: ល្អណាស់ = very good."
+  },
+  {
+   "id": "sick",
+   "km": "ឈឺ",
+   "rom": "chɨɨ",
+   "en": "sick; to hurt",
+   "cat": "adj",
+   "src": "wiktionary:ឈឺ",
+   "ipa": "/cʰɨː/"
+  },
+  {
+   "id": "a-little",
+   "km": "បន្តិច",
+   "rom": "bɑntəc",
+   "en": "a little bit",
+   "cat": "adj",
+   "src": "wiktionary:បន្តិច",
+   "ipa": "/ɓɑn.ˈtəc/"
+  },
+  {
+   "id": "again",
+   "km": "ម្ដងទៀត",
+   "rom": "mdɑɑng tiət",
+   "en": "again, once more",
+   "cat": "adj",
+   "src": "wiktionary:ម្ដងទៀត",
+   "ipa": "/mɗɑːŋ ˈtiət/"
+  },
+  {
+   "id": "what",
+   "km": "អ្វី",
+   "rom": "ʼvəy",
+   "en": "what",
+   "cat": "question",
+   "src": "wiktionary:អ្វី",
+   "ipa": "/ʔʋəj/"
+  },
+  {
+   "id": "what-colloquial",
+   "km": "អី",
+   "rom": "ʼəy",
+   "en": "what (casual)",
+   "cat": "question",
+   "src": "wiktionary:អី",
+   "ipa": "/ʔəj/"
+  },
+  {
+   "id": "who",
+   "km": "នរណា",
+   "rom": "nɔɔ naa",
+   "en": "who",
+   "cat": "question",
+   "src": "wiktionary:នរណា",
+   "ipa": "/nɔː ˈnaː/"
+  },
+  {
+   "id": "when",
+   "km": "ពេលណា",
+   "rom": "peil naa",
+   "en": "when",
+   "cat": "question",
+   "src": "wiktionary:ពេលណា",
+   "ipa": "/peil ˈnaː/"
+  },
+  {
+   "id": "why",
+   "km": "ហេតុអ្វី",
+   "rom": "haet ʼaʼvəy",
+   "en": "why",
+   "cat": "question",
+   "src": "wiktionary:ហេតុអ្វី",
+   "ipa": "/haet ʔaʔ.ˈʋəj/"
+  },
+  {
+   "id": "question-marker",
+   "km": "តើ",
+   "rom": "taə",
+   "en": "question marker (polite, at the start)",
+   "cat": "question",
+   "src": "wiktionary:តើ",
+   "ipa": "/taə/"
+  },
+  {
+   "id": "this",
+   "km": "នេះ",
+   "rom": "nih",
+   "en": "this",
+   "cat": "question",
+   "src": "wiktionary:នេះ",
+   "ipa": "/nih/"
+  },
+  {
+   "id": "that",
+   "km": "នោះ",
+   "rom": "nuh",
+   "en": "that",
+   "cat": "question",
+   "src": "wiktionary:នោះ",
+   "ipa": "/nuh/"
+  },
+  {
+   "id": "not",
+   "km": "មិន",
+   "rom": "mɨn",
+   "en": "not (before the verb)",
+   "cat": "question",
+   "src": "wiktionary:មិន",
+   "ipa": "/mɨn/",
+   "note": "Negative sentences wrap the verb: មិន + verb + ទេ."
+  },
+  {
+   "id": "not-colloquial",
+   "km": "អត់",
+   "rom": "ʼɑt",
+   "en": "not, no (casual)",
+   "cat": "question",
+   "src": "wiktionary:អត់",
+   "ipa": "/ʔɑt/"
+  },
+  {
+   "id": "already",
+   "km": "ហើយ",
+   "rom": "haəy",
+   "en": "already; and then",
+   "cat": "question",
+   "src": "wiktionary:ហើយ",
+   "ipa": "/haəj/"
+  },
+  {
+   "id": "will",
+   "km": "នឹង",
+   "rom": "nɨng",
+   "en": "will (future)",
+   "cat": "question",
+   "src": "wiktionary:នឹង",
+   "ipa": "/nɨŋ/"
+  },
+  {
+   "id": "some",
+   "km": "ខ្លះ",
+   "rom": "khlah",
+   "en": "some",
+   "cat": "question",
+   "src": "wiktionary:ខ្លះ",
+   "ipa": "/kʰlah/"
+  },
+  {
+   "id": "khmer",
+   "km": "ខ្មែរ",
+   "rom": "khmae",
+   "en": "Khmer, Cambodian",
+   "cat": "language",
+   "src": "wiktionary:ខ្មែរ",
+   "ipa": "/kʰmae/"
+  },
+  {
+   "id": "language",
+   "km": "ភាសា",
+   "rom": "phiəsaa",
+   "en": "language",
+   "cat": "language",
+   "src": "wiktionary:ភាសា",
+   "ipa": "/pʰiə.ˈsaː/"
+  },
+  {
+   "id": "english",
+   "km": "អង់គ្លេស",
+   "rom": "ʼɑngkleih",
+   "en": "English; England",
+   "cat": "language",
+   "src": "wiktionary:អង់គ្លេស",
+   "ipa": "/ʔɑŋ.ˈkʰleih/"
+  },
+  {
+   "id": "letter",
+   "km": "អក្សរ",
+   "rom": "ʼaksɑɑ",
+   "en": "letter, script, alphabet",
+   "cat": "language",
+   "src": "wiktionary:អក្សរ",
+   "ipa": "/ʔak.ˈsɑː/"
+  },
+  {
+   "id": "dog",
+   "km": "ឆ្កែ",
+   "rom": "chkae",
+   "en": "dog",
+   "cat": "animal",
+   "src": "wiktionary:ឆ្កែ",
+   "ipa": "/cʰkae/"
+  },
+  {
+   "id": "cat",
+   "km": "ឆ្មា",
+   "rom": "chmaa",
+   "en": "cat",
+   "cat": "animal",
+   "src": "wiktionary:ឆ្មា",
+   "ipa": "/cʰmaː/"
+  },
+  {
+   "id": "eleven",
+   "km": "ដប់មួយ",
+   "rom": "dɑp muəy",
+   "en": "eleven",
+   "cat": "number",
+   "value": 11,
+   "digits": "១១",
+   "src": "composed: Wikipedia Khmer language § Numerals (compounding); parts from Wiktionary",
+   "note": "ដប់ dɑp + មួយ muəy"
+  },
+  {
+   "id": "fifteen",
+   "km": "ដប់ប្រាំ",
+   "rom": "dɑp pram",
+   "en": "fifteen",
+   "cat": "number",
+   "value": 15,
+   "digits": "១៥",
+   "src": "composed: Wikipedia Khmer language § Numerals (compounding); parts from Wiktionary",
+   "note": "ដប់ dɑp + ប្រាំ pram"
+  },
+  {
+   "id": "twenty-one",
+   "km": "ម្ភៃមួយ",
+   "rom": "mphɨy muəy",
+   "en": "twenty-one",
+   "cat": "number",
+   "value": 21,
+   "digits": "២១",
+   "src": "composed: Wikipedia Khmer language § Numerals (compounding); parts from Wiktionary",
+   "note": "ម្ភៃ mphɨy + មួយ muəy"
+  },
+  {
+   "id": "one-hundred",
+   "km": "មួយរយ",
+   "rom": "muəy rɔɔy",
+   "en": "one hundred",
+   "cat": "number",
+   "value": 100,
+   "digits": "១០០",
+   "src": "composed: Wikipedia Khmer language § Numerals (compounding); parts from Wiktionary",
+   "note": "មួយ muəy + រយ rɔɔy"
+  },
+  {
+   "id": "one-thousand",
+   "km": "មួយពាន់",
+   "rom": "muəy pŏən",
+   "en": "one thousand",
+   "cat": "number",
+   "value": 1000,
+   "digits": "១០០០",
+   "src": "composed: Wikipedia Khmer language § Numerals (compounding); parts from Wiktionary",
+   "note": "មួយ muəy + ពាន់ pŏən"
+  }
+ ]
+}

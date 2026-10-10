@@ -1,0 +1,138 @@
+[
+ {
+  "vowel": "(none)",
+  "example": "អ",
+  "ipa_a": "[ɑː], [ɒː]",
+  "ipa_o": "[ɔː]",
+  "ungegn_a": "â",
+  "ungegn_o": "ô"
+ },
+ {
+  "vowel": "ា",
+  "example": "អា",
+  "ipa_a": "[aː]",
+  "ipa_o": "[iːə]",
+  "ungegn_a": "a",
+  "ungegn_o": "éa"
+ },
+ {
+  "vowel": "ិ",
+  "example": "អិ",
+  "ipa_a": "[ə], [e]",
+  "ipa_o": "[ɨ], [i]",
+  "ungegn_a": "ĕ",
+  "ungegn_o": "ĭ"
+ },
+ {
+  "vowel": "ី",
+  "example": "អី",
+  "ipa_a": "[ej]",
+  "ipa_o": "[iː]",
+  "ungegn_a": "ei",
+  "ungegn_o": "i"
+ },
+ {
+  "vowel": "ឹ",
+  "example": "អឹ",
+  "ipa_a": "[ə]",
+  "ipa_o": "[ɨ]",
+  "ungegn_a": "œ̆",
+  "ungegn_o": "œ̆"
+ },
+ {
+  "vowel": "ឺ",
+  "example": "អឺ",
+  "ipa_a": "[əː]",
+  "ipa_o": "[ɨː]",
+  "ungegn_a": "œ",
+  "ungegn_o": "œ"
+ },
+ {
+  "vowel": "ុ",
+  "example": "អុ",
+  "ipa_a": "[o]",
+  "ipa_o": "[u]",
+  "ungegn_a": "ŏ",
+  "ungegn_o": "ŭ"
+ },
+ {
+  "vowel": "ូ",
+  "example": "អូ",
+  "ipa_a": "[oː]",
+  "ipa_o": "[uː]",
+  "ungegn_a": "o",
+  "ungegn_o": "u"
+ },
+ {
+  "vowel": "ួ",
+  "example": "អួ",
+  "ipa_a": "[uə]",
+  "ipa_o": "[uə]",
+  "ungegn_a": "uŏ",
+  "ungegn_o": "uŏ"
+ },
+ {
+  "vowel": "ើ",
+  "example": "អើ",
+  "ipa_a": "[aə]",
+  "ipa_o": "[əː]",
+  "ungegn_a": "aeu",
+  "ungegn_o": "eu"
+ },
+ {
+  "vowel": "ឿ",
+  "example": "អឿ",
+  "ipa_a": "[ɨə]",
+  "ipa_o": "[ɨə]",
+  "ungegn_a": "œă",
+  "ungegn_o": "œă"
+ },
+ {
+  "vowel": "ៀ",
+  "example": "អៀ",
+  "ipa_a": "[iə]",
+  "ipa_o": "[iə]",
+  "ungegn_a": "iĕ",
+  "ungegn_o": "iĕ"
+ },
+ {
+  "vowel": "េ",
+  "example": "អេ",
+  "ipa_a": "[eː]",
+  "ipa_o": "[eː]",
+  "ungegn_a": "é",
+  "ungegn_o": "é"
+ },
+ {
+  "vowel": "ែ",
+  "example": "អែ",
+  "ipa_a": "[ae]",
+  "ipa_o": "[ɛː]",
+  "ungegn_a": "ê",
+  "ungegn_o": "ê"
+ },
+ {
+  "vowel": "ៃ",
+  "example": "អៃ",
+  "ipa_a": "[ej]",
+  "ipa_o": "[aj]",
+  "ungegn_a": "ai",
+  "ungegn_o": "ey"
+ },
+ {
+  "vowel": "ោ",
+  "example": "អោ",
+  "ipa_a": "[ao]",
+  "ipa_o": "[oː]",
+  "ungegn_a": "aô",
+  "ungegn_o": "oŭ"
+ },
+ {
+  "vowel": "ៅ",
+  "example": "អៅ",
+  "ipa_a": "[aɨ]",
+  "ipa_o": "[əɨ]",
+  "ungegn_a": "au",
+  "ungegn_o": "ŏu"
+ }
+]

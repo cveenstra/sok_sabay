@@ -1,0 +1,352 @@
+[
+ {
+  "char": "ក",
+  "subscript": "្ក",
+  "name_ungegn": "kâ",
+  "name_gd": "ka",
+  "ipa_name": "[kɑː]",
+  "value_ungegn": "k",
+  "ipa": "[k]",
+  "series": "a"
+ },
+ {
+  "char": "ខ",
+  "subscript": "្ខ",
+  "name_ungegn": "khâ",
+  "name_gd": "kha",
+  "ipa_name": "[kʰɑː]",
+  "value_ungegn": "kh",
+  "ipa": "[kʰ]",
+  "series": "a"
+ },
+ {
+  "char": "គ",
+  "subscript": "្គ",
+  "name_ungegn": "kô",
+  "name_gd": "ko",
+  "ipa_name": "[kɔː]",
+  "value_ungegn": "k",
+  "ipa": "[k]",
+  "series": "o"
+ },
+ {
+  "char": "ឃ",
+  "subscript": "្ឃ",
+  "name_ungegn": "khô",
+  "name_gd": "kho",
+  "ipa_name": "[kʰɔː]",
+  "value_ungegn": "kh",
+  "ipa": "[kʰ]",
+  "series": "o"
+ },
+ {
+  "char": "ង",
+  "subscript": "្ង",
+  "name_ungegn": "ngô",
+  "name_gd": "ngo",
+  "ipa_name": "[ŋɔː]",
+  "value_ungegn": "ng",
+  "ipa": "[ŋ]",
+  "series": "o"
+ },
+ {
+  "char": "ច",
+  "subscript": "្ច",
+  "name_ungegn": "châ",
+  "name_gd": "cha",
+  "ipa_name": "[cɑː]",
+  "value_ungegn": "ch",
+  "ipa": "[c]",
+  "series": "a"
+ },
+ {
+  "char": "ឆ",
+  "subscript": "្ឆ",
+  "name_ungegn": "chhâ",
+  "name_gd": "chha",
+  "ipa_name": "[cʰɑː]",
+  "value_ungegn": "chh",
+  "ipa": "[cʰ]",
+  "series": "a"
+ },
+ {
+  "char": "ជ",
+  "subscript": "្ជ",
+  "name_ungegn": "chô",
+  "name_gd": "cho",
+  "ipa_name": "[cɔː]",
+  "value_ungegn": "ch",
+  "ipa": "[c]",
+  "series": "o"
+ },
+ {
+  "char": "ឈ",
+  "subscript": "្ឈ",
+  "name_ungegn": "chhô",
+  "name_gd": "chho",
+  "ipa_name": "[cʰɔː]",
+  "value_ungegn": "chh",
+  "ipa": "[cʰ]",
+  "series": "o"
+ },
+ {
+  "char": "ញ",
+  "subscript": "្ញ",
+  "name_ungegn": "nhô",
+  "name_gd": "nho",
+  "ipa_name": "[ɲɔː]",
+  "value_ungegn": "nh",
+  "ipa": "[ɲ]",
+  "series": "o"
+ },
+ {
+  "char": "ដ",
+  "subscript": "្ដ",
+  "name_ungegn": "dâ",
+  "name_gd": "da",
+  "ipa_name": "[ɗɑː]",
+  "value_ungegn": "d",
+  "ipa": "[ɗ]",
+  "series": "a"
+ },
+ {
+  "char": "ឋ",
+  "subscript": "្ឋ",
+  "name_ungegn": "thâ",
+  "name_gd": "tha",
+  "ipa_name": "[tʰɑː]",
+  "value_ungegn": "th",
+  "ipa": "[tʰ]",
+  "series": "a"
+ },
+ {
+  "char": "ឌ",
+  "subscript": "្ឌ",
+  "name_ungegn": "dô",
+  "name_gd": "do",
+  "ipa_name": "[ɗɔː]",
+  "value_ungegn": "d",
+  "ipa": "[ɗ]",
+  "series": "o"
+ },
+ {
+  "char": "ឍ",
+  "subscript": "្ឍ",
+  "name_ungegn": "thô",
+  "name_gd": "tho",
+  "ipa_name": "[tʰɔː]",
+  "value_ungegn": "th",
+  "ipa": "[tʰ]",
+  "series": "o"
+ },
+ {
+  "char": "ណ",
+  "subscript": "្ណ",
+  "name_ungegn": "nâ",
+  "name_gd": "na",
+  "ipa_name": "[nɑː]",
+  "value_ungegn": "n",
+  "ipa": "[n]",
+  "series": "a"
+ },
+ {
+  "char": "ត",
+  "subscript": "្ត",
+  "name_ungegn": "tâ",
+  "name_gd": "ta",
+  "ipa_name": "[tɑː]",
+  "value_ungegn": "t",
+  "ipa": "[t]",
+  "series": "a"
+ },
+ {
+  "char": "ថ",
+  "subscript": "្ថ",
+  "name_ungegn": "thâ",
+  "name_gd": "tha",
+  "ipa_name": "[tʰɑː]",
+  "value_ungegn": "th",
+  "ipa": "[tʰ]",
+  "series": "a"
+ },
+ {
+  "char": "ទ",
+  "subscript": "្ទ",
+  "name_ungegn": "tô",
+  "name_gd": "to",
+  "ipa_name": "[tɔː]",
+  "value_ungegn": "t",
+  "ipa": "[t]",
+  "series": "o"
+ },
+ {
+  "char": "ធ",
+  "subscript": "្ធ",
+  "name_ungegn": "thô",
+  "name_gd": "tho",
+  "ipa_name": "[tʰɔː]",
+  "value_ungegn": "th",
+  "ipa": "[tʰ]",
+  "series": "o"
+ },
+ {
+  "char": "ន",
+  "subscript": "្ន",
+  "name_ungegn": "nô",
+  "name_gd": "no",
+  "ipa_name": "[nɔː]",
+  "value_ungegn": "n",
+  "ipa": "[n]",
+  "series": "o"
+ },
+ {
+  "char": "ប",
+  "subscript": "្ប",
+  "name_ungegn": "bâ",
+  "name_gd": "ba",
+  "ipa_name": "[ɓɑː]",
+  "value_ungegn": "b, p",
+  "ipa": "[ɓ], [p]",
+  "series": "a"
+ },
+ {
+  "char": "ផ",
+  "subscript": "្ផ",
+  "name_ungegn": "phâ",
+  "name_gd": "pha",
+  "ipa_name": "[pʰɑː]",
+  "value_ungegn": "ph",
+  "ipa": "[pʰ]",
+  "series": "a"
+ },
+ {
+  "char": "ព",
+  "subscript": "្ព",
+  "name_ungegn": "pô",
+  "name_gd": "po",
+  "ipa_name": "[pɔː]",
+  "value_ungegn": "p",
+  "ipa": "[p]",
+  "series": "o"
+ },
+ {
+  "char": "ភ",
+  "subscript": "្ភ",
+  "name_ungegn": "phô",
+  "name_gd": "pho",
+  "ipa_name": "[pʰɔː]",
+  "value_ungegn": "ph",
+  "ipa": "[pʰ]",
+  "series": "o"
+ },
+ {
+  "char": "ម",
+  "subscript": "្ម",
+  "name_ungegn": "mô",
+  "name_gd": "mo",
+  "ipa_name": "[mɔː]",
+  "value_ungegn": "m",
+  "ipa": "[m]",
+  "series": "o"
+ },
+ {
+  "char": "យ",
+  "subscript": "្យ",
+  "name_ungegn": "yô",
+  "name_gd": "yo",
+  "ipa_name": "[jɔː]",
+  "value_ungegn": "y",
+  "ipa": "[j]",
+  "series": "o"
+ },
+ {
+  "char": "រ",
+  "subscript": "្រ",
+  "name_ungegn": "rô",
+  "name_gd": "ro",
+  "ipa_name": "[rɔː]",
+  "value_ungegn": "r",
+  "ipa": "[r]",
+  "series": "o"
+ },
+ {
+  "char": "ល",
+  "subscript": "្ល",
+  "name_ungegn": "lô",
+  "name_gd": "lo",
+  "ipa_name": "[lɔː]",
+  "value_ungegn": "l",
+  "ipa": "[l]",
+  "series": "o"
+ },
+ {
+  "char": "វ",
+  "subscript": "្វ",
+  "name_ungegn": "vô",
+  "name_gd": "vo",
+  "ipa_name": "[ʋɔː]",
+  "value_ungegn": "v",
+  "ipa": "[ʋ]",
+  "series": "o"
+ },
+ {
+  "char": "ឝ",
+  "subscript": "្ឝ",
+  "name_ungegn": "śâ",
+  "name_gd": "śa",
+  "ipa_name": "[ɕɑː]",
+  "value_ungegn": "ś",
+  "ipa": "[ɕ]",
+  "series": "a"
+ },
+ {
+  "char": "ឞ",
+  "subscript": "្ឞ",
+  "name_ungegn": "ṣâ",
+  "name_gd": "ṣa",
+  "ipa_name": "[ʂɑː]",
+  "value_ungegn": "ṣ",
+  "ipa": "[ʂ]",
+  "series": "a"
+ },
+ {
+  "char": "ស",
+  "subscript": "្ស",
+  "name_ungegn": "sâ",
+  "name_gd": "sa",
+  "ipa_name": "[sɑː]",
+  "value_ungegn": "s",
+  "ipa": "[s]",
+  "series": "a"
+ },
+ {
+  "char": "ហ",
+  "subscript": "្ហ",
+  "name_ungegn": "hâ",
+  "name_gd": "ha",
+  "ipa_name": "[hɑː]",
+  "value_ungegn": "h",
+  "ipa": "[h]",
+  "series": "a"
+ },
+ {
+  "char": "ឡ",
+  "subscript": "ឡ",
+  "name_ungegn": "lâ",
+  "name_gd": "la",
+  "ipa_name": "[lɑː]",
+  "value_ungegn": "l",
+  "ipa": "[l]",
+  "series": "a"
+ },
+ {
+  "char": "អ",
+  "subscript": "្អ",
+  "name_ungegn": "'â",
+  "name_gd": "'a",
+  "ipa_name": "[ʔɑː]",
+  "value_ungegn": "'",
+  "ipa": "[ʔ]",
+  "series": "a"
+ }
+]

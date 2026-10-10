@@ -1,0 +1,682 @@
+{
+ "units": [
+  {
+   "id": "u1",
+   "title": "The Khmer script",
+   "subtitle": "Consonants, their two series, and vowel signs",
+   "km": "ក ខ គ",
+   "lessons": [
+    {
+     "id": "script-1",
+     "title": "Consonants 1",
+     "icon": "ក",
+     "consonants": [
+      "c01",
+      "c02",
+      "c03",
+      "c04",
+      "c05",
+      "c06",
+      "c07",
+      "c08"
+     ],
+     "tip": "Every consonant has an inherent vowel. a-series letters (like ក kâ) read with â [ɑː]; o-series letters (like គ kô) read with ô [ɔː]."
+    },
+    {
+     "id": "script-2",
+     "title": "Consonants 2",
+     "icon": "ញ",
+     "consonants": [
+      "c09",
+      "c10",
+      "c11",
+      "c12",
+      "c13",
+      "c14",
+      "c15",
+      "c16"
+     ],
+     "tip": "ឋ, ឌ and ឍ are rare and appear mostly in words borrowed from Pali and Sanskrit."
+    },
+    {
+     "id": "script-3",
+     "title": "Consonants 3",
+     "icon": "ប",
+     "consonants": [
+      "c17",
+      "c18",
+      "c19",
+      "c20",
+      "c21",
+      "c22",
+      "c23",
+      "c24"
+     ],
+     "tip": "ប bâ is [ɓ] before a vowel, but [p] at the end of a syllable."
+    },
+    {
+     "id": "script-4",
+     "title": "Consonants 4",
+     "icon": "ស",
+     "consonants": [
+      "c25",
+      "c26",
+      "c27",
+      "c28",
+      "c29",
+      "c30",
+      "c31",
+      "c32",
+      "c33"
+     ],
+     "tip": "អ ’â stands for a glottal stop and is the letter vowel signs are written on when a word starts with a vowel sound."
+    },
+    {
+     "id": "vowels-1",
+     "title": "Vowel signs 1",
+     "icon": "អា",
+     "vowels": [
+      "v01",
+      "v02",
+      "v03",
+      "v04",
+      "v05",
+      "v06",
+      "v07",
+      "v08"
+     ],
+     "tip": "A vowel sign sounds different on a-series and o-series consonants. ា after ក is [aː]; after គ it is [iːə]."
+    },
+    {
+     "id": "vowels-2",
+     "title": "Vowel signs 2",
+     "icon": "អៅ",
+     "vowels": [
+      "v09",
+      "v10",
+      "v11",
+      "v12",
+      "v13",
+      "v14",
+      "v15",
+      "v16"
+     ],
+     "tip": "Vowel signs can sit before, above, below or around the consonant, but are always read after it."
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "title": "Greetings & politeness",
+   "subtitle": "Hello, thank you, yes and no",
+   "km": "សួស្តី",
+   "lessons": [
+    {
+     "id": "greet-1",
+     "title": "Hello & goodbye",
+     "icon": "👋",
+     "items": [
+      "hello",
+      "hello-formal",
+      "good-morning",
+      "goodbye",
+      "goodbye-formal",
+      "see-you-later"
+     ],
+     "tip": "ជម្រាបសួរ is the respectful hello, usually said with a sampeah: palms together in front of the chest."
+    },
+    {
+     "id": "greet-2",
+     "title": "Thank you & sorry",
+     "icon": "🙏",
+     "items": [
+      "thank-you",
+      "sorry",
+      "its-ok",
+      "no-problem",
+      "please",
+      "invite",
+      "sampeah"
+     ],
+     "sentences": [
+      "thanks-a-lot"
+     ]
+    },
+    {
+     "id": "greet-3",
+     "title": "Yes & no",
+     "icon": "✅",
+     "items": [
+      "yes-m",
+      "yes-f",
+      "no",
+      "not",
+      "not-colloquial"
+     ],
+     "tip": "Men say បាទ baat for yes; women say ចាស caah."
+    },
+    {
+     "id": "greet-4",
+     "title": "You & me",
+     "icon": "🧑",
+     "items": [
+      "i",
+      "you",
+      "bong",
+      "oun",
+      "lok",
+      "lok-srey",
+      "uncle",
+      "aunt"
+     ],
+     "tip": "Khmer uses family words for \"you\". Call someone a bit older បង bɑɑng, someone younger ប្អូន pʼoun, a man you respect លោក look."
+    },
+    {
+     "id": "greet-5",
+     "title": "How are you?",
+     "icon": "😊",
+     "items": [
+      "well",
+      "happy",
+      "be",
+      "name",
+      "what",
+      "question-marker"
+     ],
+     "sentences": [
+      "how-are-you",
+      "im-fine",
+      "whats-your-name"
+     ],
+     "tip": "សុខសប្បាយ sok sapbaay means \"well and happy\". Ask it as a question by adding ជាទេ."
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "title": "Numbers",
+   "subtitle": "Khmer digits and counting to a thousand",
+   "km": "១ ២ ៣",
+   "lessons": [
+    {
+     "id": "num-1",
+     "title": "One to five",
+     "icon": "១",
+     "digits": [
+      "d0",
+      "d1",
+      "d2",
+      "d3",
+      "d4",
+      "d5"
+     ],
+     "items": [
+      "zero",
+      "one",
+      "two",
+      "three",
+      "four",
+      "five"
+     ],
+     "tip": "Khmer has its own digits, ០ to ៩, written just like Western numbers: ១២ is 12."
+    },
+    {
+     "id": "num-2",
+     "title": "Six to ten",
+     "icon": "៦",
+     "digits": [
+      "d6",
+      "d7",
+      "d8",
+      "d9"
+     ],
+     "items": [
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+     ],
+     "tip": "Six to nine are \"five-one\" to \"five-four\": ប្រាំ pram + មួយ muəy = 6."
+    },
+    {
+     "id": "num-3",
+     "title": "Tens",
+     "icon": "៣០",
+     "items": [
+      "twenty",
+      "thirty",
+      "forty",
+      "fifty",
+      "sixty",
+      "seventy",
+      "eighty",
+      "ninety"
+     ]
+    },
+    {
+     "id": "num-4",
+     "title": "Bigger numbers",
+     "icon": "១០០",
+     "items": [
+      "hundred",
+      "thousand",
+      "number",
+      "eleven",
+      "fifteen",
+      "twenty-one",
+      "one-hundred",
+      "one-thousand"
+     ],
+     "tip": "Numbers in between are built from the parts: ម្ភៃ mphɨy (20) + មួយ muəy (1) = 21."
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "title": "Food & market",
+   "subtitle": "Order, taste and pay",
+   "km": "ម្ហូប",
+   "lessons": [
+    {
+     "id": "food-1",
+     "title": "Food basics",
+     "icon": "🍚",
+     "items": [
+      "rice",
+      "water",
+      "fish",
+      "meat",
+      "vegetable",
+      "fruit",
+      "food"
+     ]
+    },
+    {
+     "id": "food-2",
+     "title": "Meat & drinks",
+     "icon": "☕",
+     "items": [
+      "chicken",
+      "chicken-meat",
+      "beef",
+      "pork",
+      "coffee",
+      "tea",
+      "ice",
+      "milk"
+     ]
+    },
+    {
+     "id": "food-3",
+     "title": "Fruit & dishes",
+     "icon": "🥭",
+     "items": [
+      "banana",
+      "mango",
+      "coconut",
+      "orange",
+      "bread",
+      "noodle-soup",
+      "soup",
+      "restaurant"
+     ]
+    },
+    {
+     "id": "food-4",
+     "title": "Hungry & thirsty",
+     "icon": "😋",
+     "items": [
+      "eat",
+      "drink",
+      "hungry",
+      "thirsty",
+      "delicious",
+      "sweet",
+      "spicy"
+     ],
+     "sentences": [
+      "im-hungry",
+      "im-thirsty",
+      "want-rice",
+      "want-coffee",
+      "very-delicious",
+      "like-kuyteav"
+     ]
+    },
+    {
+     "id": "food-5",
+     "title": "At the market",
+     "icon": "🛒",
+     "items": [
+      "market",
+      "buy",
+      "sell",
+      "money",
+      "riel",
+      "dollar",
+      "price",
+      "cheap",
+      "how-much"
+     ],
+     "sentences": [
+      "how-much",
+      "very-expensive",
+      "want-market"
+     ],
+     "tip": "ថ្លៃ thlay is both \"price\" and \"expensive\", so ថ្លៃប៉ុន្មាន? is \"how much?\"."
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "title": "Family & people",
+   "subtitle": "Parents, siblings and friends",
+   "km": "គ្រួសារ",
+   "lessons": [
+    {
+     "id": "fam-1",
+     "title": "Parents & children",
+     "icon": "👪",
+     "items": [
+      "father",
+      "mother",
+      "child",
+      "husband",
+      "wife",
+      "family"
+     ]
+    },
+    {
+     "id": "fam-2",
+     "title": "Brothers & sisters",
+     "icon": "👫",
+     "items": [
+      "older-brother",
+      "older-sister",
+      "younger-brother",
+      "younger-sister",
+      "man",
+      "woman"
+     ],
+     "tip": "Khmer names siblings by age first: បង older, ប្អូន younger, then ប្រុស male or ស្រី female."
+    },
+    {
+     "id": "fam-3",
+     "title": "Elders & friends",
+     "icon": "🧓",
+     "items": [
+      "grandmother",
+      "grandfather",
+      "friend",
+      "he-she",
+      "we",
+      "they",
+      "teacher",
+      "student"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "title": "Time & days",
+   "subtitle": "Today, tomorrow and the week",
+   "km": "ថ្ងៃ",
+   "lessons": [
+    {
+     "id": "time-1",
+     "title": "Today & tomorrow",
+     "icon": "🌅",
+     "items": [
+      "day",
+      "today",
+      "yesterday",
+      "tomorrow",
+      "now",
+      "morning",
+      "evening",
+      "night"
+     ],
+     "sentences": [
+      "went-yesterday",
+      "school-tomorrow"
+     ]
+    },
+    {
+     "id": "time-2",
+     "title": "Clock & calendar",
+     "icon": "🕗",
+     "items": [
+      "hour",
+      "minute",
+      "week",
+      "month",
+      "year",
+      "age"
+     ]
+    },
+    {
+     "id": "time-3",
+     "title": "Days of the week",
+     "icon": "📅",
+     "items": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday",
+      "saturday",
+      "sunday"
+     ],
+     "tip": "Every day starts with ថ្ងៃ thngay, \"day\"."
+    }
+   ]
+  },
+  {
+   "id": "u7",
+   "title": "Getting around",
+   "subtitle": "Directions, places and transport",
+   "km": "ផ្លូវ",
+   "lessons": [
+    {
+     "id": "go-1",
+     "title": "Directions",
+     "icon": "🧭",
+     "items": [
+      "left",
+      "right",
+      "straight",
+      "stop",
+      "near",
+      "far",
+      "road",
+      "return"
+     ]
+    },
+    {
+     "id": "go-2",
+     "title": "Places",
+     "icon": "🏯",
+     "items": [
+      "house",
+      "hotel",
+      "toilet",
+      "school",
+      "pagoda",
+      "city",
+      "at",
+      "where"
+     ],
+     "sentences": [
+      "where-toilet",
+      "where-market"
+     ]
+    },
+    {
+     "id": "go-3",
+     "title": "Cambodia",
+     "icon": "🛕",
+     "items": [
+      "cambodia",
+      "phnom-penh",
+      "siem-reap",
+      "angkor-wat",
+      "khmer",
+      "come",
+      "from"
+     ],
+     "sentences": [
+      "where-from"
+     ]
+    },
+    {
+     "id": "go-4",
+     "title": "Transport",
+     "icon": "🛵",
+     "items": [
+      "car",
+      "motorbike",
+      "bicycle",
+      "bus",
+      "airplane",
+      "boat",
+      "go",
+      "walk",
+      "wait"
+     ],
+     "sentences": [
+      "where-going",
+      "stroll"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8",
+   "title": "Everyday sentences",
+   "subtitle": "Verbs, describing words, questions",
+   "km": "និយាយ",
+   "lessons": [
+    {
+     "id": "verb-1",
+     "title": "Wants & feelings",
+     "icon": "❤️",
+     "items": [
+      "want",
+      "like",
+      "love",
+      "know",
+      "understand",
+      "believe",
+      "play"
+     ],
+     "sentences": [
+      "dont-understand",
+      "dont-know",
+      "dont-believe"
+     ],
+     "tip": "To say \"not\", wrap the verb: មិន + verb + ទេ. ខ្ញុំមិនយល់ទេ = I don't understand."
+    },
+    {
+     "id": "verb-2",
+     "title": "Daily actions",
+     "icon": "📖",
+     "items": [
+      "study",
+      "work",
+      "sleep",
+      "look",
+      "listen",
+      "write",
+      "read",
+      "help"
+     ],
+     "sentences": [
+      "can-you-understand",
+      "learn-khmer"
+     ]
+    },
+    {
+     "id": "verb-3",
+     "title": "Describing things",
+     "icon": "✨",
+     "items": [
+      "good",
+      "big",
+      "small",
+      "beautiful",
+      "hot",
+      "cold",
+      "many",
+      "few",
+      "very",
+      "sick"
+     ],
+     "sentences": [
+      "very-pretty"
+     ],
+     "tip": "Describing words come after the noun, and ណាស់ nah (\"very\") after the describing word."
+    },
+    {
+     "id": "verb-4",
+     "title": "Questions",
+     "icon": "❓",
+     "items": [
+      "who",
+      "when",
+      "why",
+      "what-colloquial",
+      "which",
+      "this",
+      "that",
+      "some",
+      "already",
+      "will"
+     ],
+     "sentences": [
+      "already-left",
+      "this-morning"
+     ],
+     "tip": "Question words go where the answer would go: លោកទៅណា? \"you go where?\" = Where are you going?"
+    },
+    {
+     "id": "verb-5",
+     "title": "Speaking Khmer",
+     "icon": "🗣️",
+     "items": [
+      "speak",
+      "language",
+      "english",
+      "know-how",
+      "letter",
+      "have",
+      "can",
+      "a-little",
+      "again"
+     ],
+     "sentences": [
+      "speak-english",
+      "cant-speak-khmer"
+     ]
+    },
+    {
+     "id": "verb-6",
+     "title": "Animals & more",
+     "icon": "🐕",
+     "items": [
+      "dog",
+      "cat",
+      "chicken",
+      "fish",
+      "two",
+      "big"
+     ],
+     "sentences": [
+      "two-dogs"
+     ]
+    }
+   ]
+  }
+ ]
+}

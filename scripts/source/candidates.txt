@@ -1,0 +1,299 @@
+សួស្តី|hello
+ជំរាបសួរ|hello (formal)
+ជម្រាបសួរ|hello (formal, variant)
+ជំរាបលា|goodbye (formal)
+លាហើយ|goodbye
+អរគុណ|thank you
+សូមទោស|sorry; excuse me
+មិនអីទេ|it's okay
+បាទ|yes (male speaker)
+ចាស|yes (female speaker)
+ទេ|no; question/negative particle
+សុខសប្បាយ|well, fine
+ឈ្មោះ|name
+ខ្ញុំ|I
+អ្នក|you
+បង|older sibling; you (to an older person)
+ប្អូន|younger sibling
+លោក|sir; you (to a man)
+លោកស្រី|madam; Mrs.
+សំពះ|to greet with joined palms
+សូម|please
+ពូ|uncle
+មីង|aunt
+សុខ|well-being, healthy
+សប្បាយ|happy, fun
+សួរ|to ask
+លា|to say goodbye
+ចម្លើយ|answer
+មួយ|one
+ពីរ|two
+បី|three
+បួន|four
+ប្រាំ|five
+ប្រាំមួយ|six
+ប្រាំពីរ|seven
+ប្រាំបី|eight
+ប្រាំបួន|nine
+ដប់|ten
+ម្ភៃ|twenty
+សាមសិប|thirty
+សែសិប|forty
+ហាសិប|fifty
+ហុកសិប|sixty
+ចិតសិប|seventy
+ប៉ែតសិប|eighty
+កៅសិប|ninety
+រយ|hundred
+ពាន់|thousand
+សូន្យ|zero
+បាយ|cooked rice; meal
+អង្ករ|uncooked rice
+ទឹក|water
+ទឹកកក|ice
+កាហ្វេ|coffee
+តែ|tea
+ត្រី|fish
+សាច់|meat
+មាន់|chicken
+សាច់មាន់|chicken meat
+សាច់គោ|beef
+សាច់ជ្រូក|pork
+ពងមាន់|chicken egg
+បន្លែ|vegetable
+ផ្លែឈើ|fruit
+ចេក|banana
+ស្វាយ|mango
+ដូង|coconut
+ម្ហូប|food, dish
+ឆ្ងាញ់|delicious
+ផ្អែម|sweet
+ហឹរ|spicy
+ថ្លៃ|expensive
+ថោក|cheap
+ប៉ុន្មាន|how much, how many
+លុយ|money
+រៀល|riel
+ដុល្លារ|dollar
+ផ្សារ|market
+ទិញ|to buy
+លក់|to sell
+ញ៉ាំ|to eat
+ផឹក|to drink
+ឃ្លាន|hungry
+ស្រេក|thirsty
+ភោជនីយដ្ឋាន|restaurant
+ឪពុក|father
+ម្ដាយ|mother
+ប្អូនប្រុស|younger brother
+ប្អូនស្រី|younger sister
+បងប្រុស|older brother
+បងស្រី|older sister
+កូន|child
+ប្ដី|husband
+ប្រពន្ធ|wife
+ជីដូន|grandmother
+ជីតា|grandfather
+គ្រួសារ|family
+មិត្តភក្តិ|friend
+ថ្ងៃ|day; sun
+ថ្ងៃនេះ|today
+ម្សិលមិញ|yesterday
+ស្អែក|tomorrow
+ឥឡូវ|now
+ព្រឹក|morning
+ល្ងាច|evening
+យប់|night
+ម៉ោង|hour, o'clock
+នាទី|minute
+សប្តាហ៍|week
+ខែ|month
+ឆ្នាំ|year
+ថ្ងៃច័ន្ទ|Monday
+ថ្ងៃអង្គារ|Tuesday
+ថ្ងៃពុធ|Wednesday
+ថ្ងៃព្រហស្បតិ៍|Thursday
+ថ្ងៃសុក្រ|Friday
+ថ្ងៃសៅរ៍|Saturday
+ថ្ងៃអាទិត្យ|Sunday
+ឆ្វេង|left
+ស្តាំ|right
+ត្រង់|straight
+ទៅ|to go
+មក|to come
+ឈប់|to stop
+នៅ|to be at; to live
+ណា|where; which
+ឯណា|where
+ជិត|near
+ឆ្ងាយ|far
+ផ្លូវ|road, street
+ផ្ទះ|house
+សណ្ឋាគារ|hotel
+បង្គន់|toilet
+ឡាន|car
+ម៉ូតូ|motorbike
+កង់|bicycle
+តុកតុក|tuk-tuk
+យន្តហោះ|airplane
+ព្រលានយន្តហោះ|airport
+ឡានក្រុង|bus
+ទូក|boat
+ចង់|to want
+ចូលចិត្ត|to like
+ស្រឡាញ់|to love
+ដឹង|to know
+យល់|to understand
+និយាយ|to speak
+រៀន|to study, learn
+ធ្វើការ|to work
+ដេក|to sleep
+មើល|to look, watch
+ស្តាប់|to listen
+សរសេរ|to write
+អាន|to read
+មាន|to have; there is
+ជា|to be
+ជួយ|to help
+ល្អ|good
+ធំ|big
+តូច|small
+ស្អាត|beautiful; clean
+ក្តៅ|hot
+ត្រជាក់|cold
+ច្រើន|many, much
+តិច|few, a little
+ខ្មែរ|Khmer
+ភាសា|language
+កម្ពុជា|Cambodia
+អង់គ្លេស|English
+អ្វី|what
+អី|what (colloquial)
+នរណា|who
+ពេលណា|when
+ហេតុអ្វី|why
+នេះ|this
+នោះ|that
+មិន|not
+អត់|not (colloquial)
+ហើយ|already
+នឹង|will (future)
+ណាស់|very
+តើ|question marker (formal)
+គាត់|he, she (polite)
+យើង|we
+ពួកគេ|they
+បាន|can; to get
+ស្តាប់|to listen
+ស្ដាប់|to listen (ដ)
+សរសេរ|to write
+អាន|to read
+មាន|to have; there is
+ជា|to be
+ជួយ|to help
+ល្អ|good
+ធំ|big
+តូច|small
+ស្អាត|beautiful; clean
+ក្តៅ|hot
+ក្ដៅ|hot (ដ)
+ត្រជាក់|cold
+ច្រើន|many, much
+តិច|few, a little
+ខ្មែរ|Khmer
+ភាសា|language
+ភាសាខ្មែរ|Khmer language
+កម្ពុជា|Cambodia
+អង់គ្លេស|English
+អ្វី|what
+អី|what (colloquial)
+នរណា|who
+អ្នកណា|who
+ពេលណា|when
+ហេតុអ្វី|why
+នេះ|this
+នោះ|that
+មិន|not
+អត់|not (colloquial)
+ហើយ|already
+នឹង|will (future)
+ណាស់|very
+តើ|question marker
+គាត់|he, she (polite)
+យើង|we
+ពួកគេ|they
+បាន|can; to get
+ស្ដាំ|right (ដ)
+ពង|egg
+ពងមាន់|chicken egg
+តា|grandfather
+ជីតា|grandfather
+យាយ|grandmother
+អាកាសយានដ្ឋាន|airport
+តុកៗ|tuk-tuk
+លុយ|money
+ទៅណា|where are you going
+ម៉េច|how
+ប៉ុណ្ណឹង|that much
+រួចរាល់|ready
+ស្រា|alcohol
+ស៊ុប|soup
+ឆា|stir-fry
+នំបុ័ង|bread
+គុយទាវ|noodle soup
+ភ្ញៀវ|guest
+ទឹកដោះគោ|milk
+ផ្អែមល្ហែម|dessert
+ថ្លៃប៉ុន្មាន|how much (price)
+នេះប៉ុន្មាន|how much is this
+សុខសប្បាយទេ|how are you
+ខ្ញុំមិនយល់ទេ|I don't understand
+ជឿ|to believe
+ដើរ|to walk
+លេង|to play
+ដើរលេង|to go for a walk
+សាលារៀន|school
+ឬ|or
+អញ្ជើញ|to invite; please (polite)
+ស្រី|woman, female
+ប្រុស|man, male
+វា|it; he/she (familiar)
+វត្ត|pagoda, temple
+ឆ្កែ|dog
+ឆ្មា|cat
+ពួកម៉ាក|friend
+អាយុ|age
+ខ្លះ|some
+ទឹកក្រូច|orange juice
+ក្រូច|orange
+ម្នាក់|one person
+នាក់|classifier for people
+ផង|also, too
+ដែរ|also
+សុំ|to ask for
+ឲ្យ|to give
+ចង់បាន|to want (to get)
+គិតលុយ|to pay, check please
+សាលា|school
+គ្រូ|teacher
+សិស្ស|student
+ស្រុក|country, district
+ទីក្រុង|city
+ភ្នំពេញ|Phnom Penh
+សៀមរាប|Siem Reap
+អង្គរវត្ត|Angkor Wat
+ឈឺ|sick, to hurt
+ត្រឡប់|to return
+រង់ចាំ|to wait
+បន្តិច|a little
+យឺតៗ|slowly
+ម្តងទៀត|again
+ម្ដងទៀត|again (ដ)
+ចេះ|to know how to
+ពី|from
+អរុណសួស្តី|good morning
+លាសិនហើយ|see you later
+អត់អី|no problem
+លេខ|number
+អក្សរ|letter, script
+ជម្រាបលា|goodbye formal

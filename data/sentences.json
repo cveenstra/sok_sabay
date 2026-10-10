@@ -1,0 +1,337 @@
+{
+ "sentences": [
+  {
+   "id": "how-are-you",
+   "tokens": [
+    "well",
+    "happy",
+    "be",
+    "no"
+   ],
+   "en": "How are you?",
+   "src": "wiktionary:how are you (Khmer translation)"
+  },
+  {
+   "id": "im-fine",
+   "tokens": [
+    "i",
+    "well",
+    "happy"
+   ],
+   "en": "I'm fine.",
+   "src": "wiktionary:I'm fine (Khmer translation)"
+  },
+  {
+   "id": "thanks-a-lot",
+   "tokens": [
+    "thank-you",
+    "many"
+   ],
+   "en": "Thank you very much.",
+   "src": "wiktionary:thank you very much (Khmer translation)"
+  },
+  {
+   "id": "whats-your-name",
+   "tokens": [
+    "question-marker",
+    "you",
+    "name",
+    "what"
+   ],
+   "en": "What is your name?",
+   "src": "wiktionary:ឈ្មោះ (usage example)"
+  },
+  {
+   "id": "im-hungry",
+   "tokens": [
+    "i",
+    "hungry"
+   ],
+   "en": "I'm hungry.",
+   "src": "wiktionary:I'm hungry (Khmer translation)"
+  },
+  {
+   "id": "where-toilet",
+   "tokens": [
+    "question-marker",
+    "toilet",
+    "at",
+    "where"
+   ],
+   "en": "Where is the toilet?",
+   "src": "wiktionary:where is the toilet (Khmer translation)"
+  },
+  {
+   "id": "dont-understand",
+   "tokens": [
+    "i",
+    "not",
+    "understand",
+    "no"
+   ],
+   "en": "I don't understand.",
+   "src": "wiktionary:ខ្ញុំមិនយល់ទេ"
+  },
+  {
+   "id": "dont-know",
+   "tokens": [
+    "i",
+    "not",
+    "know",
+    "no"
+   ],
+   "en": "I don't know.",
+   "src": "wiktionary:I don't know (Khmer translation)"
+  },
+  {
+   "id": "how-much",
+   "tokens": [
+    "price",
+    "how-much"
+   ],
+   "en": "How much (does it cost)?",
+   "src": "wiktionary:how much (Khmer translation)"
+  },
+  {
+   "id": "speak-english",
+   "tokens": [
+    "question-marker",
+    "you",
+    "speak",
+    "language",
+    "english",
+    "no"
+   ],
+   "en": "Do you speak English?",
+   "src": "wiktionary:do you speak English (Khmer translation)"
+  },
+  {
+   "id": "cant-speak-khmer",
+   "tokens": [
+    "i",
+    "not",
+    "know-how",
+    "speak",
+    "language",
+    "khmer",
+    "no"
+   ],
+   "en": "I can't speak Khmer.",
+   "src": "wiktionary:I don't speak (Khmer translation)"
+  },
+  {
+   "id": "where-from",
+   "tokens": [
+    "question-marker",
+    "you",
+    "come",
+    "from",
+    "which"
+   ],
+   "en": "Where are you from?",
+   "src": "wiktionary:where are you from (Khmer translation)"
+  },
+  {
+   "id": "stroll",
+   "tokens": [
+    "i",
+    "want",
+    "go",
+    "walk",
+    "play"
+   ],
+   "en": "I want to go for a stroll.",
+   "src": "wikipedia:Khmer language § Syntax (verb phrase)"
+  },
+  {
+   "id": "dont-believe",
+   "tokens": [
+    "i",
+    "not",
+    "believe",
+    "no"
+   ],
+   "en": "I don't believe it.",
+   "src": "wikipedia:Khmer language § Syntax (negation)"
+  },
+  {
+   "id": "went-yesterday",
+   "tokens": [
+    "he-she",
+    "go",
+    "yesterday"
+   ],
+   "en": "He went yesterday.",
+   "src": "wikipedia:Khmer language § Syntax (past time)"
+  },
+  {
+   "id": "already-left",
+   "tokens": [
+    "he-she",
+    "go",
+    "already"
+   ],
+   "en": "He has already left.",
+   "src": "wikipedia:Khmer language § Syntax (perfective ហើយ)"
+  },
+  {
+   "id": "school-tomorrow",
+   "tokens": [
+    "tomorrow",
+    "i",
+    "will",
+    "go",
+    "school"
+   ],
+   "en": "Tomorrow I will go to school.",
+   "src": "wikipedia:Khmer language § Syntax (future នឹង)"
+  },
+  {
+   "id": "where-going",
+   "tokens": [
+    "lok",
+    "go",
+    "which"
+   ],
+   "en": "Where are you going?",
+   "src": "wikipedia:Khmer language § Syntax (questions)"
+  },
+  {
+   "id": "can-you-understand",
+   "tokens": [
+    "lok",
+    "listen",
+    "can",
+    "no"
+   ],
+   "en": "Can you understand?",
+   "src": "wikipedia:Khmer language § Syntax (questions)"
+  },
+  {
+   "id": "very-pretty",
+   "tokens": [
+    "woman",
+    "that",
+    "beautiful",
+    "very"
+   ],
+   "en": "That girl is very pretty.",
+   "src": "wikipedia:Khmer language § Adjectives and adverbs"
+  },
+  {
+   "id": "this-morning",
+   "tokens": [
+    "morning",
+    "this",
+    "bong",
+    "go",
+    "which",
+    "some"
+   ],
+   "en": "Where are you going this morning?",
+   "src": "wiktionary:ព្រឹក (usage example)"
+  },
+  {
+   "id": "two-dogs",
+   "tokens": [
+    "dog",
+    "two"
+   ],
+   "en": "two dogs",
+   "src": "wikipedia:Khmer language § Nouns and pronouns"
+  },
+  {
+   "id": "want-rice",
+   "tokens": [
+    "i",
+    "want",
+    "eat",
+    "rice"
+   ],
+   "en": "I want to eat rice.",
+   "src": "composed: pattern ខ្ញុំ ចង់ + verb (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "want-coffee",
+   "tokens": [
+    "i",
+    "want",
+    "drink",
+    "coffee"
+   ],
+   "en": "I want to drink coffee.",
+   "src": "composed: pattern ខ្ញុំ ចង់ + verb (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "want-market",
+   "tokens": [
+    "i",
+    "want",
+    "go",
+    "market"
+   ],
+   "en": "I want to go to the market.",
+   "src": "composed: pattern ទៅ + place (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "learn-khmer",
+   "tokens": [
+    "i",
+    "want",
+    "study",
+    "language",
+    "khmer"
+   ],
+   "en": "I want to learn Khmer.",
+   "src": "composed: pattern ខ្ញុំ ចង់ + verb (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "very-delicious",
+   "tokens": [
+    "delicious",
+    "very"
+   ],
+   "en": "Very delicious!",
+   "src": "composed: pattern adjective + ណាស់ (wikipedia:Khmer language § Adjectives and adverbs)"
+  },
+  {
+   "id": "very-expensive",
+   "tokens": [
+    "price",
+    "very"
+   ],
+   "en": "Very expensive!",
+   "src": "composed: pattern adjective + ណាស់ (wikipedia:Khmer language § Adjectives and adverbs)"
+  },
+  {
+   "id": "where-market",
+   "tokens": [
+    "question-marker",
+    "market",
+    "at",
+    "where"
+   ],
+   "en": "Where is the market?",
+   "src": "composed: pattern of \"where is the toilet\" (wiktionary)"
+  },
+  {
+   "id": "im-thirsty",
+   "tokens": [
+    "i",
+    "thirsty"
+   ],
+   "en": "I'm thirsty.",
+   "src": "composed: pattern of \"I'm hungry\" (wiktionary)"
+  },
+  {
+   "id": "like-kuyteav",
+   "tokens": [
+    "i",
+    "like",
+    "noodle-soup"
+   ],
+   "en": "I like kuyteav (noodle soup).",
+   "src": "composed: subject + verb + object (wikipedia:Khmer language § Syntax)"
+  }
+ ]
+}

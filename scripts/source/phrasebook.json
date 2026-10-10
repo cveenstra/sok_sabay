@@ -1,0 +1,191 @@
+{
+ "how are you": [
+  [
+   "សុខសប្បាយជាទេ?",
+   "sok sapbaay ciə tei?"
+  ]
+ ],
+ "thank you very much": [
+  [
+   "អរគុណច្រើនណាស់",
+   "ʼɑɑkuncraənnah"
+  ],
+  [
+   "អរគុណច្រើន",
+   "ʼɑɑkuncraən"
+  ]
+ ],
+ "where is the toilet": [
+  [
+   "តើបង្គន់នៅឯណា",
+   "taə bɑngkŭən nɨw ʼae naa"
+  ]
+ ],
+ "what is your name": [
+  [
+   "ឈ្មោះអី?",
+   "chmŭəh ʼəy?"
+  ],
+  [
+   "ឈ្មោះអ្វី?",
+   "chmŭəh ʼaʼvəy?"
+  ],
+  [
+   "តើ អ្នក ឈ្មោះអ្វី?",
+   "taə nĕək chmŭəh ʼaʼvəy?"
+  ]
+ ],
+ "my name is": [
+  [
+   "ខ្ញុំឈ្មោះ...",
+   "khñom chmŭəh ..."
+  ]
+ ],
+ "I'm hungry": [
+  [
+   "ខ្ញុំឃ្លាន",
+   "khñom khliən"
+  ]
+ ],
+ "I don't speak": [
+  [
+   "ខ្ញុំមិនចេះនិយាយភាសាអង់គ្លេស",
+   "khñom mɨn ceh niyiəy phiəsaa ʼɑngkleih"
+  ],
+  [
+   "ខ្ញុំមិនចេះនិយាយភាសាខ្មែរទេ",
+   "khñom mɨn ceh niyiəy phiəsaa khmae tei"
+  ]
+ ],
+ "do you speak English": [
+  [
+   "តើអ្នកនិយាយភាសាអង់គ្លេសទេ",
+   "taə nĕək niyiəy phiəsaa ʼɑngkleih tei"
+  ],
+  [
+   "តើអ្នកនិយាយភាសាខ្មែរទេ",
+   "taə nĕək niyiəy phiəsaa khmae tei"
+  ]
+ ],
+ "excuse me": [
+  [
+   "ឧកាស",
+   "ʼukaasaʼ"
+  ],
+  [
+   "ជួយខ្ញុំ, ខ្ញុំអាចទៅណា",
+   "cuəy khñom, khñom ʼaac tɨw naa"
+  ],
+  [
+   "សុំទោស",
+   "som tooh"
+  ]
+ ],
+ "good morning": [
+  [
+   "សុប្រាត (km)",
+   "sopraat"
+  ],
+  [
+   "អរុណសួស្តី",
+   "ʼaʼrun suəsdəy"
+  ],
+  [
+   "អរុណសុវត្ថិ",
+   "ʼaʼrun sovattheʼ"
+  ]
+ ],
+ "goodbye": [
+  [
+   "លាហើយ",
+   "liə haəy"
+  ],
+  [
+   "ជម្រាបលា",
+   "cumriəp liə"
+  ],
+  [
+   "លាសិនហើយ",
+   "liə sən haəy"
+  ]
+ ],
+ "see you later": [
+  [
+   "លាសិនហើយ",
+   "liə sən haəy"
+  ],
+  [
+   "លាហើយ",
+   "liə haəy"
+  ]
+ ],
+ "I love you": [
+  [
+   "បងស្រឡាញ់អូន",
+   "bɑɑng srɑlañ ʼoun"
+  ],
+  [
+   "អូនស្រឡាញ់បង",
+   "ʼoun srɑlañ bɑɑng"
+  ],
+  [
+   "ខ្ញុំ​ស្រលាញ់​អ្នក",
+   "khñom srɑlañ nĕək"
+  ]
+ ],
+ "where are you from": [
+  [
+   "តើអ្នកមកពីណា",
+   "taə nĕək mɔɔk pii naa"
+  ],
+  [
+   "ឯងមកពីណា",
+   "ʼaeng mɔɔk pii naa"
+  ]
+ ],
+ "I'm fine": [
+  [
+   "ខ្ញុំសុខសប្បាយ",
+   "khñom sok sapbaay"
+  ]
+ ],
+ "you're welcome": [
+  [
+   "អញ្ជើញ (km)",
+   "ʼɑñcəəñ"
+  ],
+  [
+   "មានអី",
+   "miən ʼəy"
+  ],
+  [
+   "មិនអ្វីទេ",
+   "mɨn ʼaʼvəy tei"
+  ],
+  [
+   "អត់អី",
+   "ʼɑt ʼəy"
+  ],
+  [
+   "មានអីទេ",
+   "mɨn ʼəy tei"
+  ]
+ ],
+ "I don't know": [
+  [
+   "ខ្ញុំមិនដឹងទេ",
+   "khñom mɨn dəng tei"
+  ]
+ ],
+ "how much": [
+  [
+   "ប៉ុន្មាន (km)",
+   "ponmaan"
+  ],
+  [
+   "ថ្លៃប៉ុន្មាន",
+   "thlay ponmaan"
+  ]
+ ],
+ "nice to meet you": []
+}
