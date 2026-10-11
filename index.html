@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Sok Sabay · Learn Khmer</title>
-  <meta name="description" content="Bite-sized Khmer (Cambodian) lessons: the script, greetings, numbers, food, family, time and everyday sentences.">
+  <meta name="description" content="Bite-sized Khmer (Cambodian) lessons with flashcards, a letters course and everyday sentences.">
   <meta name="theme-color" content="#0d6e75">
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,6 +19,7 @@
       <span>Sok Sabay</span>
     </button>
     <div class="stats" aria-label="Your progress">
+      <span class="cloud off" id="cloud" hidden></span>
       <span class="stat streak" title="Day streak"><span class="ico" aria-hidden="true">🔥</span><b id="stat-streak">0</b></span>
       <span class="stat xp" title="Total XP"><span class="ico" aria-hidden="true">⭐</span><b id="stat-xp">0</b></span>
     </div>
@@ -28,8 +29,9 @@
 
   <nav class="tabbar" id="tabbar" aria-label="Sections">
     <button data-nav="home" class="on"><span aria-hidden="true">🗺️</span>Learn</button>
+    <button data-nav="letters"><span aria-hidden="true">ក</span>Letters</button>
+    <button data-nav="cards"><span aria-hidden="true">🃏</span>Cards</button>
     <button data-nav="review"><span aria-hidden="true">🔁</span>Review</button>
-    <button data-nav="script"><span aria-hidden="true">ក</span>Script</button>
     <button data-nav="about"><span aria-hidden="true">ℹ️</span>About</button>
   </nav>
 

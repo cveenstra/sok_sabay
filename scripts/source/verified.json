@@ -3336,5 +3336,4200 @@
   "defs": [
    "goodbye"
   ]
+ },
+ "ក្បាល": {
+  "status": "ok",
+  "wt": [
+   "kbaal"
+  ],
+  "ipa": [
+   "/kɓaːl/"
+  ],
+  "defs": [
+   "lot , plot , parcel",
+   "( botany ) ash fleabane ( Vernonia cinerea )",
+   "( anatomy ) head",
+   "head , beginning , source ( such as of a stream )",
+   "top , front",
+   "heading ( of a document or letter )",
+   "( nautical ) bow ( of a boat )",
+   "volume , tome ( book )",
+   "chief , leader",
+   "classifier for copies of books , volumes",
+   "classifier for animals and dehumanized persons such as enemy soldiers"
+  ]
+ },
+ "ភ្នែក": {
+  "status": "ok",
+  "wt": [
+   "phnɛɛk"
+  ],
+  "ipa": [
+   "/pʰnɛːk/"
+  ],
+  "defs": [
+   "( anatomy ) eye",
+   "( botany ) bud",
+   "future",
+   "to be next , to be forthcoming , to be in the future"
+  ]
+ },
+ "ត្រចៀក": {
+  "status": "ok",
+  "wt": [
+   "trɑciək"
+  ],
+  "ipa": [
+   "/trɑ.ˈciəʔ/"
+  ],
+  "defs": [
+   "( anatomy ) ear"
+  ]
+ },
+ "ច្រមុះ": {
+  "status": "ok",
+  "wt": [
+   "crɑmoh"
+  ],
+  "ipa": [
+   "/crɑ.ˈmoh/"
+  ],
+  "defs": [
+   "nose",
+   "snout",
+   "beak"
+  ]
+ },
+ "មាត់": {
+  "status": "ok",
+  "wt": [
+   "mŏət"
+  ],
+  "ipa": [
+   "/mŏət/"
+  ],
+  "defs": [
+   "( anatomy ) mouth",
+   "bank (of a river)"
+  ]
+ },
+ "ធ្មេញ": {
+  "status": "ok",
+  "wt": [
+   "thmɨñ"
+  ],
+  "ipa": [
+   "/tʰmɨɲ/"
+  ],
+  "defs": [
+   "tooth ; teeth"
+  ]
+ },
+ "អណ្ដាត": {
+  "status": "ok",
+  "wt": [
+   "ʼɑndaat"
+  ],
+  "ipa": [
+   "/ʔɑn.ˈɗaːt/"
+  ],
+  "defs": [
+   "( anatomy ) tongue",
+   "reed ( of a musical instrument )"
+  ]
+ },
+ "ដៃ": {
+  "status": "ok",
+  "wt": [
+   "day"
+  ],
+  "ipa": [
+   "/ɗaj/"
+  ],
+  "defs": [
+   "( anatomy ) arm , hand",
+   "handle , lever , crank",
+   "branch (of a tree, river), offshoot",
+   "tendril",
+   "elephant trunk",
+   "sleeve",
+   "steering wheel",
+   "classifier for handfuls of young rice plants, grass",
+   "classifier for slaps with the hand",
+   "classifier for a bunch of areca nuts",
+   "command to an elephant not to move its trunk, or not to pull something with its trunk"
+  ]
+ },
+ "ជើង": {
+  "status": "ok",
+  "wt": [
+   "cəəng"
+  ],
+  "ipa": [
+   "/cəːŋ/"
+  ],
+  "defs": [
+   "leg , foot",
+   "leg ( subscript form of a Khmer consonant )",
+   "base , bottom , support",
+   "way , path , trip",
+   "time ( instance or occurrence )",
+   "expert at ( doing something )",
+   "northwards , to the north ( compare ត្បូង ( tboung , “ head ” ) meaning \"south\" )",
+   "classifier for trips and occurrences",
+   "to be an expert at",
+   "to be skilled at ( especially at gambling and other vices )"
+  ]
+ },
+ "ខ្លួន": {
+  "status": "ok",
+  "wt": [
+   "khluən"
+  ],
+  "ipa": [
+   "/kʰluən/"
+  ],
+  "defs": [
+   "body , soul , heart",
+   "oneself ( myself , yourself ,...)"
+  ]
+ },
+ "ពោះ": {
+  "status": "ok",
+  "wt": [
+   "pŭəh"
+  ],
+  "ipa": [
+   "/pŭəh/"
+  ],
+  "defs": [
+   "belly",
+   "mind , heart , thought"
+  ]
+ },
+ "ខ្នង": {
+  "status": "ok",
+  "wt": [
+   "khnɑɑng"
+  ],
+  "ipa": [
+   "/kʰnɑːŋ/"
+  ],
+  "defs": [
+   "back , dorsal ridge, back side, reverse side",
+   "front ( of an envelope )",
+   "surface",
+   "support , base , foundation",
+   "protector",
+   "classifier for houses and buildings"
+  ]
+ },
+ "សក់": {
+  "status": "ok",
+  "wt": [
+   "sɑk"
+  ],
+  "ipa": [
+   "/sɑʔ/"
+  ],
+  "defs": [
+   "hair"
+  ]
+ },
+ "មុខ": {
+  "status": "ok",
+  "wt": [
+   "muk"
+  ],
+  "ipa": [
+   "/muk/"
+  ],
+  "defs": [
+   "face , front",
+   "decoration ( on a cake )",
+   "mouth ( of a stream, river )",
+   "head , chief , chairman , president",
+   "sharp edge (of a knife)",
+   "position , job , place",
+   "rank , order , sequence",
+   "kind , type , species , variety",
+   "field , area ( of operation or interest )",
+   "way , method , aspect",
+   "in front of",
+   "for sure",
+   "classifier for courses (of a meal)"
+  ]
+ },
+ "ក": {
+  "status": "ok",
+  "wt": [
+   "kɑɑ"
+  ],
+  "ipa": [
+   "/kɑː/"
+  ],
+  "defs": [
+   "first letter of the Cambodian alphabet",
+   "( anatomy ) neck",
+   "collar",
+   "connecting link",
+   "to base on",
+   "to commence ; to start up",
+   "to come into being",
+   "to build ; to construct"
+  ]
+ },
+ "ម្រាមដៃ": {
+  "status": "ok",
+  "wt": [
+   "mriəm day"
+  ],
+  "ipa": [
+   "/mriəm ˈɗaj/"
+  ],
+  "defs": [
+   "( anatomy ) finger"
+  ]
+ },
+ "បេះដូង": {
+  "status": "ok",
+  "wt": [
+   "behdoung"
+  ],
+  "ipa": [
+   "/ɓeh.ˈɗouŋ/"
+  ],
+  "defs": [
+   "( anatomy ) heart",
+   "heart ; soul"
+  ]
+ },
+ "ឈាម": {
+  "status": "ok",
+  "wt": [
+   "chiəm"
+  ],
+  "ipa": [
+   "/cʰiəm/"
+  ],
+  "defs": [
+   "blood"
+  ]
+ },
+ "ស្បែក": {
+  "status": "ok",
+  "wt": [
+   "sbaek"
+  ],
+  "ipa": [
+   "/sɓaek/"
+  ],
+  "defs": [
+   "skin , hide , leather"
+  ]
+ },
+ "ឆ្អឹង": {
+  "status": "ok",
+  "wt": [
+   "chʼəng"
+  ],
+  "ipa": [
+   "/cʰʔəŋ/"
+  ],
+  "defs": [
+   "bone , skeleton",
+   "framework"
+  ]
+ },
+ "ស្មា": {
+  "status": "ok",
+  "wt": [
+   "smaa"
+  ],
+  "ipa": [
+   "/smaː/"
+  ],
+  "defs": [
+   "shoulder"
+  ]
+ },
+ "ជង្គង់": {
+  "status": "ok",
+  "wt": [
+   "cŭəngkŭəng"
+  ],
+  "ipa": [
+   "/cŭəŋ.ˈkŭəŋ/"
+  ],
+  "defs": [
+   "( anatomy ) knee"
+  ]
+ },
+ "ពេទ្យ": {
+  "status": "ok",
+  "wt": [
+   "pɛɛt"
+  ],
+  "ipa": [
+   "/pɛːt/"
+  ],
+  "defs": [
+   "doctor ; physician",
+   "hospital"
+  ]
+ },
+ "គ្រូពេទ្យ": {
+  "status": "ok",
+  "wt": [
+   "kruu pɛɛt"
+  ],
+  "ipa": [
+   "/kruː ˈpɛːt/"
+  ],
+  "defs": [
+   "medical doctor"
+  ]
+ },
+ "មន្ទីរពេទ្យ": {
+  "status": "ok",
+  "wt": [
+   "mŭəntii pɛɛt"
+  ],
+  "ipa": [
+   "/mŭən.ˈtiː pɛːt/"
+  ],
+  "defs": [
+   "hospital , clinic"
+  ]
+ },
+ "ថ្នាំ": {
+  "status": "ok",
+  "wt": [
+   "thnam"
+  ],
+  "ipa": [
+   "/tʰnam/"
+  ],
+  "defs": [
+   "medicine , medication",
+   "herb",
+   "tobacco",
+   "paint ( liquid pigment used on a surface )"
+  ]
+ },
+ "គ្រុន": {
+  "status": "ok",
+  "wt": [
+   "krun"
+  ],
+  "ipa": [
+   "/krun/"
+  ],
+  "defs": [
+   "to have a fever",
+   "fever"
+  ]
+ },
+ "ក្អក": {
+  "status": "ok",
+  "wt": [
+   "kʼɑɑk"
+  ],
+  "ipa": [
+   "/kʔɑːʔ/"
+  ],
+  "defs": [
+   "to cough ."
+  ]
+ },
+ "ឱសថស្ថាន": {
+  "status": "ok",
+  "wt": [
+   "ʼaosɑtthahsthaan, ʼaosɑtsthaan"
+  ],
+  "ipa": [
+   "/ʔao.sɑt.tʰah.stʰaːn/ ~ /ʔao.sɑt.stʰaːn/"
+  ],
+  "defs": [
+   "pharmacy , drugstore"
+  ]
+ },
+ "អាកាសធាតុ": {
+  "status": "ok",
+  "wt": [
+   "ʼaakaasaʼthiət"
+  ],
+  "ipa": [
+   "/ʔaː.kaː.saʔ.tʰiət/"
+  ],
+  "defs": [
+   "climate , weather"
+  ]
+ },
+ "ភ្លៀង": {
+  "status": "ok",
+  "wt": [
+   "phliəng"
+  ],
+  "ipa": [
+   "/pʰliəŋ/"
+  ],
+  "defs": [
+   "rain",
+   "to rain"
+  ]
+ },
+ "ខ្យល់": {
+  "status": "ok",
+  "wt": [
+   "khyɑl, khcɑl, khsɑl"
+  ],
+  "ipa": [
+   "/kjɑl/ ~ /kʰcɑl/ ~ /kʰsɑl/"
+  ],
+  "defs": [
+   "wind , breeze , air",
+   "breath",
+   "gas"
+  ]
+ },
+ "ពពក": {
+  "status": "ok",
+  "wt": [
+   "pɔpɔɔk"
+  ],
+  "ipa": [
+   "/pɔ.ˈpɔːʔ/"
+  ],
+  "defs": [
+   "cloud"
+  ]
+ },
+ "មេឃ": {
+  "status": "ok",
+  "wt": [
+   "meik, meikhĕəʼ–"
+  ],
+  "ipa": [
+   "/meik/ ~ /mei.ˈkʰĕəʔ–/"
+  ],
+  "defs": [
+   "sky , firmament",
+   "cloud",
+   "weather"
+  ]
+ },
+ "ព្រះអាទិត្យ": {
+  "status": "ok",
+  "wt": [
+   "prĕəh ʼaatɨt"
+  ],
+  "ipa": [
+   "/prĕəh ʔaː.ˈtɨt/"
+  ],
+  "defs": [
+   "the sun"
+  ]
+ },
+ "ព្រះច័ន្ទ": {
+  "status": "ok",
+  "wt": [
+   "prĕəh can"
+  ],
+  "ipa": [
+   "/prĕəh ˈcan/"
+  ],
+  "defs": [
+   "moon"
+  ]
+ },
+ "ផ្កាយ": {
+  "status": "ok",
+  "wt": [
+   "phkaay"
+  ],
+  "ipa": [
+   "/pʰkaːj/"
+  ],
+  "defs": [
+   "star , planet , constellation",
+   "star-shaped object or marking",
+   "insignia of rank for general officers"
+  ]
+ },
+ "រដូវ": {
+  "status": "ok",
+  "wt": [
+   "rɔdəw"
+  ],
+  "ipa": [
+   "/rɔ.ˈɗəw/"
+  ],
+  "defs": [
+   "season"
+  ]
+ },
+ "រដូវវស្សា": {
+  "status": "MISSING"
+ },
+ "រដូវប្រាំង": {
+  "status": "MISSING"
+ },
+ "ផ្គរ": {
+  "status": "ok",
+  "wt": [
+   "phkɔɔ"
+  ],
+  "ipa": [
+   "/pʰkɔː/"
+  ],
+  "defs": [
+   "thunder"
+  ]
+ },
+ "ទឹកជំនន់": {
+  "status": "ok",
+  "wt": [
+   "tɨk cumnŭən"
+  ],
+  "ipa": [
+   "/tɨk cum.ˈnŭən/"
+  ],
+  "defs": [
+   "flood , inundation"
+  ]
+ },
+ "ដើមឈើ": {
+  "status": "ok",
+  "wt": [
+   "daəm chəə"
+  ],
+  "ipa": [
+   "/ɗaəm ˈcʰəː/"
+  ],
+  "defs": [
+   "tree"
+  ]
+ },
+ "ផ្កា": {
+  "status": "ok",
+  "wt": [
+   "phkaa"
+  ],
+  "ipa": [
+   "/pʰkaː/"
+  ],
+  "defs": [
+   "flower",
+   "decorative flowery design",
+   "mark ; spot",
+   "menstrual period",
+   "to flower ; to blossom ; to bloom"
+  ]
+ },
+ "ទន្លេ": {
+  "status": "ok",
+  "wt": [
+   "tŭənlei"
+  ],
+  "ipa": [
+   "/tŭən.ˈlei/"
+  ],
+  "defs": [
+   "large river"
+  ]
+ },
+ "សមុទ្រ": {
+  "status": "ok",
+  "wt": [
+   "saʼmot, saʼmotrĕəʼ–"
+  ],
+  "ipa": [
+   "/saʔ.ˈmot/ ~ /saʔ.mot.rĕəʔ–/"
+  ],
+  "defs": [
+   "sea , ocean"
+  ]
+ },
+ "ភ្នំ": {
+  "status": "ok",
+  "wt": [
+   "phnum"
+  ],
+  "ipa": [
+   "/pʰnum/"
+  ],
+  "defs": [
+   "hill",
+   "mountain"
+  ]
+ },
+ "បឹង": {
+  "status": "ok",
+  "wt": [
+   "bəng"
+  ],
+  "ipa": [
+   "/ɓəŋ/"
+  ],
+  "defs": [
+   "lake ; pond ; swamp ; marsh"
+  ]
+ },
+ "ព្រៃ": {
+  "status": "ok",
+  "wt": [
+   "prɨy"
+  ],
+  "ipa": [
+   "/prɨj/"
+  ],
+  "defs": [
+   "jungle , forest , wood , woods , wilderness",
+   "to be wild , savage , undomesticated",
+   "to be deciduous ( as the temporary teeth or hair of a new-born child )"
+  ]
+ },
+ "ដី": {
+  "status": "ok",
+  "wt": [
+   "dəy"
+  ],
+  "ipa": [
+   "/ɗəj/"
+  ],
+  "defs": [
+   "earth ; soil",
+   "land ; ground",
+   "territory",
+   "Piper retrofractum , Balinese Long Pepper (medicinal usage and as a seasoning)"
+  ]
+ },
+ "ថ្ម": {
+  "status": "ok",
+  "wt": [
+   "thmɑɑ"
+  ],
+  "ipa": [
+   "/tʰmɑː/"
+  ],
+  "defs": [
+   "stone , rock ; concrete",
+   "( colloquial ) battery"
+  ]
+ },
+ "ស្រែ": {
+  "status": "ok",
+  "wt": [
+   "srae"
+  ],
+  "ipa": [
+   "/srae/"
+  ],
+  "defs": [
+   "field , paddy , ricefield , rice paddy",
+   "the Degar , the Montagnard , the Sre ( Vietnamese người Cơ Ho , a Mon-Khmer ethnic group of Central Vietnam who speak the Koho language, or Sre , a dialect of Koho )",
+   "to be rural",
+   "to be bleary-eyed ( due to exhaustion or lack of sleep ) , tired ( said of the eyes, from a lack of sleep ) , glazed , unseeing , blank ( as the eyes of an ill person )"
+  ]
+ },
+ "កោះ": {
+  "status": "ok",
+  "wt": [
+   "kɑh"
+  ],
+  "ipa": [
+   "/kɑh/"
+  ],
+  "defs": [
+   "island",
+   "to subpoena , to summon , to convoke someone with a court order",
+   "to bark , bay",
+   "to draw , pull (e.g. a bowstring to shoot an arrow )",
+   "to hook up , attach"
+  ]
+ },
+ "ឆ្នេរ": {
+  "status": "ok",
+  "wt": [
+   "chnee"
+  ],
+  "ipa": [
+   "/cʰneː/"
+  ],
+  "defs": [
+   "to be coastal , littoral",
+   "coast , shore , beach",
+   "bank , edge (of a body of water)"
+  ]
+ },
+ "ពណ៌": {
+  "status": "ok",
+  "wt": [
+   "pɔə"
+  ],
+  "ipa": [
+   "/pŏə/"
+  ],
+  "defs": [
+   "color , colour",
+   "complexion",
+   "aspect , nature , character , appearance",
+   "class , group",
+   "race"
+  ]
+ },
+ "ក្រហម": {
+  "status": "ok",
+  "wt": [
+   "krɑhɑɑm"
+  ],
+  "ipa": [
+   "/krɑ.ˈhɑːm/"
+  ],
+  "defs": [
+   "to be red"
+  ]
+ },
+ "ខៀវ": {
+  "status": "ok",
+  "wt": [
+   "khiəw"
+  ],
+  "ipa": [
+   "/kʰiəw/"
+  ],
+  "defs": [
+   "to be blue ( color )",
+   "Khiev , a surname from Thai"
+  ]
+ },
+ "បៃតង": {
+  "status": "ok",
+  "wt": [
+   "baytɑɑng"
+  ],
+  "ipa": [
+   "/ɓaj.ˈtɑːŋ/"
+  ],
+  "defs": [
+   "green"
+  ]
+ },
+ "លឿង": {
+  "status": "ok",
+  "wt": [
+   "lɨəng"
+  ],
+  "ipa": [
+   "/lɨəŋ/"
+  ],
+  "defs": [
+   "to be yellow"
+  ]
+ },
+ "ស": {
+  "status": "ok",
+  "wt": [
+   "sɑɑ"
+  ],
+  "ipa": [
+   "/sɑː/"
+  ],
+  "defs": [
+   "the thirtieth letter of the Cambodian alphabet",
+   "to be white",
+   "Sa , a surname"
+  ]
+ },
+ "ខ្មៅ": {
+  "status": "ok",
+  "wt": [
+   "khmaw"
+  ],
+  "ipa": [
+   "/kʰmaw/"
+  ],
+  "defs": [
+   "black"
+  ]
+ },
+ "ប្រផេះ": {
+  "status": "ok",
+  "wt": [
+   "prɑpheh"
+  ],
+  "ipa": [
+   "/prɑ.ˈpʰeh/"
+  ],
+  "defs": [
+   "to be grey / gray , ash - colored"
+  ]
+ },
+ "ត្នោត": {
+  "status": "ok",
+  "wt": [
+   "tnaot"
+  ],
+  "ipa": [
+   "/tʰnaot/"
+  ],
+  "defs": [
+   "sugar palm , palmyra palm ( Borassus spp.)"
+  ]
+ },
+ "ផ្កាឈូក": {
+  "status": "ok",
+  "wt": [
+   "phkaa chuuk"
+  ],
+  "ipa": [
+   "/pʰkaː ˈcʰuːk/"
+  ],
+  "defs": [
+   "lotus flower ( Nelumbo nucifera )",
+   "showerhead",
+   "( ពណ៌ ~) pink"
+  ]
+ },
+ "មាស": {
+  "status": "ok",
+  "wt": [
+   "miəh"
+  ],
+  "ipa": [
+   "/miəh/"
+  ],
+  "defs": [
+   "gold",
+   "dearest one",
+   "to be dear , beloved",
+   "Meas , a surname",
+   "moon",
+   "month"
+  ]
+ },
+ "ប្រាក់": {
+  "status": "ok",
+  "wt": [
+   "prak"
+  ],
+  "ipa": [
+   "/praʔ/"
+  ],
+  "defs": [
+   "money",
+   "silver",
+   "button orchid , string of nickels , kind of epiphytic vine ( Dischidia nummularia )",
+   "Prak , a surname"
+  ]
+ },
+ "ហាង": {
+  "status": "ok",
+  "wt": [
+   "haang"
+  ],
+  "ipa": [
+   "/haːŋ/"
+  ],
+  "defs": [
+   "hot ; pungent (as onions, garlic, mustard, etc).",
+   "bitter ; acrid ; sharp tasting (as a wild bamboo shoot).",
+   "tail .",
+   "shop , store"
+  ]
+ },
+ "តម្លៃ": {
+  "status": "ok",
+  "wt": [
+   "tɑmlay"
+  ],
+  "ipa": [
+   "/tɑm.ˈlaj/"
+  ],
+  "defs": [
+   "price , value",
+   "fare"
+  ]
+ },
+ "បញ្ចុះតម្លៃ": {
+  "status": "ok",
+  "wt": [
+   "bɑñcoh tɑmlay"
+  ],
+  "ipa": [
+   "/ɓɑɲ.coh tɑm.laj/"
+  ],
+  "defs": [
+   "to lower the price, to discount"
+  ]
+ },
+ "ថែម": {
+  "status": "ok",
+  "wt": [
+   "thaem"
+  ],
+  "ipa": [
+   "/tʰaem/"
+  ],
+  "defs": [
+   "to add ; to increase (a number)",
+   "again , more , moreover , additionally"
+  ]
+ },
+ "ដូរ": {
+  "status": "ok",
+  "wt": [
+   "dou"
+  ],
+  "ipa": [
+   "/ɗou/"
+  ],
+  "defs": [
+   "to change , exchange , trade , barter"
+  ]
+ },
+ "អាវ": {
+  "status": "ok",
+  "wt": [
+   "ʼaaw"
+  ],
+  "ipa": [
+   "/ʔaːw/"
+  ],
+  "defs": [
+   "shirt ; blouse ; coat ; upper garment",
+   "amount of cloth needed to make one shirt",
+   "estuary (of a river )",
+   "gulf ; bay",
+   "hardened ; having a hard crust ; crusty ; difficult to cook (esp. of potatoes)",
+   "worthless ; good-for-nothing ; dumb"
+  ]
+ },
+ "ខោ": {
+  "status": "ok",
+  "wt": [
+   "khao"
+  ],
+  "ipa": [
+   "/kʰao/"
+  ],
+  "defs": [
+   "pants , trousers"
+  ]
+ },
+ "ស្បែកជើង": {
+  "status": "ok",
+  "wt": [
+   "sbaek cəəng"
+  ],
+  "ipa": [
+   "/sɓaek ˈcəːŋ/"
+  ],
+  "defs": [
+   "shoe"
+  ]
+ },
+ "មួក": {
+  "status": "ok",
+  "wt": [
+   "muək"
+  ],
+  "ipa": [
+   "/muəʔ/"
+  ],
+  "defs": [
+   "hat , cap",
+   "helmet"
+  ]
+ },
+ "វ៉ែនតា": {
+  "status": "ok",
+  "wt": [
+   "vaen taa"
+  ],
+  "ipa": [
+   "/ʋaen ˈtaː/"
+  ],
+  "defs": [
+   "glasses , spectacles"
+  ]
+ },
+ "កាបូប": {
+  "status": "ok",
+  "wt": [
+   "kaaboup"
+  ],
+  "ipa": [
+   "/kaː.ˈɓoup/"
+  ],
+  "defs": [
+   "wallet , billfold",
+   "purse , bag"
+  ]
+ },
+ "ទំហំ": {
+  "status": "ok",
+  "wt": [
+   "tumhum"
+  ],
+  "ipa": [
+   "/tum.ˈhum/"
+  ],
+  "defs": [
+   "size",
+   "area"
+  ]
+ },
+ "យក": {
+  "status": "ok",
+  "wt": [
+   "yɔɔk, yɔɔ"
+  ],
+  "ipa": [
+   "/jɔːʔ/ ~ /jɔː/"
+  ],
+  "defs": [
+   "to take ( in one's hand or with oneself ) , hold , receive",
+   "to take away",
+   "to obtain , achieve",
+   "to bring , get , accept , need",
+   "to steal",
+   "to borrow"
+  ]
+ },
+ "ចាយ": {
+  "status": "ok",
+  "wt": [
+   "caay"
+  ],
+  "ipa": [
+   "/caːj/"
+  ],
+  "defs": [
+   "to spend (money)",
+   "to disperse , to scatter"
+  ]
+ },
+ "ពេក": {
+  "status": "ok",
+  "wt": [
+   "peik"
+  ],
+  "ipa": [
+   "/peik/"
+  ],
+  "defs": [
+   "too , too much , too many",
+   "beyond , extra"
+  ]
+ },
+ "អតិថិជន": {
+  "status": "ok",
+  "wt": [
+   "ʼaʼtethecŭən"
+  ],
+  "ipa": [
+   "/ʔaʔ.te.tʰe.cŭən/"
+  ],
+  "defs": [
+   "client , customer"
+  ]
+ },
+ "អ្នកលក់": {
+  "status": "ok",
+  "wt": [
+   "nĕək lŭək"
+  ],
+  "ipa": [
+   "/nĕəʔ ˈlŭəʔ/"
+  ],
+  "defs": [
+   "salesperson"
+  ]
+ },
+ "គីឡូ": {
+  "status": "ok",
+  "wt": [
+   "kiilou"
+  ],
+  "ipa": [
+   "/kiː.ˈlou/"
+  ],
+  "defs": [
+   "kilo-",
+   "kilogram (kg)",
+   "kilometre (km)"
+  ]
+ },
+ "កន្លះ": {
+  "status": "ok",
+  "wt": [
+   "kɑnlah"
+  ],
+  "ipa": [
+   "/kɑn.ˈlah/"
+  ],
+  "defs": [
+   "half a",
+   "half"
+  ]
+ },
+ "ទាំងអស់": {
+  "status": "ok",
+  "wt": [
+   "tĕəng ʼɑh"
+  ],
+  "ipa": [
+   "/tĕəŋ ˈʔɑh/"
+  ],
+  "defs": [
+   "all of, all"
+  ]
+ },
+ "ផ្សារទំនើប": {
+  "status": "ok",
+  "wt": [
+   "phsaa tumnəəp"
+  ],
+  "ipa": [
+   "/pʰsaː tum.ˈnəːp/"
+  ],
+  "defs": [
+   "supermarket",
+   "shopping center , shopping mall"
+  ]
+ },
+ "បង់": {
+  "status": "ok",
+  "wt": [
+   "bɑng"
+  ],
+  "ipa": [
+   "/ɓɑŋ/"
+  ],
+  "defs": [
+   "to pay a fee",
+   "to lose , discard , abandon , squander",
+   "to waste , eliminate",
+   "to be useless",
+   "to put , put in, put on, deposit ( such as money )",
+   "to spread (a granular substance) on, to sprinkle",
+   "to cast , throw out ( e.g., a net )",
+   "to do in vain",
+   "pinch (of something)",
+   "magazine , ammunition clip",
+   "classifier for pinches of something",
+   "classifier for boxes of cartridges",
+   "bank",
+   "band ( radio spectrum )"
+  ]
+ },
+ "ការងារ": {
+  "status": "ok",
+  "wt": [
+   "kaa ngiə"
+  ],
+  "ipa": [
+   "/kaː ˈŋiə/"
+  ],
+  "defs": [
+   "job , work"
+  ]
+ },
+ "ការិយាល័យ": {
+  "status": "ok",
+  "wt": [
+   "kaariyaalay"
+  ],
+  "ipa": [
+   "/kaː.ri.jaː.laj/"
+  ],
+  "defs": [
+   "office"
+  ]
+ },
+ "ក្រុមហ៊ុន": {
+  "status": "ok",
+  "wt": [
+   "krom hun, krommaʼ hun"
+  ],
+  "ipa": [
+   "/krom ˈhun/ ~ /krom.ˈmaʔ hun/"
+  ],
+  "defs": [
+   "company , corporation"
+  ]
+ },
+ "ប្រាក់ខែ": {
+  "status": "ok",
+  "wt": [
+   "prak khae"
+  ],
+  "ipa": [
+   "/praʔ ˈkʰae/"
+  ],
+  "defs": [
+   "salary"
+  ]
+ },
+ "ចៅហ្វាយ": {
+  "status": "ok",
+  "wt": [
+   "caw vaay, caw faay"
+  ],
+  "ipa": [
+   "/caw ˈʋaːj/ ~ /caw ˈfaːj/"
+  ],
+  "defs": [
+   "chief , manager , boss 1938 , រីម គីន [ Rim Kin ], chapter 1, in សូផាត [ Sophat ], published 1942 :"
+  ]
+ },
+ "កសិករ": {
+  "status": "ok",
+  "wt": [
+   "kaʼsekɑɑ"
+  ],
+  "ipa": [
+   "/kaʔ.se.kɑː/"
+  ],
+  "defs": [
+   "farmer 1962 , សួន សុរិន្ទ [ Suon Sorin ], chapter 1, in ព្រះអាទិត្យថ្មីរះលើផែនដីចាស់ [ A New Sun Rises Over the Old Land ]:"
+  ]
+ },
+ "វេជ្ជបណ្ឌិត": {
+  "status": "ok",
+  "wt": [
+   "vɨccĕəʼbɑndɨt"
+  ],
+  "ipa": [
+   "/ʋɨc.cĕəʔ.ɓɑn.ɗɨt/"
+  ],
+  "defs": [
+   "medical doctor"
+  ]
+ },
+ "ប៉ូលិស": {
+  "status": "ok",
+  "wt": [
+   "poulih"
+  ],
+  "ipa": [
+   "/pou.ˈlih/"
+  ],
+  "defs": [
+   "police"
+  ]
+ },
+ "អ្នកបើកបរ": {
+  "status": "MISSING"
+ },
+ "ចុងភៅ": {
+  "status": "ok",
+  "wt": [
+   "congphɨw"
+  ],
+  "ipa": [
+   "/coŋ.ˈpʰɨw/"
+  ],
+  "defs": [
+   "cook"
+  ]
+ },
+ "កម្មករ": {
+  "status": "ok",
+  "wt": [
+   "kamkɑɑ, kammĕəʼkɑɑ, kammaʼkɑɑ"
+  ],
+  "ipa": [
+   "/kam.ˈkɑː/ ~ /kam.mĕəʔ.kɑː/ ~ /kam.maʔ.kɑː/"
+  ],
+  "defs": [
+   "worker , workman , hired hand , laborer"
+  ]
+ },
+ "ទាហាន": {
+  "status": "ok",
+  "wt": [
+   "tiəhiən"
+  ],
+  "ipa": [
+   "/tiə.ˈhiən/"
+  ],
+  "defs": [
+   "soldier"
+  ]
+ },
+ "អ្នកនេសាទ": {
+  "status": "ok",
+  "wt": [
+   "nĕək neesaat, nĕək neisaat"
+  ],
+  "ipa": [
+   "/nĕəʔ neː.ˈsaːt/ ~ /nĕəʔ nei.ˈsaːt/"
+  ],
+  "defs": [
+   "fisherman"
+  ]
+ },
+ "ប្រជុំ": {
+  "status": "ok",
+  "wt": [
+   "prɑcum"
+  ],
+  "ipa": [
+   "/prɑ.ˈcum/"
+  ],
+  "defs": [
+   "to meet ; to assemble ; to have a meeting"
+  ]
+ },
+ "កុំព្យូទ័រ": {
+  "status": "ok",
+  "wt": [
+   "kompyuutɔə"
+  ],
+  "ipa": [
+   "/kom.pʰjuː.tŏə/"
+  ],
+  "defs": [
+   "computer"
+  ]
+ },
+ "ទូរស័ព្ទ": {
+  "status": "ok",
+  "wt": [
+   "tuurĕəʼsap, tuurəsap"
+  ],
+  "ipa": [
+   "/tuː.rĕəʔ.sap/ ~ /tuː.rə.sap/"
+  ],
+  "defs": [
+   "telephone , phone"
+  ]
+ },
+ "សៀវភៅ": {
+  "status": "ok",
+  "wt": [
+   "siəw phɨw"
+  ],
+  "ipa": [
+   "/siəw ˈpʰɨw/"
+  ],
+  "defs": [
+   "book",
+   "pad , notebook"
+  ]
+ },
+ "ក្រដាស": {
+  "status": "ok",
+  "wt": [
+   "krɑdaah"
+  ],
+  "ipa": [
+   "/krɑ.ˈɗaːh/"
+  ],
+  "defs": [
+   "paper (material).",
+   "a flowering climber , great bougainvillea ( Bougainvillea spectabilis )"
+  ]
+ },
+ "ប៊ិច": {
+  "status": "ok",
+  "wt": [
+   "bɨc"
+  ],
+  "ipa": [
+   "/ɓɨc/"
+  ],
+  "defs": [
+   "pen , ballpoint pen",
+   "( card games ) spades"
+  ]
+ },
+ "ខ្មៅដៃ": {
+  "status": "ok",
+  "wt": [
+   "khmaw day"
+  ],
+  "ipa": [
+   "/kʰmaw ˈɗaj/"
+  ],
+  "defs": [
+   "pencil"
+  ]
+ },
+ "តុ": {
+  "status": "ok",
+  "wt": [
+   "tok, toʼ"
+  ],
+  "ipa": [
+   "/tok/ ~ /toʔ/"
+  ],
+  "defs": [
+   "table , desk , stand",
+   "small plate on legs for fruit or dessert"
+  ]
+ },
+ "កៅអី": {
+  "status": "ok",
+  "wt": [
+   "kawʼəy"
+  ],
+  "ipa": [
+   "/kaw.ˈʔəj/"
+  ],
+  "defs": [
+   "chair",
+   "seat"
+  ]
+ },
+ "គ្រូបង្រៀន": {
+  "status": "ok",
+  "wt": [
+   "kruu bɑngriən"
+  ],
+  "ipa": [
+   "/kruː ɓɑŋ.ˈriən/"
+  ],
+  "defs": [
+   "teacher , instructor"
+  ]
+ },
+ "បង្រៀន": {
+  "status": "ok",
+  "wt": [
+   "bɑngriən"
+  ],
+  "ipa": [
+   "/ɓɑŋ.ˈriən/"
+  ],
+  "defs": [
+   "to teach , instruct , train"
+  ]
+ },
+ "ថ្នាក់": {
+  "status": "ok",
+  "wt": [
+   "thnak"
+  ],
+  "ipa": [
+   "/tʰnaʔ/"
+  ],
+  "defs": [
+   "level , rank , echelon , step , stage",
+   "class , grade , category",
+   "shelf",
+   "floor , story",
+   "( taxonomy ) class"
+  ]
+ },
+ "សប្បាយចិត្ត": {
+  "status": "MISSING"
+ },
+ "ពិបាកចិត្ត": {
+  "status": "MISSING"
+ },
+ "ខឹង": {
+  "status": "ok",
+  "wt": [
+   "khəng"
+  ],
+  "ipa": [
+   "/kʰəŋ/"
+  ],
+  "defs": [
+   "angry",
+   "( vulgar ,  of a penis ) erect"
+  ]
+ },
+ "ខ្លាច": {
+  "status": "ok",
+  "wt": [
+   "khlaac"
+  ],
+  "ipa": [
+   "/kʰlaːc/"
+  ],
+  "defs": [
+   "to be scared , afraid",
+   "to fear , be afraid",
+   "to respect",
+   "lest , for fear that"
+  ]
+ },
+ "ហត់": {
+  "status": "ok",
+  "wt": [
+   "hɑt"
+  ],
+  "ipa": [
+   "/hɑt/"
+  ],
+  "defs": [
+   "to be tired , weary",
+   "to be breathless , out of breath ; to be panting , puffing"
+  ]
+ },
+ "នឿយ": {
+  "status": "ok",
+  "wt": [
+   "nɨəy"
+  ],
+  "ipa": [
+   "/nɨəj/"
+  ],
+  "defs": [
+   "to be tired , exhausted"
+  ]
+ },
+ "អផ្សុក": {
+  "status": "ok",
+  "wt": [
+   "ʼɑpphsok"
+  ],
+  "ipa": [
+   "/ʔɑp.ˈpʰsok/"
+  ],
+  "defs": [
+   "to be bored , tired of",
+   "to be unhappy , worried",
+   "to be lonely",
+   "( royal ,  clergy ) to be ill , sick",
+   "boredom",
+   "loneliness"
+  ]
+ },
+ "ភ្ញាក់ផ្អើល": {
+  "status": "ok",
+  "wt": [
+   "phñĕək phʼaəl"
+  ],
+  "ipa": [
+   "/pʰɲĕəʔ ˈpʔaəl/"
+  ],
+  "defs": [
+   "to be surprised , startled , to panic"
+  ]
+ },
+ "ព្រួយ": {
+  "status": "ok",
+  "wt": [
+   "pruəy"
+  ],
+  "ipa": [
+   "/pruəj/"
+  ],
+  "defs": [
+   "to worry",
+   "to suffer",
+   "to be worried , anxious",
+   "to be sad , suffering , unhappy , low , down , depressed"
+  ]
+ },
+ "អៀន": {
+  "status": "ok",
+  "wt": [
+   "ʼiən"
+  ],
+  "ipa": [
+   "/ʔiən/"
+  ],
+  "defs": [
+   "to be shy , bashful , sheepish",
+   "to be embarrassed",
+   "to be ashamed"
+  ]
+ },
+ "រីករាយ": {
+  "status": "ok",
+  "wt": [
+   "riik riəy"
+  ],
+  "ipa": [
+   "/riːk ˈriəj/"
+  ],
+  "defs": [
+   "to be happy , glad , enthusiastic , cheerful"
+  ]
+ },
+ "សោកសៅ": {
+  "status": "MISSING"
+ },
+ "ខកចិត្ត": {
+  "status": "MISSING"
+ },
+ "ចិត្ត": {
+  "status": "ok",
+  "wt": [
+   "cət"
+  ],
+  "ipa": [
+   "/cət/"
+  ],
+  "defs": [
+   "feeling , emotions , heart (as the seat of emotion)",
+   "will , willpower",
+   "nature , disposition",
+   "intention",
+   "thought , opinion , mind , heart (spirit, reason)",
+   "in compounds, often corresponds to English psycho-",
+   "( dialect ,  Surin ) mean , vicious , fierce , hot-tempered",
+   "artistically done, carefully done",
+   "fifth month of the Cambodian lunar calendar, corresponding to mid-March/mid-April"
+  ]
+ },
+ "ញញឹម": {
+  "status": "ok",
+  "wt": [
+   "ñɔñɨm"
+  ],
+  "ipa": [
+   "/ɲɔ.ˈɲɨm/"
+  ],
+  "defs": [
+   "smile",
+   "to smile , be smiling"
+  ]
+ },
+ "សើច": {
+  "status": "ok",
+  "wt": [
+   "saəc"
+  ],
+  "ipa": [
+   "/saəc/"
+  ],
+  "defs": [
+   "to laugh"
+  ]
+ },
+ "យំ": {
+  "status": "ok",
+  "wt": [
+   "yum"
+  ],
+  "ipa": [
+   "/jum/"
+  ],
+  "defs": [
+   "to weep , shed tears ; to cry",
+   "to sing (of birds); to chirp (of crickets)"
+  ]
+ },
+ "យ៉ាងម៉េច": {
+  "status": "MISSING"
+ },
+ "ហេតុអី": {
+  "status": "ok",
+  "wt": [
+   "haet ʼəy"
+  ],
+  "ipa": [
+   "/haet ˈʔəj/"
+  ],
+  "defs": [
+   "alternative form of ហេតុអ្វី ( haet ʼaʼvəy )"
+  ]
+ },
+ "មែន": {
+  "status": "ok",
+  "wt": [
+   "mɛɛn"
+  ],
+  "ipa": [
+   "/mɛːn/"
+  ],
+  "defs": [
+   "to be real , true , accurate",
+   "to be right , correct",
+   "really , actually , indeed",
+   "it is true"
+  ]
+ },
+ "មែនទេ": {
+  "status": "ok",
+  "wt": [
+   "mɛɛn tei"
+  ],
+  "ipa": [
+   "/mɛːn ˈtei/"
+  ],
+  "defs": [
+   "is that so ?, right ?, really ?"
+  ]
+ },
+ "ប៉ុណ្ណា": {
+  "status": "MISSING"
+ },
+ "ទៀត": {
+  "status": "ok",
+  "wt": [
+   "tiət"
+  ],
+  "ipa": [
+   "/tiət/"
+  ],
+  "defs": [
+   "again , more , still , further , yet , additional"
+  ]
+ },
+ "ហើយនិង": {
+  "status": "MISSING"
+ },
+ "និង": {
+  "status": "ok",
+  "wt": [
+   "nɨng"
+  ],
+  "ipa": [
+   "/nɨŋ/"
+  ],
+  "defs": [
+   "and"
+  ]
+ },
+ "ជាមួយ": {
+  "status": "ok",
+  "wt": [
+   "ciə muəy"
+  ],
+  "ipa": [
+   "/ciə ˈmuəj/"
+  ],
+  "defs": [
+   "with , along with",
+   "together"
+  ]
+ },
+ "សម្រាប់": {
+  "status": "ok",
+  "wt": [
+   "sɑmrap"
+  ],
+  "ipa": [
+   "/sɑm.ˈrap/"
+  ],
+  "defs": [
+   "to serve as, to be used for, to be intended for",
+   "for , for the purpose of, in order to",
+   "for , in exchange of (when buying)",
+   "for , to (when giving)",
+   "for , as for , concerning",
+   "classifier for suits of clothing , sets of tools and equipment , decks of cards",
+   "set or group of royal ministers ( there were four classes of somrabs, each divided into ten grades or ពាន់ ( pŏən ) )",
+   "daily food prepared by the laity and donated to the monks"
+  ]
+ },
+ "ព្រោះ": {
+  "status": "ok",
+  "wt": [
+   "prŭəh"
+  ],
+  "ipa": [
+   "/prŭəh/"
+  ],
+  "defs": [
+   "to sow seeds",
+   "because"
+  ]
+ },
+ "ប្រសិនបើ": {
+  "status": "ok",
+  "wt": [
+   "prɑsən baə"
+  ],
+  "ipa": [
+   "/prɑ.ˈsən ɓaə/"
+  ],
+  "defs": [
+   "if by chance , if ever , in case of"
+  ]
+ },
+ "ប៉ុន្តែ": {
+  "status": "ok",
+  "wt": [
+   "pontae"
+  ],
+  "ipa": [
+   "/pon.ˈtae/"
+  ],
+  "defs": [
+   "but , however"
+  ]
+ },
+ "បន្ទប់": {
+  "status": "ok",
+  "wt": [
+   "bɑntup"
+  ],
+  "ipa": [
+   "/ɓɑn.ˈtup/"
+  ],
+  "defs": [
+   "room (of a building)"
+  ]
+ },
+ "ទ្វារ": {
+  "status": "ok",
+  "wt": [
+   "tviə"
+  ],
+  "ipa": [
+   "/tʰʋiə/"
+  ],
+  "defs": [
+   "door ; entrance ; opening ; gate",
+   "one of the 10 mystical entrances or portals of the human body (ears, eyes, nares, mouth, navel, anus, and urinary meatus)",
+   "mountain pass",
+   "bay ; gulf"
+  ]
+ },
+ "បង្អួច": {
+  "status": "ok",
+  "wt": [
+   "bɑngʼuəc"
+  ],
+  "ipa": [
+   "/ɓɑŋ.ˈʔuəc/"
+  ],
+  "defs": [
+   "window"
+  ]
+ },
+ "គ្រែ": {
+  "status": "ok",
+  "wt": [
+   "krɛɛ"
+  ],
+  "ipa": [
+   "/krɛː/"
+  ],
+  "defs": [
+   "bed ; couch"
+  ]
+ },
+ "ផ្ទះបាយ": {
+  "status": "ok",
+  "wt": [
+   "phtĕəh baay"
+  ],
+  "ipa": [
+   "/pʰtĕəh ˈɓaːj/"
+  ],
+  "defs": [
+   "kitchen"
+  ]
+ },
+ "បន្ទប់ទឹក": {
+  "status": "ok",
+  "wt": [
+   "bɑntup tɨk"
+  ],
+  "ipa": [
+   "/ɓɑn.ˈtup tɨk/"
+  ],
+  "defs": [
+   "bathroom , washroom"
+  ]
+ },
+ "ភ្លើង": {
+  "status": "ok",
+  "wt": [
+   "phləəng"
+  ],
+  "ipa": [
+   "/pʰləːŋ/"
+  ],
+  "defs": [
+   "fire , flame",
+   "light , flare",
+   "electricity"
+  ]
+ },
+ "កង្ហារ": {
+  "status": "ok",
+  "wt": [
+   "kɑnghaa"
+  ],
+  "ipa": [
+   "/kɑŋ.ˈhaː/"
+  ],
+  "defs": [
+   "fan (electric device), pinwheel , propeller , vane"
+  ]
+ },
+ "ទូរទស្សន៍": {
+  "status": "ok",
+  "wt": [
+   "tuurĕəʼtŭəh, tuurətŭəh"
+  ],
+  "ipa": [
+   "/tuː.rĕəʔ.tŭəh/ ~ /tuː.rə.tŭəh/"
+  ],
+  "defs": [
+   "television"
+  ]
+ },
+ "ចាន": {
+  "status": "ok",
+  "wt": [
+   "caan"
+  ],
+  "ipa": [
+   "/caːn/"
+  ],
+  "defs": [
+   "dish , plate , bowl",
+   "porcelain",
+   "classifier for dishes of food"
+  ]
+ },
+ "ស្លាបព្រា": {
+  "status": "ok",
+  "wt": [
+   "slaap priə"
+  ],
+  "ipa": [
+   "/slaːp ˈpriə/"
+  ],
+  "defs": [
+   "spoon"
+  ]
+ },
+ "សម": {
+  "status": "ok",
+  "wt": [
+   "sɑɑm",
+   "sɑm, saʼmaʼ–"
+  ],
+  "ipa": [
+   "/sɑːm/",
+   "/sɑm/ ~ /saʔ.ˈmaʔ–/"
+  ],
+  "defs": [
+   "fork",
+   "trident , gig (three-pronged fishing spear)",
+   "to practice , to rehearse",
+   "training , exercise",
+   "used in the compound សមសែម ( sɑmsaem , “ to repair , to fix ” )",
+   "to be wilted , dried up , faded",
+   "to be appropriate , proper , becoming , decent , suitable , fitting , right , correct",
+   "to be identical , similar , like , equal",
+   "to be excellent , beautiful , attractive , handsome , luxurious",
+   "to fit , go well with",
+   "as a result , on account of , since",
+   "then",
+   "accordingly , undoubtedly , obviously , probable that, likely that",
+   "Sam , a surname"
+  ]
+ },
+ "ចង្កឹះ": {
+  "status": "ok",
+  "wt": [
+   "cɑngkəh"
+  ],
+  "ipa": [
+   "/cɑŋ.ˈkəh/"
+  ],
+  "defs": [
+   "chopstick"
+  ]
+ },
+ "កែវ": {
+  "status": "ok",
+  "wt": [
+   "kaew"
+  ],
+  "ipa": [
+   "/kaew/"
+  ],
+  "defs": [
+   "glass ( material and the container )",
+   "crystal , jewelry",
+   "lens",
+   "a unisex given name , Keo",
+   "classifier for glassfuls of water , wine , juice , etc."
+  ]
+ },
+ "កាំបិត": {
+  "status": "ok",
+  "wt": [
+   "kambət"
+  ],
+  "ipa": [
+   "/kam.ˈɓət/"
+  ],
+  "defs": [
+   "knife"
+  ]
+ },
+ "ឆ្នាំង": {
+  "status": "ok",
+  "wt": [
+   "chnang"
+  ],
+  "ipa": [
+   "/cʰnaŋ/"
+  ],
+  "defs": [
+   "cooking pot , kettle , pan , casserole"
+  ]
+ },
+ "គោ": {
+  "status": "ok",
+  "wt": [
+   "koo"
+  ],
+  "ipa": [
+   "/koː/"
+  ],
+  "defs": [
+   "ox ; cow ; bull",
+   "to be naive , gullible , easily influenced by flattery"
+  ]
+ },
+ "ជ្រូក": {
+  "status": "ok",
+  "wt": [
+   "cruuk"
+  ],
+  "ipa": [
+   "/cruːk/"
+  ],
+  "defs": [
+   "pig"
+  ]
+ },
+ "ទា": {
+  "status": "ok",
+  "wt": [
+   "tiə"
+  ],
+  "ipa": [
+   "/tiə/"
+  ],
+  "defs": [
+   "uncouth people, people of low birth",
+   "duck"
+  ]
+ },
+ "សេះ": {
+  "status": "ok",
+  "wt": [
+   "seh"
+  ],
+  "ipa": [
+   "/seh/"
+  ],
+  "defs": [
+   "horse",
+   "( chess ) knight"
+  ]
+ },
+ "ដំរី": {
+  "status": "ok",
+  "wt": [
+   "dɑmrəy"
+  ],
+  "ipa": [
+   "/ɗɑm.ˈrəj/"
+  ],
+  "defs": [
+   "elephant"
+  ]
+ },
+ "ស្វា": {
+  "status": "ok",
+  "wt": [
+   "svaa"
+  ],
+  "ipa": [
+   "/sʋaː/"
+  ],
+  "defs": [
+   "monkey (esp. of the genera Macaca and Presbytis )",
+   "ape"
+  ]
+ },
+ "ពស់": {
+  "status": "ok",
+  "wt": [
+   "pŭəh"
+  ],
+  "ipa": [
+   "/pŭəh/"
+  ],
+  "defs": [
+   "snake"
+  ]
+ },
+ "ក្របី": {
+  "status": "ok",
+  "wt": [
+   "krɑbəy"
+  ],
+  "ipa": [
+   "/krɑ.ˈɓəj/"
+  ],
+  "defs": [
+   "water buffalo",
+   "monkey (in folk tales)"
+  ]
+ },
+ "សត្វ": {
+  "status": "ok",
+  "wt": [
+   "sat"
+  ],
+  "ipa": [
+   "/sat/"
+  ],
+  "defs": [
+   "animal (also affixing to some animal's names)",
+   "being , living creature (animal as opposed to plant)",
+   "life",
+   "soul"
+  ]
+ },
+ "បក្សី": {
+  "status": "ok",
+  "wt": [
+   "baksəy"
+  ],
+  "ipa": [
+   "/ɓak.ˈsəj/"
+  ],
+  "defs": [
+   "bird"
+  ]
+ },
+ "កណ្ដុរ": {
+  "status": "ok",
+  "wt": [
+   "kɑndol, kɑndao"
+  ],
+  "ipa": [
+   "/kɑn.ˈɗol/ ~ /kɑn.ˈɗao/"
+  ],
+  "defs": [
+   "mouse ; rat"
+  ]
+ },
+ "មូស": {
+  "status": "ok",
+  "wt": [
+   "muuh"
+  ],
+  "ipa": [
+   "/muːh/"
+  ],
+  "defs": [
+   "mosquito ; gnat",
+   "wooden wedge used in woodcutting"
+  ]
+ },
+ "ស្ករ": {
+  "status": "ok",
+  "wt": [
+   "skɑɑ"
+  ],
+  "ipa": [
+   "/skɑː/"
+  ],
+  "defs": [
+   "sugar"
+  ]
+ },
+ "អំបិល": {
+  "status": "ok",
+  "wt": [
+   "ʼɑmbəl"
+  ],
+  "ipa": [
+   "/ʔɑm.ˈɓəl/"
+  ],
+  "defs": [
+   "salt"
+  ]
+ },
+ "ម្ទេស": {
+  "status": "ok",
+  "wt": [
+   "mteih"
+  ],
+  "ipa": [
+   "/mteih/"
+  ],
+  "defs": [
+   "red or green chili pepper ( Capsicum frutescens )"
+  ]
+ },
+ "ខ្ទឹម": {
+  "status": "ok",
+  "wt": [
+   "khtɨm"
+  ],
+  "ipa": [
+   "/kʰtɨm/"
+  ],
+  "defs": [
+   "generic name for onion , garlic , leek , and related vegetables"
+  ]
+ },
+ "ទឹកត្រី": {
+  "status": "ok",
+  "wt": [
+   "tɨk trəy"
+  ],
+  "ipa": [
+   "/tɨk ˈtrəj/"
+  ],
+  "defs": [
+   "fish sauce"
+  ]
+ },
+ "ប្រហុក": {
+  "status": "ok",
+  "wt": [
+   "prɑhok"
+  ],
+  "ipa": [
+   "/prɑ.ˈhok/"
+  ],
+  "defs": [
+   "prahok ( paste of salted and fermented fish used in Cambodian cuisine )"
+  ]
+ },
+ "អាម៉ុក": {
+  "status": "MISSING"
+ },
+ "បបរ": {
+  "status": "ok",
+  "wt": [
+   "bɑbɑɑ"
+  ],
+  "ipa": [
+   "/ɓɑ.ˈɓɑː/"
+  ],
+  "defs": [
+   "rice gruel , rice porridge"
+  ]
+ },
+ "នំ": {
+  "status": "ok",
+  "wt": [
+   "num"
+  ],
+  "ipa": [
+   "/num/"
+  ],
+  "defs": [
+   "generic name for many kinds of desserts : pastry , cake , cookie , confection",
+   "breast"
+  ]
+ },
+ "ស្រាបៀរ": {
+  "status": "MISSING"
+ },
+ "ល្ហុង": {
+  "status": "ok",
+  "wt": [
+   "lhong"
+  ],
+  "ipa": [
+   "/lhoŋ/"
+  ],
+  "defs": [
+   "papaya ( Carica papaya )",
+   "castor oil plant ( Ricinus communis )",
+   "kind of hollyhock (grown as a natural fence)",
+   "kind of mango"
+  ]
+ },
+ "ម្នាស់": {
+  "status": "ok",
+  "wt": [
+   "mnŏəh"
+  ],
+  "ipa": [
+   "/mnŏəh/"
+  ],
+  "defs": [
+   "pineapple"
+  ]
+ },
+ "ឪឡឹក": {
+  "status": "ok",
+  "wt": [
+   "ʼəwlək"
+  ],
+  "ipa": [
+   "/ʔəw.ˈlək/"
+  ],
+  "defs": [
+   "watermelon"
+  ]
+ },
+ "ធុរេន": {
+  "status": "MISSING"
+ },
+ "ក្ដាម": {
+  "status": "ok",
+  "wt": [
+   "kdaam"
+  ],
+  "ipa": [
+   "/kɗaːm/"
+  ],
+  "defs": [
+   "( zoology ) crab",
+   "( pathology ) cramp"
+  ]
+ },
+ "បង្គា": {
+  "status": "ok",
+  "wt": [
+   "bɑngkiə"
+  ],
+  "ipa": [
+   "/ɓɑŋ.ˈkiə/"
+  ],
+  "defs": [
+   "shrimp ; prawn"
+  ]
+ },
+ "ជូរ": {
+  "status": "ok",
+  "wt": [
+   "cuu"
+  ],
+  "ipa": [
+   "/cuː/"
+  ],
+  "defs": [
+   "sour , bitter , tart"
+  ]
+ },
+ "ប្រៃ": {
+  "status": "ok",
+  "wt": [
+   "pray"
+  ],
+  "ipa": [
+   "/praj/"
+  ],
+  "defs": [
+   "salty",
+   "savory",
+   "salted , pickled",
+   "( figurative ) strong , powerful"
+  ]
+ },
+ "ល្វីង": {
+  "status": "ok",
+  "wt": [
+   "lviing"
+  ],
+  "ipa": [
+   "/lʋiːŋ/"
+  ],
+  "defs": [
+   "bitter (as a bitter melon )",
+   "( figurative ) fed up with, sick and tired of"
+  ]
+ },
+ "ឆ្អែត": {
+  "status": "ok",
+  "wt": [
+   "chʼaet"
+  ],
+  "ipa": [
+   "/cʰʔaet/"
+  ],
+  "defs": [
+   "full (after eating)"
+  ]
+ },
+ "ម្ហូបអាហារ": {
+  "status": "MISSING"
+ },
+ "អាហារ": {
+  "status": "ok",
+  "wt": [
+   "ʼaahaa"
+  ],
+  "ipa": [
+   "/ʔaː.ˈhaː/"
+  ],
+  "defs": [
+   "food , meal"
+  ]
+ },
+ "មករា": {
+  "status": "ok",
+  "wt": [
+   "mĕəʼkaʼraa"
+  ],
+  "ipa": [
+   "/mĕəʔ.kaʔ.raː/"
+  ],
+  "defs": [
+   "January",
+   "Makara (a mythical aquatic creature in Hindu mythology) English Wikipedia has an article on: Makara Wikipedia",
+   "Capricorn ( រាសី / zodiac sign )"
+  ]
+ },
+ "កុម្ភៈ": {
+  "status": "ok",
+  "wt": [
+   "komphĕəʼ"
+  ],
+  "ipa": [
+   "/kom.ˈpʰĕəʔ/"
+  ],
+  "defs": [
+   "February",
+   "clay pot , clay jar",
+   "Aquarius ( រាសី / zodiac sign )"
+  ]
+ },
+ "មីនា": {
+  "status": "ok",
+  "wt": [
+   "miinaa, miiniə"
+  ],
+  "ipa": [
+   "/miː.ˈnaː/ ~ /miː.ˈniə/"
+  ],
+  "defs": [
+   "March",
+   "Pisces ( រាសី / zodiac sign )"
+  ]
+ },
+ "មេសា": {
+  "status": "ok",
+  "wt": [
+   "meisaa"
+  ],
+  "ipa": [
+   "/mei.ˈsaː/"
+  ],
+  "defs": [
+   "April",
+   "goat or sheep",
+   "Aries ( រាសី / zodiac sign )"
+  ]
+ },
+ "ឧសភា": {
+  "status": "ok",
+  "wt": [
+   "ʼosaʼphiə, ʼusaʼphiə"
+  ],
+  "ipa": [
+   "/ʔo.saʔ.pʰiə/ ~ /ʔu.saʔ.pʰiə/"
+  ],
+  "defs": [
+   "May (month)",
+   "bull",
+   "Taurus ( រាសី / zodiac sign )"
+  ]
+ },
+ "មិថុនា": {
+  "status": "ok",
+  "wt": [
+   "mithonaa"
+  ],
+  "ipa": [
+   "/mi.tʰo.naː/"
+  ],
+  "defs": [
+   "June",
+   "A couple (husband and wife)",
+   "Gemini ( រាសី / zodiac sign )"
+  ]
+ },
+ "កក្កដា": {
+  "status": "ok",
+  "wt": [
+   "kakkaʼdaa"
+  ],
+  "ipa": [
+   "/kaʔ.kaʔ.ɗaː/"
+  ],
+  "defs": [
+   "July"
+  ]
+ },
+ "សីហា": {
+  "status": "ok",
+  "wt": [
+   "səyhaa"
+  ],
+  "ipa": [
+   "/səj.ˈhaː/"
+  ],
+  "defs": [
+   "August",
+   "lion",
+   "Leo ( រាសី / zodiac sign )"
+  ]
+ },
+ "កញ្ញា": {
+  "status": "ok",
+  "wt": [
+   "kaññaa"
+  ],
+  "ipa": [
+   "/kaɲ.ˈɲaː/"
+  ],
+  "defs": [
+   "September",
+   "Miss; (unmarried) girl, young woman",
+   "Virgo ( រាសី / zodiac sign )"
+  ]
+ },
+ "តុលា": {
+  "status": "ok",
+  "wt": [
+   "tolaa"
+  ],
+  "ipa": [
+   "/to.ˈlaː/"
+  ],
+  "defs": [
+   "October",
+   "scales , balance",
+   "Libra ( រាសី / zodiac sign )"
+  ]
+ },
+ "វិច្ឆិកា": {
+  "status": "ok",
+  "wt": [
+   "vɨcchekaa"
+  ],
+  "ipa": [
+   "/ʋɨc.cʰe.kaː/"
+  ],
+  "defs": [
+   "November",
+   "the scorpion",
+   "Scorpio ( រាសី / zodiac sign )"
+  ]
+ },
+ "ធ្នូ": {
+  "status": "ok",
+  "wt": [
+   "thnuu"
+  ],
+  "ipa": [
+   "/tʰnuː/"
+  ],
+  "defs": [
+   "December",
+   "bow (weapon), arc",
+   "Sagittarius ( រាសី / zodiac sign )"
+  ]
+ },
+ "ថ្ងៃត្រង់": {
+  "status": "ok",
+  "wt": [
+   "thngay trɑng"
+  ],
+  "ipa": [
+   "/tʰŋaj ˈtrɑŋ/"
+  ],
+  "defs": [
+   "noon"
+  ]
+ },
+ "រសៀល": {
+  "status": "ok",
+  "wt": [
+   "rɔsiəl"
+  ],
+  "ipa": [
+   "/rɔ.ˈsiəl/"
+  ],
+  "defs": [
+   "afternoon (noon to 5pm)",
+   "to get closer , to be about to do (die)"
+  ]
+ },
+ "ឆាប់": {
+  "status": "ok",
+  "wt": [
+   "chap"
+  ],
+  "ipa": [
+   "/cʰap/"
+  ],
+  "defs": [
+   "to be fast , quick",
+   "to be quick to do something",
+   "in haste , urgently",
+   "soon , early"
+  ]
+ },
+ "យឺត": {
+  "status": "ok",
+  "wt": [
+   "yɨɨt"
+  ],
+  "ipa": [
+   "/jɨːt/"
+  ],
+  "defs": [
+   "to be slow , lagging",
+   "to be stretched , springy , elastic",
+   "to stretch"
+  ]
+ },
+ "មុន": {
+  "status": "ok",
+  "wt": [
+   "mun"
+  ],
+  "ipa": [
+   "/mun/"
+  ],
+  "defs": [
+   "before , previously , formerly",
+   "ago",
+   "former",
+   "before",
+   "pimple , acne"
+  ]
+ },
+ "ក្រោយ": {
+  "status": "ok",
+  "wt": [
+   "kraoy"
+  ],
+  "ipa": [
+   "/kraoj/"
+  ],
+  "defs": [
+   "to be next , behind , after",
+   "back",
+   "later , next , in the future",
+   "after , behind"
+  ]
+ },
+ "រួច": {
+  "status": "ok",
+  "wt": [
+   "ruəc"
+  ],
+  "ipa": [
+   "/ruəc/"
+  ],
+  "defs": [
+   "to finish , to end , to achieve , to complete , to be done",
+   "to be able to",
+   "to escape , to free oneself (from jail), to be released , acquitted (from accusation)",
+   "already , then , after that"
+  ]
+ },
+ "រាល់ថ្ងៃ": {
+  "status": "MISSING"
+ },
+ "ជានិច្ច": {
+  "status": "ok",
+  "wt": [
+   "ciə nɨc"
+  ],
+  "ipa": [
+   "/ciə ˈnɨc/"
+  ],
+  "defs": [
+   "always"
+  ]
+ },
+ "ពេលខ្លះ": {
+  "status": "ok",
+  "wt": [
+   "peil khlah"
+  ],
+  "ipa": [
+   "/peil ˈkʰlah/"
+  ],
+  "defs": [
+   "sometimes"
+  ]
+ },
+ "ម្ដង": {
+  "status": "ok",
+  "wt": [
+   "mdɑɑng"
+  ],
+  "ipa": [
+   "/mɗɑːŋ/"
+  ],
+  "defs": [
+   "one time"
+  ]
+ },
+ "ពេល": {
+  "status": "ok",
+  "wt": [
+   "peel, peil"
+  ],
+  "ipa": [
+   "/peːl/ ~ /peil/"
+  ],
+  "defs": [
+   "time ; moment , instant , period of time",
+   "marvel of Peru , a kind of ornamental plant ( Mirabilis jalapa )"
+  ]
+ },
+ "ខាងលើ": {
+  "status": "ok",
+  "wt": [
+   "khaang ləə"
+  ],
+  "ipa": [
+   "/kʰaːŋ ˈləː/"
+  ],
+  "defs": [
+   "top part , upper part",
+   "northern part",
+   "upstairs",
+   "above , upstairs"
+  ]
+ },
+ "ខាងក្រោម": {
+  "status": "MISSING"
+ },
+ "ខាងមុខ": {
+  "status": "ok",
+  "wt": [
+   "khaang muk"
+  ],
+  "ipa": [
+   "/kʰaːŋ ˈmuk/"
+  ],
+  "defs": [
+   "in front of , facing",
+   "in front , ahead , in the future"
+  ]
+ },
+ "ខាងក្រោយ": {
+  "status": "ok",
+  "wt": [
+   "khaang kraoy"
+  ],
+  "ipa": [
+   "/kʰaːŋ ˈkraoj/"
+  ],
+  "defs": [
+   "behind , at the back"
+  ]
+ },
+ "ក្នុង": {
+  "status": "ok",
+  "wt": [
+   "knong"
+  ],
+  "ipa": [
+   "/kʰnoŋ/"
+  ],
+  "defs": [
+   "in , inside , into",
+   "during",
+   "( dialect ,  Northwest Cambodia ,  Surin ) room"
+  ]
+ },
+ "ក្រៅ": {
+  "status": "ok",
+  "wt": [
+   "kraw"
+  ],
+  "ipa": [
+   "/kraw/"
+  ],
+  "defs": [
+   "outside ; outer ; foreign"
+  ]
+ },
+ "បត់": {
+  "status": "ok",
+  "wt": [
+   "bɑt"
+  ],
+  "ipa": [
+   "/ɓɑt/"
+  ],
+  "defs": [
+   "to fold , bend , crease , pleat",
+   "to turn back or around , reverse direction",
+   "to veer",
+   "to turn , to bend , curve , wind ( as a road )",
+   "to be winding , twisting",
+   "folding ( as a pocket knife )"
+  ]
+ },
+ "ស្ថានីយ": {
+  "status": "ok",
+  "wt": [
+   "sthaanii"
+  ],
+  "ipa": [
+   "/stʰaː.ˈniː/"
+  ],
+  "defs": [
+   "station"
+  ]
+ },
+ "សំបុត្រ": {
+  "status": "ok",
+  "wt": [
+   "sɑmbot"
+  ],
+  "ipa": [
+   "/sɑm.ˈɓot/"
+  ],
+  "defs": [
+   "letter , message , note , mail , correspondence",
+   "(entrance) ticket",
+   "certificate , document , license",
+   "written order , decree , memo communiqué"
+  ]
+ },
+ "លិខិតឆ្លងដែន": {
+  "status": "ok",
+  "wt": [
+   "likhət chlɑɑng daen"
+  ],
+  "ipa": [
+   "/li.ˈkʰət cʰlɑːŋ ɗaen/"
+  ],
+  "defs": [
+   "passport"
+  ]
+ },
+ "ធនាគារ": {
+  "status": "ok",
+  "wt": [
+   "thĕəʼniəkiə, thɔɔniəkiə"
+  ],
+  "ipa": [
+   "/tʰĕəʔ.niə.kiə/ ~ /tʰɔː.niə.kiə/"
+  ],
+  "defs": [
+   "bank , treasury"
+  ]
+ },
+ "ប្រៃសណីយ៍": {
+  "status": "ok",
+  "wt": [
+   "praysaʼnii"
+  ],
+  "ipa": [
+   "/praj.saʔ.niː/"
+  ],
+  "defs": [
+   "post office"
+  ]
+ },
+ "ត្រូវ": {
+  "status": "ok",
+  "wt": [
+   "trəw"
+  ],
+  "ipa": [
+   "/trəw/"
+  ],
+  "defs": [
+   "must , should , have to ( stronger than គួរ ( kuə ) )",
+   "to be correct , right , accurate , exact",
+   "to concern , have to do with; to agree with, coincide with",
+   "to be affected by, undergo , suffer ( used to mark passive/affective construction )"
+  ]
+ },
+ "ខុស": {
+  "status": "ok",
+  "wt": [
+   "khoh"
+  ],
+  "ipa": [
+   "/kʰoh/"
+  ],
+  "defs": [
+   "to be wrong , mistaken",
+   "to be different (unlike most others)",
+   "to err , go wrong",
+   "mistake , fault , defect",
+   "unsuccessfully , incorrectly"
+  ]
+ },
+ "ផែនទី": {
+  "status": "ok",
+  "wt": [
+   "phaen tii"
+  ],
+  "ipa": [
+   "/pʰaen ˈtiː/"
+  ],
+  "defs": [
+   "map"
+  ]
+ },
+ "ប្រទេស": {
+  "status": "ok",
+  "wt": [
+   "prɑteih"
+  ],
+  "ipa": [
+   "/prɑ.ˈteih/"
+  ],
+  "defs": [
+   "country , nation , territory , state , land , region"
+  ]
+ },
+ "ភូមិ": {
+  "status": "ok",
+  "wt": [
+   "phuum, phuumiʼ"
+  ],
+  "ipa": [
+   "/pʰuːm/ ~ /pʰuː.ˈmiʔ/"
+  ],
+  "defs": [
+   "village",
+   "country , region , place",
+   "earth , soil , land",
+   "floor of a house",
+   "class , rank , status , level , stage , degree , cycle",
+   "position"
+  ]
+ },
+ "ខេត្ត": {
+  "status": "ok",
+  "wt": [
+   "khaet"
+  ],
+  "ipa": [
+   "/kʰaet/"
+  ],
+  "defs": [
+   "province",
+   "region , territory"
+  ]
+ },
+ "ធ្វើ": {
+  "status": "ok",
+  "wt": [
+   "thvəə"
+  ],
+  "ipa": [
+   "/tʰʋəː/"
+  ],
+  "defs": [
+   "to do , to make , work , carry out , perform",
+   "to act , serve as",
+   "to prepare , fix ( such as a meal )",
+   "to repair ( a car )",
+   "to clean ( fish )",
+   "to build , compose",
+   "to work , cultivate ( a field )",
+   "to execute , practice",
+   "to pretend to be",
+   "to harm",
+   "to cast a spell, put a curse on, enchant"
+  ]
+ },
+ "ឃើញ": {
+  "status": "ok",
+  "wt": [
+   "khəəñ"
+  ],
+  "ipa": [
+   "/kʰəːɲ/"
+  ],
+  "defs": [
+   "to see , perceive",
+   "to understand",
+   "to recognize"
+  ]
+ },
+ "ស្គាល់": {
+  "status": "ok",
+  "wt": [
+   "skŏəl"
+  ],
+  "ipa": [
+   "/skŏəl/"
+  ],
+  "defs": [
+   "to know (someone), to recognize , to be familiar with"
+  ]
+ },
+ "ចាំ": {
+  "status": "ok",
+  "wt": [
+   "cam"
+  ],
+  "ipa": [
+   "/cam/"
+  ],
+  "defs": [
+   "to wait (for), await , expect",
+   "to watch over , guard , keep , look after",
+   "to remember , to think of again, recall with some effort; to have learned by heart, to know well",
+   "to memorize , to keep in mind",
+   "just wait until (+ clause) , just let (+ clause)"
+  ]
+ },
+ "ភ្លេច": {
+  "status": "ok",
+  "wt": [
+   "phlɨc"
+  ],
+  "ipa": [
+   "/pʰlɨc/"
+  ],
+  "defs": [
+   "to forget"
+  ]
+ },
+ "គិត": {
+  "status": "ok",
+  "wt": [
+   "kɨt"
+  ],
+  "ipa": [
+   "/kɨt/"
+  ],
+  "defs": [
+   "to think ; to consider"
+  ]
+ },
+ "ត្រូវការ": {
+  "status": "ok",
+  "wt": [
+   "trəw kaa"
+  ],
+  "ipa": [
+   "/trəw ˈkaː/"
+  ],
+  "defs": [
+   "to need"
+  ]
+ },
+ "ឆ្លើយ": {
+  "status": "ok",
+  "wt": [
+   "chlaəy"
+  ],
+  "ipa": [
+   "/cʰlaəj/"
+  ],
+  "defs": [
+   "to answer , reply",
+   "to reverberate , resound",
+   "( archaic ,   law ) to state , declare"
+  ]
+ },
+ "ប្រាប់": {
+  "status": "ok",
+  "wt": [
+   "prap"
+  ],
+  "ipa": [
+   "/prap/"
+  ],
+  "defs": [
+   "to tell , to say , to inform , to report"
+  ]
+ },
+ "ហៅ": {
+  "status": "ok",
+  "wt": [
+   "haw"
+  ],
+  "ipa": [
+   "/haw/"
+  ],
+  "defs": [
+   "to call , to name",
+   "to call , to summon (a taxi)",
+   "to invite (guests)",
+   "to order (in a restaurant)"
+  ]
+ },
+ "បើក": {
+  "status": "ok",
+  "wt": [
+   "baək"
+  ],
+  "ipa": [
+   "/ɓaək/"
+  ],
+  "defs": [
+   "to open , uncover , unmask , reveal",
+   "to begin , start (a meeting, etc.)",
+   "to free , release ; to ease , relax",
+   "to raise (a curtain), hoist (a sail)",
+   "to grant access to, allow , permit , authorize , sanction",
+   "to issue , distribute",
+   "to get , receive",
+   "to withdraw (money, etc.), to cash (a check), to draw (a salary)",
+   "to turn on (faucet, lamp, switch)",
+   "to drive , steer , pilot (car, ship, plane), to sail"
+  ]
+ },
+ "បិទ": {
+  "status": "ok",
+  "wt": [
+   "bət"
+  ],
+  "ipa": [
+   "/ɓət/"
+  ],
+  "defs": [
+   "to close , to shut"
+  ]
+ },
+ "ចូល": {
+  "status": "ok",
+  "wt": [
+   "coul"
+  ],
+  "ipa": [
+   "/coul/"
+  ],
+  "defs": [
+   "to enter , penetrate , go in (to)",
+   "to log in , log on",
+   "to approach",
+   "to reach",
+   "to begin , set in",
+   "movement directed inward or forward",
+   "to enter into",
+   "to subscribe",
+   "to contribute (to)",
+   "to take in ( such as revenue )",
+   "to mate ( of animals )",
+   "to go into a trance ( of a medium )",
+   "to possess ( take control of someone's body or mind )",
+   "to agree with"
+  ]
+ },
+ "ចេញ": {
+  "status": "ok",
+  "wt": [
+   "cəñ"
+  ],
+  "ipa": [
+   "/cəɲ/"
+  ],
+  "defs": [
+   "to leave , go out , depart , exit",
+   "to issue , bring out , come out (said of a publication)",
+   "to emit , utter",
+   "to pay out , pay for, lay out (money), spend",
+   "to gain , earn , save",
+   "to play (a card)",
+   "out , off , away"
+  ]
+ },
+ "អង្គុយ": {
+  "status": "ok",
+  "wt": [
+   "ʼɑngkuy"
+  ],
+  "ipa": [
+   "/ʔɑŋ.ˈkuj/"
+  ],
+  "defs": [
+   "to sit , sit down",
+   "a kind of bean used to make desserts"
+  ]
+ },
+ "ឈរ": {
+  "status": "ok",
+  "wt": [
+   "chɔɔ"
+  ],
+  "ipa": [
+   "/cʰɔː/"
+  ],
+  "defs": [
+   "to stand"
+  ]
+ },
+ "រត់": {
+  "status": "ok",
+  "wt": [
+   "rŭət"
+  ],
+  "ipa": [
+   "/rŭət/"
+  ],
+  "defs": [
+   "to run"
+  ]
+ },
+ "ហែលទឹក": {
+  "status": "ok",
+  "wt": [
+   "hael tɨk"
+  ],
+  "ipa": [
+   "/hael ˈtɨk/"
+  ],
+  "defs": [
+   "to swim"
+  ]
+ },
+ "ងូតទឹក": {
+  "status": "ok",
+  "wt": [
+   "nguut tɨk"
+  ],
+  "ipa": [
+   "/ŋuːt ˈtɨk/"
+  ],
+  "defs": [
+   "to bathe ; to wash oneself; to take a shower"
+  ]
+ },
+ "លាង": {
+  "status": "ok",
+  "wt": [
+   "liəng"
+  ],
+  "ipa": [
+   "/liəŋ/"
+  ],
+  "defs": [
+   "to wash",
+   "( figuratively ) to absolve (sins), to clear (charges)"
+  ]
+ },
+ "ស្លៀក": {
+  "status": "ok",
+  "wt": [
+   "sliək"
+  ],
+  "ipa": [
+   "/sliəʔ/"
+  ],
+  "defs": [
+   "to put on or wear clothing (below the waist only)"
+  ]
+ },
+ "ចម្អិន": {
+  "status": "ok",
+  "wt": [
+   "cɑmʼən"
+  ],
+  "ipa": [
+   "/cɑm.ˈʔən/"
+  ],
+  "defs": [
+   "alternative form of ចំអិន ( cɑmʼən )"
+  ]
+ },
+ "ជិះ": {
+  "status": "ok",
+  "wt": [
+   "cih"
+  ],
+  "ipa": [
+   "/cih/"
+  ],
+  "defs": [
+   "to ride (horse, car, boat, plane, train, etc.)",
+   "to ride on, to get in/on (some means of transportation)",
+   "to sit on",
+   "to abuse , bully"
+  ]
+ },
+ "រស់": {
+  "status": "ok",
+  "wt": [
+   "rŭəh"
+  ],
+  "ipa": [
+   "/rŭəh/"
+  ],
+  "defs": [
+   "to be alive",
+   "to live , exist",
+   "to survive",
+   "Ruos , a surname"
+  ]
+ },
+ "ទទួល": {
+  "status": "ok",
+  "wt": [
+   "tɔtuəl"
+  ],
+  "ipa": [
+   "/tɔ.ˈtuəl/"
+  ],
+  "defs": [
+   "to accept , receive , take , get",
+   "to recognize , acknowledge",
+   "to undertake",
+   "to pick up , collect",
+   "to welcome , greet , meet",
+   "to agree (to)",
+   "welcome ( same as ស្វាគមន៍ ( svaakum ) )"
+  ]
+ },
+ "ផ្ញើ": {
+  "status": "ok",
+  "wt": [
+   "phñaə"
+  ],
+  "ipa": [
+   "/pʰɲaə/"
+  ],
+  "defs": [
+   "to send , to deliver",
+   "to confide , to leave (someone or something) for a time in someone else's care"
+  ]
+ },
+ "រក": {
+  "status": "ok",
+  "wt": [
+   "rɔɔk, rɔɔ"
+  ],
+  "ipa": [
+   "/rɔːʔ/ ~ /rɔː/"
+  ],
+  "defs": [
+   "to look for , search for, seek",
+   "to look up",
+   "to see , visit",
+   "to request , ask for , ask (someone to do something)",
+   "to try",
+   "to think about , plan , intend",
+   "to , for"
+  ]
+ },
+ "បាត់": {
+  "status": "ok",
+  "wt": [
+   "bat"
+  ],
+  "ipa": [
+   "/ɓat/"
+  ],
+  "defs": [
+   "to disappear , perish ; to stop , cease",
+   "to be lost , gone , missing , finished"
+  ]
+ },
+ "ប្រើ": {
+  "status": "ok",
+  "wt": [
+   "praə"
+  ],
+  "ipa": [
+   "/praə/"
+  ],
+  "defs": [
+   "to order , give an order , command",
+   "to use , spend , consume",
+   "to assign , commission , persuade",
+   "to send (on an errand)",
+   "to make use of someone"
+  ]
+ },
+ "ចាប់ផ្ដើម": {
+  "status": "ok",
+  "wt": [
+   "cap phdaəm"
+  ],
+  "ipa": [
+   "/cap ˈpɗaəm/"
+  ],
+  "defs": [
+   "to begin , start , set about , proceed (to)"
+  ]
+ },
+ "បញ្ចប់": {
+  "status": "ok",
+  "wt": [
+   "bɑñcɑp"
+  ],
+  "ipa": [
+   "/ɓɑɲ.ˈcɑp/"
+  ],
+  "defs": [
+   "to finish , (bring to an) end , conclude",
+   "last , final , concluding"
+  ]
+ },
+ "រៀបការ": {
+  "status": "ok",
+  "wt": [
+   "riəp kaa"
+  ],
+  "ipa": [
+   "/riəp ˈkaː/"
+  ],
+  "defs": [
+   "to marry , to arrange a wedding",
+   "to get married"
+  ]
+ },
+ "ថ្មី": {
+  "status": "ok",
+  "wt": [
+   "thməy"
+  ],
+  "ipa": [
+   "/tʰməj/"
+  ],
+  "defs": [
+   "new , recent , modern",
+   "again"
+  ]
+ },
+ "ចាស់": {
+  "status": "ok",
+  "wt": [
+   "cah"
+  ],
+  "ipa": [
+   "/cah/"
+  ],
+  "defs": [
+   "to be old , mature c. 1970s , យស អូឡារាំង [ Yol Aularong ], “ ស៊ីក្លូ [ Cyclo ]”:",
+   "to be former",
+   "to be intense (said of colors), strong , too much (said of seasonings)",
+   "to be almost ripe (said of fruit)"
+  ]
+ },
+ "ក្មេង": {
+  "status": "ok",
+  "wt": [
+   "kmeeng"
+  ],
+  "ipa": [
+   "/kʰmeːŋ/"
+  ],
+  "defs": [
+   "child",
+   "youngster",
+   "to be young"
+  ]
+ },
+ "វែង": {
+  "status": "ok",
+  "wt": [
+   "vɛɛng"
+  ],
+  "ipa": [
+   "/ʋɛːŋ/"
+  ],
+  "defs": [
+   "to be long"
+  ]
+ },
+ "ខ្លី": {
+  "status": "ok",
+  "wt": [
+   "khləy"
+  ],
+  "ipa": [
+   "/kʰləj/"
+  ],
+  "defs": [
+   "short (in length)"
+  ]
+ },
+ "ខ្ពស់": {
+  "status": "ok",
+  "wt": [
+   "khpŭəh"
+  ],
+  "ipa": [
+   "/kpŭəh/"
+  ],
+  "defs": [
+   "to be high , tall , elevated",
+   "to be eminent",
+   "to be stately , exalted",
+   "to be grand",
+   "to be pompous , arrogant"
+  ]
+ },
+ "ទាប": {
+  "status": "ok",
+  "wt": [
+   "tiəp"
+  ],
+  "ipa": [
+   "/tiəp/"
+  ],
+  "defs": [
+   "to be short , low , base",
+   "to be low , vile , vulgar , common , mediocre , inferior"
+  ]
+ },
+ "ធាត់": {
+  "status": "ok",
+  "wt": [
+   "thŏət"
+  ],
+  "ipa": [
+   "/tʰŏət/"
+  ],
+  "defs": [
+   "to be fat"
+  ]
+ },
+ "ស្គម": {
+  "status": "ok",
+  "wt": [
+   "skɔɔm"
+  ],
+  "ipa": [
+   "/skɔːm/"
+  ],
+  "defs": [
+   "to be thin , skinny , lean , emaciated ( used only for humans and animals )",
+   "poor , miserable , weak"
+  ]
+ },
+ "លឿន": {
+  "status": "ok",
+  "wt": [
+   "lɨən"
+  ],
+  "ipa": [
+   "/lɨən/"
+  ],
+  "defs": [
+   "to be quick , fast"
+  ]
+ },
+ "ងាយ": {
+  "status": "ok",
+  "wt": [
+   "ngiəy"
+  ],
+  "ipa": [
+   "/ŋiəj/"
+  ],
+  "defs": [
+   "to be easy",
+   "easily",
+   "( in a few compounds ) lightly , condescendingly , scornfully"
+  ]
+ },
+ "ពិបាក": {
+  "status": "ok",
+  "wt": [
+   "pibaak"
+  ],
+  "ipa": [
+   "/pi.ˈɓaːʔ/"
+  ],
+  "defs": [
+   "to be difficult , inconvenient , troublesome (of a person, a task, a question,...)"
+  ]
+ },
+ "សំខាន់": {
+  "status": "ok",
+  "wt": [
+   "sɑmkhan"
+  ],
+  "ipa": [
+   "/sɑm.ˈkʰan/"
+  ],
+  "defs": [
+   "to be important , essential , main"
+  ]
+ },
+ "ស្ងាត់": {
+  "status": "ok",
+  "wt": [
+   "sngat"
+  ],
+  "ipa": [
+   "/sŋat/"
+  ],
+  "defs": [
+   "to be quiet , calm , silent",
+   "to be alone , lonely , secluded"
+  ]
+ },
+ "រវល់": {
+  "status": "ok",
+  "wt": [
+   "rɔvŭəl"
+  ],
+  "ipa": [
+   "/rɔ.ˈʋŭəl/"
+  ],
+  "defs": [
+   "to be busy (with), occupied",
+   "to be worried , preoccupied",
+   "to care , to worry about"
+  ]
+ },
+ "ទំនេរ": {
+  "status": "ok",
+  "wt": [
+   "tumnei"
+  ],
+  "ipa": [
+   "/tum.ˈnei/"
+  ],
+  "defs": [
+   "emptiness , inactivity , leisure",
+   "to be free , at liberty",
+   "empty , unoccupied , vacant",
+   "not busy, at leisure"
+  ]
+ },
+ "ស្រស់": {
+  "status": "ok",
+  "wt": [
+   "srɑh"
+  ],
+  "ipa": [
+   "/srɑh/"
+  ],
+  "defs": [
+   "to be fresh , green",
+   "to be beautiful , charming attractive",
+   "to be drained , dehydrated , dried up"
+  ]
+ },
+ "កខ្វក់": {
+  "status": "ok",
+  "wt": [
+   "kɑkvɑk"
+  ],
+  "ipa": [
+   "/kɑʔ.ˈʋɑʔ/"
+  ],
+  "defs": [
+   "dirty , polluted , stained",
+   "wicked"
+  ]
+ },
+ "ធ្ងន់": {
+  "status": "ok",
+  "wt": [
+   "thngŭən"
+  ],
+  "ipa": [
+   "/tʰŋŭən/"
+  ],
+  "defs": [
+   "to be heavy (having great weight)",
+   "to be serious , grave (of a sentence, disease, pain)",
+   "to be important"
+  ]
+ },
+ "ស្រាល": {
+  "status": "ok",
+  "wt": [
+   "sraal"
+  ],
+  "ipa": [
+   "/sraːl/"
+  ],
+  "defs": [
+   "( of weight ) light ; weightless",
+   "( of crimes ) petty",
+   "( of crops ) early"
+  ]
+ },
+ "ពិត": {
+  "status": "ok",
+  "wt": [
+   "pɨt"
+  ],
+  "ipa": [
+   "/pɨt/"
+  ],
+  "defs": [
+   "to be true , real , genuine",
+   "to be sure , certain",
+   "to be accurate , exact",
+   "to be honest",
+   "to inform , notify , tell",
+   "to denounce , slander",
+   "to push apart , shove aside , push one's way through (as in a crowd)",
+   "small Chinese-style writing brush"
+  ]
+ },
+ "ដូចគ្នា": {
+  "status": "ok",
+  "wt": [
+   "douc kniə"
+  ],
+  "ipa": [
+   "/ɗouc ˈkʰniə/"
+  ],
+  "defs": [
+   "alike , the same , resembling each other, well-matched",
+   "also , likewise"
+  ]
+ },
+ "ផ្សេង": {
+  "status": "ok",
+  "wt": [
+   "phseeng"
+  ],
+  "ipa": [
+   "/pʰseːŋ/"
+  ],
+  "defs": [
+   "to differ",
+   "(to be) different"
+  ]
+ },
+ "សើម": {
+  "status": "ok",
+  "wt": [
+   "saəm"
+  ],
+  "ipa": [
+   "/saəm/"
+  ],
+  "defs": [
+   "to be moist , damp , humid"
+  ]
+ },
+ "ស្ងួត": {
+  "status": "ok",
+  "wt": [
+   "snguət"
+  ],
+  "ipa": [
+   "/sŋuət/"
+  ],
+  "defs": [
+   "to be dry , dried up"
+  ]
+ },
+ "ភ្លឺ": {
+  "status": "ok",
+  "wt": [
+   "phlɨɨ"
+  ],
+  "ipa": [
+   "/pʰlɨː/"
+  ],
+  "defs": [
+   "to shine , to be bright",
+   "daybreak"
+  ]
+ },
+ "ងងឹត": {
+  "status": "ok",
+  "wt": [
+   "ngɔngɨt"
+  ],
+  "ipa": [
+   "/ŋɔ.ˈŋɨt/"
+  ],
+  "defs": [
+   "to be dark , obscure , somber",
+   "to be blind , having poor vision",
+   "to be ignorant"
+  ]
+ },
+ "ម៉ឺន": {
+  "status": "ok",
+  "wt": [
+   "məɨn"
+  ],
+  "ipa": [
+   "/məɨn/"
+  ],
+  "defs": [
+   "ten thousand",
+   "ancient official rank",
+   "son of a high official"
+  ]
+ },
+ "សែន": {
+  "status": "ok",
+  "wt": [
+   "saen"
+  ],
+  "ipa": [
+   "/saen/"
+  ],
+  "defs": [
+   "hundred thousand",
+   "very , extremely , too , many",
+   "to sacrifice , make an offering ( especially, of food to the spirits of the dead )",
+   "to bribe",
+   "fan or umbrella of decorated gold or silver cloth ( it has a long handle curved at the end and is used to shade the king during ceremonial processions )"
+  ]
+ },
+ "លាន": {
+  "status": "ok",
+  "wt": [
+   "liən"
+  ],
+  "ipa": [
+   "/liən/"
+  ],
+  "defs": [
+   "million",
+   "flat open area , square , yard , esplanade , court , threshing floor"
+  ]
+ },
+ "ពាក់កណ្ដាល": {
+  "status": "MISSING"
+ },
+ "រាត្រីសួស្តី": {
+  "status": "MISSING"
+ },
+ "សាយ័ណ្ហសួស្តី": {
+  "status": "MISSING"
+ },
+ "ទិវាសួស្តី": {
+  "status": "MISSING"
+ },
+ "សូមស្វាគមន៍": {
+  "status": "MISSING"
+ },
+ "សំណាងល្អ": {
+  "status": "ok",
+  "wt": [
+   "sɑmnaang lʼɑɑ"
+  ],
+  "ipa": [
+   "/sɑm.ˈnaːŋ lʔɑː/"
+  ],
+  "defs": [
+   "good luck"
+  ]
+ },
+ "ត្រូវហើយ": {
+  "status": "MISSING"
+ },
+ "ពិតជា": {
+  "status": "ok",
+  "wt": [
+   "pɨt ciə"
+  ],
+  "ipa": [
+   "/pɨt ˈciə/"
+  ],
+  "defs": [
+   "(will) certainly ; surely",
+   "although"
+  ]
+ },
+ "ពាក្យ": {
+  "status": "ok",
+  "wt": [
+   "piək"
+  ],
+  "ipa": [
+   "/piəʔ/"
+  ],
+  "defs": [
+   "word , term",
+   "utterance , expression , phrase",
+   "speech",
+   "language"
+  ]
+ },
+ "ប្រយោគ": {
+  "status": "ok",
+  "wt": [
+   "prɑyook"
+  ],
+  "ipa": [
+   "/prɑ.ˈjoːk/"
+  ],
+  "defs": [
+   "proposition , application , examination",
+   "phrase , sentence , statement",
+   "preparation , undertaking , action , endeavor , effort",
+   "occupation",
+   "means , application",
+   "zeal , diligence",
+   "to be in mourning , mourn , grieve",
+   "to try to take care of, have compassion for"
+  ]
+ },
+ "ចិន": {
+  "status": "ok",
+  "wt": [
+   "cən"
+  ],
+  "ipa": [
+   "/cən/"
+  ],
+  "defs": [
+   "Chinese person",
+   "China (a country in Asia )",
+   "Chinese"
+  ]
+ },
+ "បារាំង": {
+  "status": "ok",
+  "wt": [
+   "baarang"
+  ],
+  "ipa": [
+   "/ɓaː.ˈraŋ/"
+  ],
+  "defs": [
+   "France (a country located primarily in Western Europe ) ; French",
+   "French person",
+   "European person"
+  ]
+ },
+ "វៀតណាម": {
+  "status": "ok",
+  "wt": [
+   "viətnaam"
+  ],
+  "ipa": [
+   "/ʋiət.ˈnaːm/"
+  ],
+  "defs": [
+   "Vietnam (a country in Southeast Asia ) ; Vietnamese"
+  ]
+ },
+ "ថៃ": {
+  "status": "ok",
+  "wt": [
+   "thay"
+  ],
+  "ipa": [
+   "/tʰaj/"
+  ],
+  "defs": [
+   "Thai",
+   "Thailand (a country in Southeast Asia )",
+   "Thai person",
+   "Thai , a surname from Vietnamese"
+  ]
+ },
+ "អាមេរិក": {
+  "status": "ok",
+  "wt": [
+   "ʼaameirɨk"
+  ],
+  "ipa": [
+   "/ʔaː.mei.rɨk/"
+  ],
+  "defs": [
+   "America (the continents of North America and South America )",
+   "America , United States of America (a country in North America )"
+  ]
+ },
+ "បកប្រែ": {
+  "status": "ok",
+  "wt": [
+   "bɑɑk prae"
+  ],
+  "ipa": [
+   "/ɓɑːʔ ˈprae/"
+  ],
+  "defs": [
+   "to translate , interpret"
+  ]
+ },
+ "មនុស្ស": {
+  "status": "ok",
+  "wt": [
+   "mɔnuh, mɔnɨh, mĕəʼnuh"
+  ],
+  "ipa": [
+   "/mɔ.ˈnuh/ ~ /mɔ.ˈnɨh/ ~ /mĕəʔ.ˈnuh/"
+  ],
+  "defs": [
+   "human being , man , person",
+   "mankind"
+  ]
+ },
+ "អ្នកជិតខាង": {
+  "status": "MISSING"
+ },
+ "ចៅ": {
+  "status": "ok",
+  "wt": [
+   "caw"
+  ],
+  "ipa": [
+   "/caw/"
+  ],
+  "defs": [
+   "grandchild",
+   "chief , boss , head"
+  ]
+ },
+ "ឪពុកម្ដាយ": {
+  "status": "ok",
+  "wt": [
+   "ʼəwpuk mdaay"
+  ],
+  "ipa": [
+   "/ʔəw.ˈpuk mɗaːj/"
+  ],
+  "defs": [
+   "parents"
+  ]
+ },
+ "រាត្រីសួស្ដី": {
+  "status": "ok",
+  "wt": [
+   "riətrəy suəsdəy"
+  ],
+  "ipa": [
+   "/riə.trəj suə.sɗəj/"
+  ],
+  "defs": [
+   "good night"
+  ]
+ },
+ "សុំទោស": {
+  "status": "ok",
+  "wt": [
+   "som tooh"
+  ],
+  "ipa": [
+   "/som ˈtoːh/"
+  ],
+  "defs": [
+   "sorry ; excuse me"
+  ]
+ },
+ "ឯង": {
+  "status": "ok",
+  "wt": [
+   "ʼaeng"
+  ],
+  "ipa": [
+   "/ʔaeŋ/"
+  ],
+  "defs": [
+   "you , your ( neutral for close ones or one who is at an equal or lower level in society or someone who is younger; equivalent to អ្នក )",
+   "I , me , my ( less formal than ខ្ញុំ , but more formal than អញ )",
+   "you see , after all , indeed , just ( phrase-final intensifying particle )",
+   "to be personal , individual",
+   "to be true , sure",
+   "personally",
+   "by itself , by oneself , on one's own , automatically",
+   "surely , truly , obviously"
+  ]
+ },
+ "អស់កម្លាំង": {
+  "status": "ok",
+  "wt": [
+   "ʼɑh kɑmlang"
+  ],
+  "ipa": [
+   "/ʔɑh kɑm.ˈlaŋ/"
+  ],
+  "defs": [
+   "to be tired , exhausted"
+  ]
+ },
+ "រងា": {
+  "status": "ok",
+  "wt": [
+   "rɔngiə"
+  ],
+  "ipa": [
+   "/rɔ.ˈŋiə/"
+  ],
+  "defs": [
+   "to be cold"
+  ]
+ },
+ "នឹក": {
+  "status": "ok",
+  "wt": [
+   "nɨk"
+  ],
+  "ipa": [
+   "/nɨk/"
+  ],
+  "defs": [
+   "to miss (long for)"
+  ]
+ },
+ "ស្វាគមន៍": {
+  "status": "ok",
+  "wt": [
+   "svaakum"
+  ],
+  "ipa": [
+   "/sʋaː.ˈkum/"
+  ],
+  "defs": [
+   "welcome ; welcoming",
+   "( Can we verify ( + ) this sense?) welcome"
+  ]
+ },
+ "អាច": {
+  "status": "ok",
+  "wt": [
+   "ʼaac"
+  ],
+  "ipa": [
+   "/ʔaːc/"
+  ],
+  "defs": [
+   "to be able to, qualified (to do something), capable of (doing something)",
+   "to be possible",
+   "to be in a condition to, be in a position to",
+   "to dare to"
+  ]
+ },
+ "ថា": {
+  "status": "ok",
+  "wt": [
+   "thaa"
+  ],
+  "ipa": [
+   "/tʰaː/"
+  ],
+  "defs": [
+   "to say , tell , pronounce",
+   "to criticize , blame",
+   "that (followed by direct or indirect speech)"
+  ]
+ },
+ "ខួបកំណើត": {
+  "status": "MISSING"
+ },
+ "ឈឺក្បាល": {
+  "status": "ok",
+  "wt": [
+   "chɨɨ kbaal"
+  ],
+  "ipa": [
+   "/cʰɨː ˈkɓaːl/"
+  ],
+  "defs": [
+   "to have a headache",
+   "headache"
+  ]
+ },
+ "ចំអិន": {
+  "status": "ok",
+  "wt": [
+   "cɑmʼən"
+  ],
+  "ipa": [
+   "/cɑm.ˈʔən/"
+  ],
+  "defs": [
+   "to prepare (food), cook (a meal)"
+  ]
  }
 }

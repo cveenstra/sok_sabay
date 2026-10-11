@@ -1,0 +1,340 @@
+{
+ "sections": [
+  {
+   "title": "Consonants: a-series",
+   "note": "On their own they are read with â [ɑː].",
+   "groups": [
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ]
+  },
+  {
+   "title": "Consonants: o-series",
+   "note": "On their own they are read with ô [ɔː].",
+   "groups": [
+    "o1",
+    "o2",
+    "o3",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "title": "Vowel signs",
+   "note": "Each reads two ways, depending on the series of the consonant.",
+   "groups": [
+    "v1",
+    "v2",
+    "v3",
+    "v4"
+   ]
+  },
+  {
+   "title": "Vowels with ំ and ះ",
+   "groups": [
+    "k1",
+    "k2"
+   ]
+  },
+  {
+   "title": "Marks",
+   "groups": [
+    "m1",
+    "m2"
+   ]
+  },
+  {
+   "title": "Independent vowels",
+   "groups": [
+    "i1",
+    "i2",
+    "i3"
+   ]
+  },
+  {
+   "title": "Subscripts",
+   "note": "Consonant clusters: the second letter is written under the first.",
+   "groups": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "title": "Numerals",
+   "groups": [
+    "n1",
+    "n2"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "a1",
+   "title": "ក ខ ច ឆ",
+   "consonants": [
+    "c01",
+    "c02",
+    "c06",
+    "c07"
+   ],
+   "tip": "These are a-series consonants: on their own they are read with â [ɑː]. ក is kâ, ខ is khâ."
+  },
+  {
+   "id": "a2",
+   "title": "ដ ត ថ ប",
+   "consonants": [
+    "c11",
+    "c16",
+    "c17",
+    "c21"
+   ],
+   "tip": "ដ dâ and ត tâ look alike: ដ has a curl at the top."
+  },
+  {
+   "id": "a3",
+   "title": "ផ ស ហ អ",
+   "consonants": [
+    "c22",
+    "c30",
+    "c31",
+    "c33"
+   ],
+   "tip": "អ is a glottal stop. Vowels that start a word are written on it."
+  },
+  {
+   "id": "a4",
+   "title": "ឋ ណ ឡ",
+   "consonants": [
+    "c12",
+    "c15",
+    "c32"
+   ],
+   "tip": "Rarer a-series letters, mostly in borrowed words."
+  },
+  {
+   "id": "o1",
+   "title": "គ ឃ ង ជ",
+   "consonants": [
+    "c03",
+    "c04",
+    "c05",
+    "c08"
+   ],
+   "tip": "o-series consonants are read with ô [ɔː]. គ kô sounds like ក kâ but with the o-series vowel."
+  },
+  {
+   "id": "o2",
+   "title": "ឈ ញ ទ ធ",
+   "consonants": [
+    "c09",
+    "c10",
+    "c18",
+    "c19"
+   ]
+  },
+  {
+   "id": "o3",
+   "title": "ន ព ភ ម",
+   "consonants": [
+    "c20",
+    "c23",
+    "c24",
+    "c25"
+   ]
+  },
+  {
+   "id": "o4",
+   "title": "យ រ ល វ",
+   "consonants": [
+    "c26",
+    "c27",
+    "c28",
+    "c29"
+   ]
+  },
+  {
+   "id": "o5",
+   "title": "ឌ ឍ",
+   "consonants": [
+    "c13",
+    "c14"
+   ],
+   "tip": "Two rare o-series letters, mostly in Pali and Sanskrit words."
+  },
+  {
+   "id": "v1",
+   "title": "◌ា ◌ិ ◌ី ◌ឹ",
+   "vowels": [
+    "v01",
+    "v02",
+    "v03",
+    "v04"
+   ],
+   "tip": "A vowel sign reads one way after an a-series consonant and another after an o-series one."
+  },
+  {
+   "id": "v2",
+   "title": "◌ឺ ◌ុ ◌ូ ◌ួ",
+   "vowels": [
+    "v05",
+    "v06",
+    "v07",
+    "v08"
+   ]
+  },
+  {
+   "id": "v3",
+   "title": "◌ើ ◌ឿ ◌ៀ ◌េ",
+   "vowels": [
+    "v09",
+    "v10",
+    "v11",
+    "v12"
+   ],
+   "tip": "Some vowel signs are written before the consonant, but they are still read after it."
+  },
+  {
+   "id": "v4",
+   "title": "◌ែ ◌ៃ ◌ោ ◌ៅ",
+   "vowels": [
+    "v13",
+    "v14",
+    "v15",
+    "v16"
+   ]
+  },
+  {
+   "id": "k1",
+   "title": "◌ំ ◌ាំ ◌ុំ",
+   "combos": [
+    "k01",
+    "k02",
+    "k03"
+   ],
+   "tip": "The small circle ំ adds a final m."
+  },
+  {
+   "id": "k2",
+   "title": "◌ះ ◌ិះ ◌ុះ ◌េះ ◌ោះ",
+   "combos": [
+    "k04",
+    "k05",
+    "k06",
+    "k07",
+    "k08"
+   ],
+   "tip": "The two small circles ះ add a final h."
+  },
+  {
+   "id": "m1",
+   "title": "◌់ ◌៉ ◌៊",
+   "marks": [
+    "m04",
+    "m05",
+    "m06"
+   ],
+   "tip": "Marks written above a letter change its sound."
+  },
+  {
+   "id": "m2",
+   "title": "◌៍ ◌ៈ ◌៌ ◌័",
+   "marks": [
+    "m03",
+    "m07",
+    "m08",
+    "m09"
+   ]
+  },
+  {
+   "id": "i1",
+   "title": "ឥ ឦ ឧ ឪ",
+   "indep": [
+    "i01",
+    "i02",
+    "i03",
+    "i04"
+   ],
+   "tip": "Independent vowels stand alone, without a consonant. A few are common: ឥឡូវ \"now\", ឪពុក \"father\"."
+  },
+  {
+   "id": "i2",
+   "title": "ឫ ឬ ឭ ឮ",
+   "indep": [
+    "i05",
+    "i06",
+    "i07",
+    "i08"
+   ]
+  },
+  {
+   "id": "i3",
+   "title": "ឯ ឰ ឱ ឳ",
+   "indep": [
+    "i09",
+    "i10",
+    "i11",
+    "i12"
+   ]
+  },
+  {
+   "id": "s1",
+   "title": "Subscripts ◌្រ ◌្ល ◌្ង ◌្ន ◌្វ",
+   "subs": [
+    "c27",
+    "c28",
+    "c05",
+    "c20",
+    "c29"
+   ],
+   "tip": "In a cluster, the second consonant is written as a small \"foot\" under the first."
+  },
+  {
+   "id": "s2",
+   "title": "Subscripts ◌្ដ ◌្ត ◌្អ ◌្ម ◌្ទ",
+   "subs": [
+    "c11",
+    "c16",
+    "c33",
+    "c25",
+    "c18"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Subscripts ◌្យ ◌្ស ◌្គ ◌្ក ◌្ប",
+   "subs": [
+    "c26",
+    "c30",
+    "c03",
+    "c01",
+    "c21"
+   ]
+  },
+  {
+   "id": "n1",
+   "title": "០ ១ ២ ៣ ៤",
+   "digits": [
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+   ],
+   "tip": "Khmer digits work just like Western ones: ១២ is 12."
+  },
+  {
+   "id": "n2",
+   "title": "៥ ៦ ៧ ៨ ៩",
+   "digits": [
+    "d5",
+    "d6",
+    "d7",
+    "d8",
+    "d9"
+   ]
+  }
+ ]
+}

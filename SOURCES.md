@@ -14,6 +14,12 @@ Everything in `data/` was checked against a published source before it went in. 
 - **Consonants and dependent vowels:** parsed from the consonant and dependent-vowel tables in Wikipedia's [Khmer script](https://en.wikipedia.org/wiki/Khmer_script) article.
   - Letter names use **UNGEGN** transliteration, plus IPA. The a/o series is taken from the UNGEGN name: names ending in *â* are a-series, *ô* are o-series.
   - The two obsolete letters ឝ and ឞ are excluded, leaving the 33 modern consonants: 15 a-series and 18 o-series.
+- **Subscripts:** each consonant's subscript form (coeng + letter) comes from the same consonant table; ឡ has none. The example word for each is the shortest course word containing it.
+- **Independent vowels:** from the article's independent-vowel table (UNGEGN + IPA). ឨ (obsolete) and ឩ (no UNGEGN form given) are left out, leaving 12.
+- **Marks (diacritics):** the Khmer names, UNGEGN names and functions come from the article's diacritics table. The one-line summaries in the app are paraphrases of its "Function" column. Nine are taught: ំ ះ ៈ ់ ៉ ៊ ៍ ៌ ័.
+- **Vowels with ំ and ះ:** the eight combinations in the article's "Modification by diacritics" table, read for both series.
+- **Syllables in the Letters lessons** (for example ក + ា = *ka* [kaː]) are built by the spelling rule: the consonant's UNGEGN value and first IPA value, plus the vowel's a- or o-series value from the table. They show how the script works, not the irregular pronunciation of every real word. Real words in the Letters lessons are course words, so they carry their own Wiktionary romanisation.
+- `scripts/parse_script_extra.py` re-extracts these tables from the article's wikitext.
 - **Numerals:** the digits ០–៩ and number words come from Wikipedia's [Khmer numerals](https://en.wikipedia.org/wiki/Khmer_numerals) and Khmer language articles. `scripts/check-data.mjs` checks that each digit is the right Unicode code point (U+17E0 + value).
 
 ## Grammar notes and sentences (`data/sentences.json`)
@@ -57,6 +63,15 @@ Each sentence's romanisation is joined from its words' WT forms.
 | ស្រីនោះស្អាតណាស់ | srəy nuh sʼaat nah | That girl is very pretty. | attested |
 | ព្រឹកនេះបងទៅណាខ្លះ | prɨk nih bɑɑng tɨw naa khlah | Where are you going this morning? | attested |
 | ឆ្កែពីរ | chkae pii | two dogs | attested |
+| ម៉ោងប៉ុន្មានហើយ | maong ponmaan haəy | What time is it? | attested |
+| តើអ្នកមានអាយុប៉ុន្មានហើយ | taə nĕək miən ʼaayuʼ ponmaan haəy | How old are you? | attested |
+| ខ្ញុំត្រូវការគ្រូពេទ្យ | khñom trəw kaa kruu pɛɛt | I need a doctor. | attested |
+| ជួយហៅប៉ូលិសមក | cuəy haw poulih mɔɔk | Call the police! | attested |
+| តើអ្នករស់នៅឯណា | taə nĕək rŭəh nɨw ʼae naa | Where do you live? | attested |
+| ខ្ញុំឈឺ | khñom chɨɨ | I'm sick. | attested |
+| ខ្ញុំរងា | khñom rɔngiə | I'm cold. | attested |
+| នឹកឯង | nɨk ʼaeng | I miss you. | attested |
+| ខ្ញុំអស់កម្លាំង | khñom ʼɑh kɑmlang | I'm tired. | attested |
 | ខ្ញុំចង់ញ៉ាំបាយ | khñom cɑng ñam baay | I want to eat rice. | composed |
 | ខ្ញុំចង់ផឹកកាហ្វេ | khñom cɑng phək kaafee | I want to drink coffee. | composed |
 | ខ្ញុំចង់ទៅផ្សារ | khñom cɑng tɨw phsaa | I want to go to the market. | composed |
@@ -66,6 +81,24 @@ Each sentence's romanisation is joined from its words' WT forms.
 | តើផ្សារនៅឯណា | taə phsaa nɨw ʼae naa | Where is the market? | composed |
 | ខ្ញុំស្រេក | khñom sreek | I'm thirsty. | composed |
 | ខ្ញុំចូលចិត្តគុយទាវ | khñom coul cət kuy tiəw | I like kuyteav (noodle soup). | composed |
+| តើមន្ទីរពេទ្យនៅឯណា | taə mŭəntii pɛɛt nɨw ʼae naa | Where is the hospital? | composed |
+| តើធនាគារនៅឯណា | taə thĕəʼniəkiə nɨw ʼae naa | Where is the bank? | composed |
+| ខ្ញុំត្រូវការទឹក | khñom trəw kaa tɨk | I need water. | composed |
+| ខ្ញុំត្រូវការថ្នាំ | khñom trəw kaa thnam | I need medicine. | composed |
+| ខ្ញុំឈឺក្បាល | khñom chɨɨ kbaal | I have a headache. | composed |
+| ខ្ញុំហត់ | khñom hɑt | I'm tired (out of breath). | composed |
+| ខ្ញុំខ្លាច | khñom khlaac | I'm afraid. | composed |
+| ខ្ញុំរវល់ | khñom rɔvŭəl | I'm busy. | composed |
+| ខ្ញុំចង់ទិញមួក | khñom cɑng tɨñ muək | I want to buy a hat. | composed |
+| អាវនេះថ្លៃពេក | ʼaaw nih thlay peik | This shirt is too expensive. | composed |
+| ថ្ងៃនេះក្ដៅណាស់ | thngay nih kdaw nah | It is very hot today. | composed |
+| ផ្សារឆ្ងាយទេ | phsaa chngaay tei | Is the market far? | composed |
+| ឆ្មាពីរ | chmaa pii | two cats | composed |
+| ខ្ញុំចូលចិត្តពណ៌ក្រហម | khñom coul cət pɔə krɑhɑɑm | I like the colour red. | composed |
+| ដំរីធំណាស់ | dɑmrəy thom nah | The elephant is very big. | composed |
+| ខ្ញុំជាគ្រូបង្រៀន | khñom ciə kruu bɑngriən | I am a teacher. | composed |
+| តើអ្នកចង់ផឹកកាហ្វេទេ | taə nĕək cɑng phək kaafee tei | Do you want to drink coffee? | composed |
+| សូមបើកទ្វារ | soum baək tviə | Please open the door. | composed |
 
 ## Address terms and politeness
 
@@ -90,4 +123,18 @@ Glosses and usage notes come from each word's Wiktionary entry:
 - **Phrasebook translations not used:**
   - The "you're welcome" page lists one Khmer form whose romanisation doesn't match its spelling.
   - "Nice to meet you" has no Khmer translation.
+- **Round 2 (October 2026), no Wiktionary entry, not used:**
+  - រដូវវស្សា (rainy season) and រដូវប្រាំង (dry season); រដូវ "season" is used
+  - អ្នកបើកបរ (driver), អ្នកជិតខាង (neighbour)
+  - សប្បាយចិត្ត (happy), ពិបាកចិត្ត (troubled), សោកសៅ (sad), ខកចិត្ត (disappointed)
+  - យ៉ាងម៉េច (how), ប៉ុណ្ណា (how much), ហើយនិង (and)
+  - អាម៉ុក (amok), ស្រាបៀរ (beer), ធុរេន (durian), ម្ហូបអាហារ (food)
+  - រាល់ថ្ងៃ (every day), ខាងក្រោម (below), ពាក់កណ្ដាល (half); កន្លះ "half" is used
+  - រាត្រីសួស្តី, សាយ័ណ្ហសួស្តី, ទិវាសួស្តី (good night / evening / afternoon with ត). Good night is in, under the spelling Wiktionary files: រាត្រីសួស្ដី
+  - សូមស្វាគមន៍ (welcome); ស្វាគមន៍ is used. ត្រូវហើយ (that's right). ខួបកំណើត (birthday)
+- **Round 2, checked but the meaning didn't match:**
+  - ហាង: Wiktionary gives "hot, pungent", not "shop"
+  - ត្នោត: Wiktionary gives "sugar palm", not "brown"
+  - ហេតុអី and ចម្អិន are only listed as alternative forms. ហេតុអ្វី "why" and ចំអិន "to cook" are used instead.
+- **Left out on purpose:** តែ "but, only" (the course already has តែ "tea"); ពង "egg" (Wiktionary lists blister and boil first).
 - **Audio:** no recorded audio is used. The app only speaks through a Khmer (km) voice the browser itself provides.

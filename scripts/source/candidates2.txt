@@ -1,0 +1,346 @@
+# round 2: body & health
+ក្បាល|head
+ភ្នែក|eye
+ត្រចៀក|ear
+ច្រមុះ|nose
+មាត់|mouth
+ធ្មេញ|tooth
+អណ្ដាត|tongue
+ដៃ|hand, arm
+ជើង|foot, leg
+ខ្លួន|body; self
+ពោះ|belly, stomach
+ខ្នង|back
+សក់|hair
+មុខ|face
+ក|neck
+ម្រាមដៃ|finger
+បេះដូង|heart
+ឈាម|blood
+ស្បែក|skin
+ឆ្អឹង|bone
+ស្មា|shoulder
+ជង្គង់|knee
+ពេទ្យ|doctor
+គ្រូពេទ្យ|doctor
+មន្ទីរពេទ្យ|hospital
+ថ្នាំ|medicine
+គ្រុន|fever
+ក្អក|to cough
+ឱសថស្ថាន|pharmacy
+# weather & nature
+អាកាសធាតុ|weather
+ភ្លៀង|rain
+ខ្យល់|wind
+ពពក|cloud
+មេឃ|sky
+ព្រះអាទិត្យ|sun
+ព្រះច័ន្ទ|moon
+ផ្កាយ|star
+រដូវ|season
+រដូវវស្សា|rainy season
+រដូវប្រាំង|dry season
+ផ្គរ|thunder
+ទឹកជំនន់|flood
+ដើមឈើ|tree
+ផ្កា|flower
+ទន្លេ|river
+សមុទ្រ|sea
+ភ្នំ|mountain
+បឹង|lake
+ព្រៃ|forest
+ដី|earth, land
+ថ្ម|stone
+ស្រែ|rice field
+កោះ|island
+ឆ្នេរ|beach
+# colours
+ពណ៌|colour
+ក្រហម|red
+ខៀវ|blue, green
+បៃតង|green
+លឿង|yellow
+ស|white
+ខ្មៅ|black
+ប្រផេះ|grey
+ត្នោត|brown
+ផ្កាឈូក|pink; lotus flower
+មាស|gold
+ប្រាក់|silver; money
+# shopping
+ហាង|shop
+តម្លៃ|price, value
+បញ្ចុះតម្លៃ|to discount
+ថែម|to add
+ដូរ|to exchange
+អាវ|shirt
+ខោ|trousers
+ស្បែកជើង|shoes
+មួក|hat
+វ៉ែនតា|glasses
+កាបូប|bag, wallet
+ទំហំ|size
+យក|to take
+ឲ្យ|to give
+ចាយ|to spend
+ពេក|too, excessively
+អតិថិជន|customer
+អ្នកលក់|seller
+គីឡូ|kilogram
+កន្លះ|half
+ទាំងអស់|all
+ផ្សារទំនើប|supermarket
+បង់|to pay
+# work & school
+ការងារ|work, job
+ការិយាល័យ|office
+ក្រុមហ៊ុន|company
+ប្រាក់ខែ|salary
+ចៅហ្វាយ|boss
+កសិករ|farmer
+វេជ្ជបណ្ឌិត|doctor
+ប៉ូលិស|police
+អ្នកបើកបរ|driver
+ចុងភៅ|cook
+កម្មករ|worker
+ទាហាន|soldier
+អ្នកនេសាទ|fisherman
+ប្រជុំ|to meet; meeting
+កុំព្យូទ័រ|computer
+ទូរស័ព្ទ|telephone
+សៀវភៅ|book
+ក្រដាស|paper
+ប៊ិច|pen
+ខ្មៅដៃ|pencil
+តុ|table
+កៅអី|chair
+គ្រូបង្រៀន|teacher
+បង្រៀន|to teach
+ថ្នាក់|class
+# feelings
+សប្បាយចិត្ត|happy
+ពិបាកចិត្ត|sad, troubled
+ខឹង|angry
+ខ្លាច|afraid
+ហត់|tired
+នឿយ|tired
+អផ្សុក|bored
+ភ្ញាក់ផ្អើល|surprised
+ព្រួយ|worried
+អៀន|shy, embarrassed
+រីករាយ|glad, pleased
+សោកសៅ|sad
+ខកចិត្ត|disappointed
+ចិត្ត|heart, mind
+ញញឹម|to smile
+សើច|to laugh
+យំ|to cry
+# questions & little words
+ម៉េច|how
+យ៉ាងម៉េច|how
+ហេតុអី|why
+ឬ|or
+មែន|true, really
+មែនទេ|isn't it?
+ប៉ុណ្ណា|how much
+ផង|also, too
+ដែរ|also, too
+ទៀត|more, again
+តែ|only, but
+ហើយនិង|and
+និង|and
+ជាមួយ|with
+សម្រាប់|for
+ព្រោះ|because
+ប្រសិនបើ|if
+ប៉ុន្តែ|but
+# home & kitchen
+បន្ទប់|room
+ទ្វារ|door
+បង្អួច|window
+គ្រែ|bed
+ផ្ទះបាយ|kitchen
+បន្ទប់ទឹក|bathroom
+ភ្លើង|fire; light
+កង្ហារ|fan
+ទូរទស្សន៍|television
+ចាន|plate
+ស្លាបព្រា|spoon
+សម|fork
+ចង្កឹះ|chopsticks
+កែវ|glass
+កាំបិត|knife
+ឆ្នាំង|pot
+# animals
+គោ|cow
+ជ្រូក|pig
+ទា|duck
+សេះ|horse
+ដំរី|elephant
+ស្វា|monkey
+ពស់|snake
+ក្របី|water buffalo
+សត្វ|animal
+បក្សី|bird
+កណ្ដុរ|rat, mouse
+មូស|mosquito
+# more food
+អង្ករ|rice (uncooked)
+ពង|egg
+ស្ករ|sugar
+អំបិល|salt
+ម្ទេស|chili
+ខ្ទឹម|onion, garlic
+ទឹកត្រី|fish sauce
+ប្រហុក|prahok
+អាម៉ុក|amok
+បបរ|rice porridge
+នំ|cake, snack
+ស្រា|alcohol, wine
+ស្រាបៀរ|beer
+ល្ហុង|papaya
+ម្នាស់|pineapple
+ឪឡឹក|watermelon
+ធុរេន|durian
+ក្ដាម|crab
+បង្គា|shrimp
+ជូរ|sour
+ប្រៃ|salty
+ល្វីង|bitter
+ឆ្អែត|full (after eating)
+ម្ហូបអាហារ|food
+អាហារ|food, meal
+# time
+មករា|January
+កុម្ភៈ|February
+មីនា|March
+មេសា|April
+ឧសភា|May
+មិថុនា|June
+កក្កដា|July
+សីហា|August
+កញ្ញា|September
+តុលា|October
+វិច្ឆិកា|November
+ធ្នូ|December
+ថ្ងៃត្រង់|noon
+រសៀល|afternoon
+ឆាប់|quickly, soon
+យឺត|slow, late
+មុន|before
+ក្រោយ|after
+រួច|finished, done
+រាល់ថ្ងៃ|every day
+ជានិច្ច|always
+ពេលខ្លះ|sometimes
+ម្ដង|once
+ពេល|time, moment
+# directions & travel
+ខាងលើ|above
+ខាងក្រោម|below
+ខាងមុខ|in front
+ខាងក្រោយ|behind
+ក្នុង|in, inside
+ក្រៅ|outside
+បត់|to turn
+ស្ថានីយ|station
+សំបុត្រ|ticket; letter
+លិខិតឆ្លងដែន|passport
+ធនាគារ|bank
+ប្រៃសណីយ៍|post office
+ត្រូវ|correct; must
+ខុស|wrong
+ផែនទី|map
+ប្រទេស|country
+ភូមិ|village
+ខេត្ត|province
+# verbs
+ធ្វើ|to do, make
+ឃើញ|to see
+ស្គាល់|to know (a person)
+ចាំ|to remember; to wait
+ភ្លេច|to forget
+គិត|to think
+ត្រូវការ|to need
+សួរ|to ask
+ឆ្លើយ|to answer
+ប្រាប់|to tell
+ហៅ|to call
+បើក|to open; to drive
+បិទ|to close
+ចូល|to enter
+ចេញ|to go out
+អង្គុយ|to sit
+ឈរ|to stand
+រត់|to run
+ហែលទឹក|to swim
+ងូតទឹក|to bathe
+លាង|to wash
+ស្លៀក|to wear
+ចម្អិន|to cook
+ជិះ|to ride
+រស់|to live
+ទទួល|to receive
+ផ្ញើ|to send
+រក|to look for
+បាត់|to lose; lost
+ប្រើ|to use
+ចាប់ផ្ដើម|to begin
+បញ្ចប់|to finish
+ទិញ|to buy
+រៀបការ|to marry
+# adjectives
+ថ្មី|new
+ចាស់|old
+ក្មេង|young; child
+វែង|long
+ខ្លី|short
+ខ្ពស់|tall, high
+ទាប|low
+ធាត់|fat
+ស្គម|thin
+លឿន|fast
+ងាយ|easy
+ពិបាក|difficult
+សំខាន់|important
+ស្ងាត់|quiet
+រវល់|busy
+ទំនេរ|free (not busy)
+ស្រស់|fresh
+កខ្វក់|dirty
+ធ្ងន់|heavy
+ស្រាល|light (weight)
+ពិត|true
+ដូចគ្នា|same
+ផ្សេង|different
+សើម|wet
+ស្ងួត|dry
+ភ្លឺ|bright
+ងងឹត|dark
+# numbers
+ម៉ឺន|ten thousand
+សែន|hundred thousand
+លាន|million
+ពាក់កណ្ដាល|half
+# greetings
+រាត្រីសួស្តី|good night
+សាយ័ណ្ហសួស្តី|good evening
+ទិវាសួស្តី|good afternoon
+សូមស្វាគមន៍|welcome
+សំណាងល្អ|good luck
+ត្រូវហើយ|that's right
+ពិតជា|really
+# language & people
+ពាក្យ|word
+ប្រយោគ|sentence
+ចិន|China; Chinese
+បារាំង|France; French
+វៀតណាម|Vietnam
+ថៃ|Thai
+អាមេរិក|America
+បកប្រែ|to translate
+មនុស្ស|person
+អ្នកជិតខាង|neighbour
+ភ្ញៀវ|guest
+ចៅ|grandchild
+ឪពុកម្ដាយ|parents

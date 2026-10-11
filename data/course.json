@@ -2,252 +2,243 @@
  "units": [
   {
    "id": "u1",
-   "title": "The Khmer script",
-   "subtitle": "Consonants, their two series, and vowel signs",
-   "km": "ក ខ គ",
-   "lessons": [
-    {
-     "id": "script-1",
-     "title": "Consonants 1",
-     "icon": "ក",
-     "consonants": [
-      "c01",
-      "c02",
-      "c03",
-      "c04",
-      "c05",
-      "c06",
-      "c07",
-      "c08"
-     ],
-     "tip": "Every consonant has an inherent vowel. a-series letters (like ក kâ) read with â [ɑː]; o-series letters (like គ kô) read with ô [ɔː]."
-    },
-    {
-     "id": "script-2",
-     "title": "Consonants 2",
-     "icon": "ញ",
-     "consonants": [
-      "c09",
-      "c10",
-      "c11",
-      "c12",
-      "c13",
-      "c14",
-      "c15",
-      "c16"
-     ],
-     "tip": "ឋ, ឌ and ឍ are rare and appear mostly in words borrowed from Pali and Sanskrit."
-    },
-    {
-     "id": "script-3",
-     "title": "Consonants 3",
-     "icon": "ប",
-     "consonants": [
-      "c17",
-      "c18",
-      "c19",
-      "c20",
-      "c21",
-      "c22",
-      "c23",
-      "c24"
-     ],
-     "tip": "ប bâ is [ɓ] before a vowel, but [p] at the end of a syllable."
-    },
-    {
-     "id": "script-4",
-     "title": "Consonants 4",
-     "icon": "ស",
-     "consonants": [
-      "c25",
-      "c26",
-      "c27",
-      "c28",
-      "c29",
-      "c30",
-      "c31",
-      "c32",
-      "c33"
-     ],
-     "tip": "អ ’â stands for a glottal stop and is the letter vowel signs are written on when a word starts with a vowel sound."
-    },
-    {
-     "id": "vowels-1",
-     "title": "Vowel signs 1",
-     "icon": "អា",
-     "vowels": [
-      "v01",
-      "v02",
-      "v03",
-      "v04",
-      "v05",
-      "v06",
-      "v07",
-      "v08"
-     ],
-     "tip": "A vowel sign sounds different on a-series and o-series consonants. ា after ក is [aː]; after គ it is [iːə]."
-    },
-    {
-     "id": "vowels-2",
-     "title": "Vowel signs 2",
-     "icon": "អៅ",
-     "vowels": [
-      "v09",
-      "v10",
-      "v11",
-      "v12",
-      "v13",
-      "v14",
-      "v15",
-      "v16"
-     ],
-     "tip": "Vowel signs can sit before, above, below or around the consonant, but are always read after it."
-    }
-   ]
-  },
-  {
-   "id": "u2",
-   "title": "Greetings & politeness",
-   "subtitle": "Hello, thank you, yes and no",
+   "title": "Hello!",
+   "subtitle": "Greetings, thanks, yes and no",
    "km": "សួស្តី",
    "lessons": [
     {
-     "id": "greet-1",
-     "title": "Hello & goodbye",
+     "id": "u1-1",
+     "title": "Hello & thanks",
      "icon": "👋",
      "items": [
       "hello",
-      "hello-formal",
-      "good-morning",
-      "goodbye",
-      "goodbye-formal",
-      "see-you-later"
-     ],
-     "tip": "ជម្រាបសួរ is the respectful hello, usually said with a sampeah: palms together in front of the chest."
-    },
-    {
-     "id": "greet-2",
-     "title": "Thank you & sorry",
-     "icon": "🙏",
-     "items": [
       "thank-you",
-      "sorry",
-      "its-ok",
-      "no-problem",
-      "please",
-      "invite",
-      "sampeah"
+      "goodbye"
      ],
-     "sentences": [
-      "thanks-a-lot"
-     ]
+     "tip": "Start here: three words. Each one is shown on a card before you practise it."
     },
     {
-     "id": "greet-3",
+     "id": "u1-2",
      "title": "Yes & no",
      "icon": "✅",
      "items": [
       "yes-m",
       "yes-f",
       "no",
-      "not",
-      "not-colloquial"
+      "no-problem"
      ],
      "tip": "Men say បាទ baat for yes; women say ចាស caah."
     },
     {
-     "id": "greet-4",
-     "title": "You & me",
-     "icon": "🧑",
+     "id": "u1-3",
+     "title": "Sorry & please 1",
+     "icon": "🙏",
      "items": [
-      "i",
-      "you",
-      "bong",
-      "oun",
-      "lok",
-      "lok-srey",
-      "uncle",
-      "aunt"
-     ],
-     "tip": "Khmer uses family words for \"you\". Call someone a bit older បង bɑɑng, someone younger ប្អូន pʼoun, a man you respect លោក look."
+      "sorry",
+      "sorry-som",
+      "its-ok"
+     ]
     },
     {
-     "id": "greet-5",
+     "id": "u1-4",
+     "title": "Sorry & please 2",
+     "icon": "🙏",
+     "items": [
+      "please",
+      "invite"
+     ]
+    },
+    {
+     "id": "u1-5",
+     "title": "Respectful greetings 1",
+     "icon": "🪷",
+     "items": [
+      "hello-formal",
+      "goodbye-formal",
+      "sampeah",
+      "good-morning"
+     ],
+     "tip": "ជម្រាបសួរ is the respectful hello, said with a sampeah: palms together in front of the chest."
+    },
+    {
+     "id": "u1-6",
+     "title": "Respectful greetings 2",
+     "icon": "🪷",
+     "items": [
+      "good-night",
+      "see-you-later",
+      "welcome",
+      "good-luck"
+     ]
+    },
+    {
+     "id": "u1-7",
      "title": "How are you?",
      "icon": "😊",
      "items": [
       "well",
       "happy",
       "be",
-      "name",
-      "what",
-      "question-marker"
+      "name"
+     ],
+     "tip": "សុខសប្បាយ sok sapbaay means \"well and happy\".",
+     "sentences": [
+      "how-are-you"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "title": "You & me",
+   "subtitle": "Saying I, you, he and she",
+   "km": "ខ្ញុំ",
+   "lessons": [
+    {
+     "id": "u2-1",
+     "title": "I & you",
+     "icon": "🧑",
+     "items": [
+      "i",
+      "you",
+      "you-intimate",
+      "we"
      ],
      "sentences": [
-      "how-are-you",
-      "im-fine",
-      "whats-your-name"
+      "im-fine"
+     ]
+    },
+    {
+     "id": "u2-2",
+     "title": "Family words for \"you\" 1",
+     "icon": "🫶",
+     "items": [
+      "bong",
+      "oun",
+      "lok"
      ],
-     "tip": "សុខសប្បាយ sok sapbaay means \"well and happy\". Ask it as a question by adding ជាទេ."
+     "tip": "Khmer uses family words for \"you\": បង for someone a bit older, ប្អូន for someone younger."
+    },
+    {
+     "id": "u2-3",
+     "title": "Family words for \"you\" 2",
+     "icon": "🫶",
+     "items": [
+      "lok-srey",
+      "uncle",
+      "aunt"
+     ]
+    },
+    {
+     "id": "u2-4",
+     "title": "Other people 1",
+     "icon": "👥",
+     "items": [
+      "he-she",
+      "they",
+      "person"
+     ]
+    },
+    {
+     "id": "u2-5",
+     "title": "Other people 2",
+     "icon": "👥",
+     "items": [
+      "guest",
+      "man",
+      "woman"
+     ]
+    },
+    {
+     "id": "u2-6",
+     "title": "Who & what",
+     "icon": "❔",
+     "items": [
+      "question-marker",
+      "what",
+      "who",
+      "friend"
+     ],
+     "tip": "តើ at the start of a sentence makes it a polite question.",
+     "sentences": [
+      "whats-your-name"
+     ]
     }
    ]
   },
   {
    "id": "u3",
    "title": "Numbers",
-   "subtitle": "Khmer digits and counting to a thousand",
+   "subtitle": "Khmer digits and counting to a million",
    "km": "១ ២ ៣",
    "lessons": [
     {
-     "id": "num-1",
-     "title": "One to five",
-     "icon": "១",
-     "digits": [
-      "d0",
-      "d1",
-      "d2",
-      "d3",
-      "d4",
-      "d5"
-     ],
+     "id": "u3-1",
+     "title": "Zero to three",
+     "icon": "០",
      "items": [
       "zero",
       "one",
       "two",
-      "three",
-      "four",
-      "five"
+      "three"
      ],
-     "tip": "Khmer has its own digits, ០ to ៩, written just like Western numbers: ១២ is 12."
+     "tip": "Khmer has its own digits, ០ to ៩.",
+     "digits": [
+      "d0",
+      "d1",
+      "d2",
+      "d3"
+     ]
     },
     {
-     "id": "num-2",
-     "title": "Six to ten",
-     "icon": "៦",
-     "digits": [
-      "d6",
-      "d7",
-      "d8",
-      "d9"
-     ],
+     "id": "u3-2",
+     "title": "Four to seven",
+     "icon": "៤",
      "items": [
+      "four",
+      "five",
       "six",
-      "seven",
+      "seven"
+     ],
+     "tip": "Six and seven are \"five-one\" and \"five-two\".",
+     "digits": [
+      "d4",
+      "d5",
+      "d6",
+      "d7"
+     ]
+    },
+    {
+     "id": "u3-3",
+     "title": "Eight to ten",
+     "icon": "៨",
+     "items": [
       "eight",
       "nine",
-      "ten"
+      "ten",
+      "number"
      ],
-     "tip": "Six to nine are \"five-one\" to \"five-four\": ប្រាំ pram + មួយ muəy = 6."
+     "digits": [
+      "d8",
+      "d9"
+     ]
     },
     {
-     "id": "num-3",
-     "title": "Tens",
-     "icon": "៣០",
+     "id": "u3-4",
+     "title": "Tens 1",
+     "icon": "២០",
      "items": [
       "twenty",
       "thirty",
       "forty",
-      "fifty",
+      "fifty"
+     ]
+    },
+    {
+     "id": "u3-5",
+     "title": "Tens 2",
+     "icon": "២០",
+     "items": [
       "sixty",
       "seventy",
       "eighty",
@@ -255,425 +246,1717 @@
      ]
     },
     {
-     "id": "num-4",
-     "title": "Bigger numbers",
+     "id": "u3-6",
+     "title": "Hundreds & more 1",
      "icon": "១០០",
      "items": [
       "hundred",
       "thousand",
-      "number",
+      "ten-thousand"
+     ],
+     "tip": "ម៉ឺន is ten thousand and សែន a hundred thousand: Khmer has single words for both."
+    },
+    {
+     "id": "u3-7",
+     "title": "Hundreds & more 2",
+     "icon": "១០០",
+     "items": [
+      "hundred-thousand",
+      "million"
+     ]
+    },
+    {
+     "id": "u3-8",
+     "title": "Building numbers 1",
+     "icon": "២១",
+     "items": [
       "eleven",
       "fifteen",
-      "twenty-one",
-      "one-hundred",
-      "one-thousand"
+      "twenty-one"
      ],
-     "tip": "Numbers in between are built from the parts: ម្ភៃ mphɨy (20) + មួយ muəy (1) = 21."
+     "tip": "Numbers in between are built from the parts: ម្ភៃ (20) + មួយ (1) = 21."
+    },
+    {
+     "id": "u3-9",
+     "title": "Building numbers 2",
+     "icon": "២១",
+     "items": [
+      "one-hundred",
+      "one-thousand",
+      "half"
+     ]
     }
    ]
   },
   {
    "id": "u4",
-   "title": "Food & market",
-   "subtitle": "Order, taste and pay",
+   "title": "Food & drink",
+   "subtitle": "Order, taste and eat",
    "km": "ម្ហូប",
    "lessons": [
     {
-     "id": "food-1",
-     "title": "Food basics",
+     "id": "u4-1",
+     "title": "Rice & water",
      "icon": "🍚",
      "items": [
       "rice",
       "water",
+      "food",
+      "meal"
+     ],
+     "tip": "បាយ is cooked rice, and also \"a meal\"."
+    },
+    {
+     "id": "u4-2",
+     "title": "Meat & fish 1",
+     "icon": "🍗",
+     "items": [
       "fish",
       "meat",
-      "vegetable",
-      "fruit",
-      "food"
-     ]
+      "chicken",
+      "chicken-meat"
+     ],
+     "tip": "សាច់ means meat: សាច់ + គោ (cow) = beef."
     },
     {
-     "id": "food-2",
-     "title": "Meat & drinks",
-     "icon": "☕",
+     "id": "u4-3",
+     "title": "Meat & fish 2",
+     "icon": "🍗",
      "items": [
-      "chicken",
-      "chicken-meat",
       "beef",
       "pork",
-      "coffee",
-      "tea",
-      "ice",
-      "milk"
+      "crab",
+      "shrimp"
      ]
     },
     {
-     "id": "food-3",
-     "title": "Fruit & dishes",
+     "id": "u4-4",
+     "title": "Fruit & vegetables 1",
      "icon": "🥭",
      "items": [
-      "banana",
+      "vegetable",
+      "fruit",
+      "banana"
+     ]
+    },
+    {
+     "id": "u4-5",
+     "title": "Fruit & vegetables 2",
+     "icon": "🥭",
+     "items": [
       "mango",
       "coconut",
-      "orange",
+      "orange"
+     ]
+    },
+    {
+     "id": "u4-6",
+     "title": "Fruit & vegetables 3",
+     "icon": "🥭",
+     "items": [
+      "papaya",
+      "pineapple",
+      "watermelon"
+     ]
+    },
+    {
+     "id": "u4-7",
+     "title": "Drinks 1",
+     "icon": "☕",
+     "items": [
+      "coffee",
+      "tea",
+      "ice"
+     ]
+    },
+    {
+     "id": "u4-8",
+     "title": "Drinks 2",
+     "icon": "☕",
+     "items": [
+      "milk",
+      "alcohol"
+     ]
+    },
+    {
+     "id": "u4-9",
+     "title": "In the kitchen 1",
+     "icon": "🧂",
+     "items": [
+      "raw-rice",
+      "sugar",
+      "salt",
+      "chili"
+     ]
+    },
+    {
+     "id": "u4-10",
+     "title": "In the kitchen 2",
+     "icon": "🧂",
+     "items": [
+      "onion",
+      "fish-sauce",
+      "prahok"
+     ]
+    },
+    {
+     "id": "u4-11",
+     "title": "Dishes 1",
+     "icon": "🍜",
+     "items": [
       "bread",
       "noodle-soup",
-      "soup",
+      "soup"
+     ]
+    },
+    {
+     "id": "u4-12",
+     "title": "Dishes 2",
+     "icon": "🍜",
+     "items": [
+      "porridge",
+      "cake",
       "restaurant"
      ]
     },
     {
-     "id": "food-4",
-     "title": "Hungry & thirsty",
+     "id": "u4-13",
+     "title": "Tastes 1",
      "icon": "😋",
      "items": [
-      "eat",
-      "drink",
-      "hungry",
-      "thirsty",
       "delicious",
+      "very",
       "sweet",
       "spicy"
      ],
+     "tip": "ណាស់ \"very\" comes after the describing word: ឆ្ងាញ់ណាស់ = very delicious.",
      "sentences": [
-      "im-hungry",
-      "im-thirsty",
-      "want-rice",
-      "want-coffee",
-      "very-delicious",
-      "like-kuyteav"
+      "very-delicious"
      ]
     },
     {
-     "id": "food-5",
-     "title": "At the market",
-     "icon": "🛒",
+     "id": "u4-14",
+     "title": "Tastes 2",
+     "icon": "😋",
      "items": [
-      "market",
-      "buy",
-      "sell",
-      "money",
-      "riel",
-      "dollar",
-      "price",
-      "cheap",
-      "how-much"
+      "sour",
+      "salty",
+      "bitter"
+     ]
+    },
+    {
+     "id": "u4-15",
+     "title": "Hungry & full 1",
+     "icon": "🍽️",
+     "items": [
+      "eat",
+      "drink",
+      "hungry"
      ],
      "sentences": [
-      "how-much",
-      "very-expensive",
-      "want-market"
+      "im-hungry"
+     ]
+    },
+    {
+     "id": "u4-16",
+     "title": "Hungry & full 2",
+     "icon": "🍽️",
+     "items": [
+      "thirsty",
+      "full"
      ],
-     "tip": "ថ្លៃ thlay is both \"price\" and \"expensive\", so ថ្លៃប៉ុន្មាន? is \"how much?\"."
+     "sentences": [
+      "im-thirsty"
+     ]
     }
    ]
   },
   {
    "id": "u5",
-   "title": "Family & people",
-   "subtitle": "Parents, siblings and friends",
-   "km": "គ្រួសារ",
+   "title": "Shopping",
+   "subtitle": "Prices, paying and bargaining",
+   "km": "ផ្សារ",
    "lessons": [
     {
-     "id": "fam-1",
-     "title": "Parents & children",
-     "icon": "👪",
+     "id": "u5-1",
+     "title": "At the market 1",
+     "icon": "🛒",
      "items": [
-      "father",
-      "mother",
-      "child",
-      "husband",
-      "wife",
-      "family"
+      "market",
+      "buy",
+      "sell"
      ]
     },
     {
-     "id": "fam-2",
-     "title": "Brothers & sisters",
-     "icon": "👫",
+     "id": "u5-2",
+     "title": "At the market 2",
+     "icon": "🛒",
      "items": [
-      "older-brother",
-      "older-sister",
-      "younger-brother",
-      "younger-sister",
-      "man",
-      "woman"
-     ],
-     "tip": "Khmer names siblings by age first: បង older, ប្អូន younger, then ប្រុស male or ស្រី female."
+      "money",
+      "silver"
+     ]
     },
     {
-     "id": "fam-3",
-     "title": "Elders & friends",
-     "icon": "🧓",
+     "id": "u5-3",
+     "title": "Prices 1",
+     "icon": "💵",
      "items": [
-      "grandmother",
-      "grandfather",
-      "friend",
-      "he-she",
-      "we",
-      "they",
-      "teacher",
-      "student"
+      "riel",
+      "dollar",
+      "price"
+     ],
+     "tip": "ថ្លៃ is both \"price\" and \"expensive\", so ថ្លៃប៉ុន្មាន? is \"how much?\".",
+     "sentences": [
+      "very-expensive"
+     ]
+    },
+    {
+     "id": "u5-4",
+     "title": "Prices 2",
+     "icon": "💵",
+     "items": [
+      "cheap",
+      "how-much",
+      "value"
+     ],
+     "sentences": [
+      "how-much"
+     ]
+    },
+    {
+     "id": "u5-5",
+     "title": "Bargaining 1",
+     "icon": "🤝",
+     "items": [
+      "discount",
+      "too-much",
+      "add",
+      "exchange"
+     ]
+    },
+    {
+     "id": "u5-6",
+     "title": "Bargaining 2",
+     "icon": "🤝",
+     "items": [
+      "take",
+      "give",
+      "pay",
+      "spend"
+     ]
+    },
+    {
+     "id": "u5-7",
+     "title": "At the shop 1",
+     "icon": "🏬",
+     "items": [
+      "supermarket",
+      "customer",
+      "seller"
+     ]
+    },
+    {
+     "id": "u5-8",
+     "title": "At the shop 2",
+     "icon": "🏬",
+     "items": [
+      "kilo",
+      "all"
      ]
     }
    ]
   },
   {
    "id": "u6",
-   "title": "Time & days",
-   "subtitle": "Today, tomorrow and the week",
-   "km": "ថ្ងៃ",
+   "title": "Colours & clothes",
+   "subtitle": "Red, blue, shirts and shoes",
+   "km": "ពណ៌",
    "lessons": [
     {
-     "id": "time-1",
-     "title": "Today & tomorrow",
-     "icon": "🌅",
+     "id": "u6-1",
+     "title": "Colours 1",
+     "icon": "🎨",
      "items": [
-      "day",
-      "today",
-      "yesterday",
-      "tomorrow",
-      "now",
-      "morning",
-      "evening",
-      "night"
+      "colour",
+      "red",
+      "blue",
+      "green"
      ],
-     "sentences": [
-      "went-yesterday",
-      "school-tomorrow"
+     "tip": "Colours often follow ពណ៌ \"colour\": ពណ៌ក្រហម = the colour red."
+    },
+    {
+     "id": "u6-2",
+     "title": "Colours 2",
+     "icon": "🎨",
+     "items": [
+      "yellow",
+      "white",
+      "black"
      ]
     },
     {
-     "id": "time-2",
-     "title": "Clock & calendar",
-     "icon": "🕗",
+     "id": "u6-3",
+     "title": "Colours 3",
+     "icon": "🎨",
      "items": [
-      "hour",
-      "minute",
-      "week",
-      "month",
-      "year",
-      "age"
+      "grey",
+      "pink",
+      "gold"
      ]
     },
     {
-     "id": "time-3",
-     "title": "Days of the week",
-     "icon": "📅",
+     "id": "u6-4",
+     "title": "Clothes 1",
+     "icon": "👕",
      "items": [
-      "monday",
-      "tuesday",
-      "wednesday",
-      "thursday",
-      "friday",
-      "saturday",
-      "sunday"
-     ],
-     "tip": "Every day starts with ថ្ងៃ thngay, \"day\"."
+      "shirt",
+      "trousers",
+      "shoes",
+      "hat"
+     ]
+    },
+    {
+     "id": "u6-5",
+     "title": "Clothes 2",
+     "icon": "👕",
+     "items": [
+      "glasses",
+      "wallet",
+      "size",
+      "wear"
+     ]
     }
    ]
   },
   {
    "id": "u7",
-   "title": "Getting around",
-   "subtitle": "Directions, places and transport",
-   "km": "ផ្លូវ",
+   "title": "Family",
+   "subtitle": "Parents, brothers and sisters",
+   "km": "គ្រួសារ",
    "lessons": [
     {
-     "id": "go-1",
-     "title": "Directions",
-     "icon": "🧭",
+     "id": "u7-1",
+     "title": "Parents & children 1",
+     "icon": "👪",
      "items": [
-      "left",
-      "right",
-      "straight",
-      "stop",
-      "near",
-      "far",
-      "road",
-      "return"
+      "father",
+      "mother",
+      "parents",
+      "child"
      ]
     },
     {
-     "id": "go-2",
-     "title": "Places",
-     "icon": "🏯",
+     "id": "u7-2",
+     "title": "Parents & children 2",
+     "icon": "👪",
      "items": [
-      "house",
-      "hotel",
-      "toilet",
-      "school",
-      "pagoda",
-      "city",
-      "at",
-      "where"
-     ],
-     "sentences": [
-      "where-toilet",
-      "where-market"
+      "husband",
+      "wife",
+      "family"
      ]
     },
     {
-     "id": "go-3",
-     "title": "Cambodia",
-     "icon": "🛕",
+     "id": "u7-3",
+     "title": "Brothers & sisters",
+     "icon": "👫",
      "items": [
-      "cambodia",
-      "phnom-penh",
-      "siem-reap",
-      "angkor-wat",
-      "khmer",
-      "come",
-      "from"
+      "older-brother",
+      "older-sister",
+      "younger-brother",
+      "younger-sister"
      ],
-     "sentences": [
-      "where-from"
-     ]
+     "tip": "Siblings are named by age first: បង older, ប្អូន younger, then ប្រុស male or ស្រី female."
     },
     {
-     "id": "go-4",
-     "title": "Transport",
-     "icon": "🛵",
+     "id": "u7-4",
+     "title": "Old & young",
+     "icon": "🧓",
      "items": [
-      "car",
-      "motorbike",
-      "bicycle",
-      "bus",
-      "airplane",
-      "boat",
-      "go",
-      "walk",
-      "wait"
-     ],
-     "sentences": [
-      "where-going",
-      "stroll"
+      "grandmother",
+      "grandfather",
+      "grandchild",
+      "young"
      ]
     }
    ]
   },
   {
    "id": "u8",
-   "title": "Everyday sentences",
-   "subtitle": "Verbs, describing words, questions",
-   "km": "និយាយ",
+   "title": "Body & health",
+   "subtitle": "Head to toe, and seeing a doctor",
+   "km": "ខ្លួន",
    "lessons": [
     {
-     "id": "verb-1",
-     "title": "Wants & feelings",
+     "id": "u8-1",
+     "title": "Head & face 1",
+     "icon": "🙂",
+     "items": [
+      "head",
+      "face",
+      "eye"
+     ]
+    },
+    {
+     "id": "u8-2",
+     "title": "Head & face 2",
+     "icon": "🙂",
+     "items": [
+      "ear",
+      "nose",
+      "mouth"
+     ]
+    },
+    {
+     "id": "u8-3",
+     "title": "Head & face 3",
+     "icon": "🙂",
+     "items": [
+      "tooth",
+      "tongue",
+      "hair"
+     ]
+    },
+    {
+     "id": "u8-4",
+     "title": "Arms & legs 1",
+     "icon": "🦵",
+     "items": [
+      "body",
+      "neck",
+      "hand"
+     ]
+    },
+    {
+     "id": "u8-5",
+     "title": "Arms & legs 2",
+     "icon": "🦵",
+     "items": [
+      "foot",
+      "finger",
+      "shoulder"
+     ]
+    },
+    {
+     "id": "u8-6",
+     "title": "Arms & legs 3",
+     "icon": "🦵",
+     "items": [
+      "knee",
+      "belly",
+      "back"
+     ]
+    },
+    {
+     "id": "u8-7",
+     "title": "Inside the body",
+     "icon": "🫀",
+     "items": [
+      "heart",
+      "blood",
+      "skin",
+      "bone"
+     ]
+    },
+    {
+     "id": "u8-8",
+     "title": "Feeling sick",
+     "icon": "🤒",
+     "items": [
+      "sick",
+      "headache",
+      "fever",
+      "cough"
+     ],
+     "sentences": [
+      "im-sick",
+      "have-headache"
+     ]
+    },
+    {
+     "id": "u8-9",
+     "title": "Seeing a doctor 1",
+     "icon": "🏥",
+     "items": [
+      "doctor-pet",
+      "doctor",
+      "physician"
+     ]
+    },
+    {
+     "id": "u8-10",
+     "title": "Seeing a doctor 2",
+     "icon": "🏥",
+     "items": [
+      "hospital",
+      "medicine",
+      "pharmacy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9",
+   "title": "Time",
+   "subtitle": "Days, months and the clock",
+   "km": "ពេល",
+   "lessons": [
+    {
+     "id": "u9-1",
+     "title": "Today & tomorrow 1",
+     "icon": "🌅",
+     "items": [
+      "day",
+      "today",
+      "yesterday"
+     ]
+    },
+    {
+     "id": "u9-2",
+     "title": "Today & tomorrow 2",
+     "icon": "🌅",
+     "items": [
+      "tomorrow",
+      "now"
+     ]
+    },
+    {
+     "id": "u9-3",
+     "title": "Times of day 1",
+     "icon": "🌇",
+     "items": [
+      "morning",
+      "noon",
+      "afternoon"
+     ]
+    },
+    {
+     "id": "u9-4",
+     "title": "Times of day 2",
+     "icon": "🌇",
+     "items": [
+      "evening",
+      "night"
+     ]
+    },
+    {
+     "id": "u9-5",
+     "title": "The clock 1",
+     "icon": "🕗",
+     "items": [
+      "hour",
+      "minute",
+      "time",
+      "week"
+     ]
+    },
+    {
+     "id": "u9-6",
+     "title": "The clock 2",
+     "icon": "🕗",
+     "items": [
+      "month",
+      "year",
+      "age"
+     ]
+    },
+    {
+     "id": "u9-7",
+     "title": "Days of the week 1",
+     "icon": "📅",
+     "items": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday"
+     ],
+     "tip": "Every day starts with ថ្ងៃ thngay, \"day\"."
+    },
+    {
+     "id": "u9-8",
+     "title": "Days of the week 2",
+     "icon": "📅",
+     "items": [
+      "friday",
+      "saturday",
+      "sunday"
+     ]
+    },
+    {
+     "id": "u9-9",
+     "title": "Months 1",
+     "icon": "🗓️",
+     "items": [
+      "january",
+      "february",
+      "march",
+      "april"
+     ]
+    },
+    {
+     "id": "u9-10",
+     "title": "Months 2",
+     "icon": "🗓️",
+     "items": [
+      "may",
+      "june",
+      "july",
+      "august"
+     ]
+    },
+    {
+     "id": "u9-11",
+     "title": "Months 3",
+     "icon": "🗓️",
+     "items": [
+      "september",
+      "october",
+      "november",
+      "december"
+     ]
+    },
+    {
+     "id": "u9-12",
+     "title": "Before & after 1",
+     "icon": "⏱️",
+     "items": [
+      "before",
+      "after",
+      "soon"
+     ]
+    },
+    {
+     "id": "u9-13",
+     "title": "Before & after 2",
+     "icon": "⏱️",
+     "items": [
+      "slow",
+      "done",
+      "always"
+     ]
+    },
+    {
+     "id": "u9-14",
+     "title": "Before & after 3",
+     "icon": "⏱️",
+     "items": [
+      "sometimes",
+      "once",
+      "again"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "title": "Weather & nature",
+   "subtitle": "Rain, sun, rivers and trees",
+   "km": "អាកាសធាតុ",
+   "lessons": [
+    {
+     "id": "u10-1",
+     "title": "Weather 1",
+     "icon": "⛅",
+     "items": [
+      "weather",
+      "rain",
+      "wind",
+      "cloud"
+     ]
+    },
+    {
+     "id": "u10-2",
+     "title": "Weather 2",
+     "icon": "⛅",
+     "items": [
+      "sky",
+      "thunder",
+      "flood",
+      "season"
+     ]
+    },
+    {
+     "id": "u10-3",
+     "title": "Sun & stars 1",
+     "icon": "☀️",
+     "items": [
+      "sun",
+      "moon",
+      "star"
+     ]
+    },
+    {
+     "id": "u10-4",
+     "title": "Sun & stars 2",
+     "icon": "☀️",
+     "items": [
+      "bright",
+      "dark"
+     ]
+    },
+    {
+     "id": "u10-5",
+     "title": "Hot & cold 1",
+     "icon": "🌡️",
+     "items": [
+      "hot",
+      "cold",
+      "feel-cold"
+     ],
+     "sentences": [
+      "im-cold",
+      "hot-today"
+     ]
+    },
+    {
+     "id": "u10-6",
+     "title": "Hot & cold 2",
+     "icon": "🌡️",
+     "items": [
+      "wet",
+      "dry"
+     ]
+    },
+    {
+     "id": "u10-7",
+     "title": "Nature 1",
+     "icon": "🌳",
+     "items": [
+      "tree",
+      "flower",
+      "river",
+      "sea"
+     ]
+    },
+    {
+     "id": "u10-8",
+     "title": "Nature 2",
+     "icon": "🌳",
+     "items": [
+      "mountain",
+      "lake",
+      "forest",
+      "earth"
+     ]
+    },
+    {
+     "id": "u10-9",
+     "title": "Nature 3",
+     "icon": "🌳",
+     "items": [
+      "stone",
+      "rice-field",
+      "island",
+      "beach"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "title": "Getting around",
+   "subtitle": "Directions, places and transport",
+   "km": "ផ្លូវ",
+   "lessons": [
+    {
+     "id": "u11-1",
+     "title": "Directions 1",
+     "icon": "🧭",
+     "items": [
+      "left",
+      "right",
+      "straight"
+     ]
+    },
+    {
+     "id": "u11-2",
+     "title": "Directions 2",
+     "icon": "🧭",
+     "items": [
+      "turn",
+      "stop",
+      "return"
+     ]
+    },
+    {
+     "id": "u11-3",
+     "title": "Where is it? 1",
+     "icon": "📍",
+     "items": [
+      "at",
+      "where",
+      "which"
+     ],
+     "sentences": [
+      "where-market",
+      "where-hospital"
+     ]
+    },
+    {
+     "id": "u11-4",
+     "title": "Where is it? 2",
+     "icon": "📍",
+     "items": [
+      "near",
+      "far",
+      "from"
+     ],
+     "sentences": [
+      "market-far"
+     ]
+    },
+    {
+     "id": "u11-5",
+     "title": "In & out 1",
+     "icon": "↔️",
+     "items": [
+      "above",
+      "in-front",
+      "behind"
+     ]
+    },
+    {
+     "id": "u11-6",
+     "title": "In & out 2",
+     "icon": "↔️",
+     "items": [
+      "inside",
+      "outside"
+     ]
+    },
+    {
+     "id": "u11-7",
+     "title": "Places 1",
+     "icon": "🏯",
+     "items": [
+      "house",
+      "hotel",
+      "toilet",
+      "school"
+     ],
+     "sentences": [
+      "where-toilet"
+     ]
+    },
+    {
+     "id": "u11-8",
+     "title": "Places 2",
+     "icon": "🏯",
+     "items": [
+      "pagoda",
+      "city",
+      "road"
+     ]
+    },
+    {
+     "id": "u11-9",
+     "title": "Places 3",
+     "icon": "🏯",
+     "items": [
+      "bank",
+      "post-office",
+      "station"
+     ],
+     "sentences": [
+      "where-bank"
+     ]
+    },
+    {
+     "id": "u11-10",
+     "title": "Cambodia 1",
+     "icon": "🛕",
+     "items": [
+      "cambodia",
+      "phnom-penh",
+      "siem-reap"
+     ]
+    },
+    {
+     "id": "u11-11",
+     "title": "Cambodia 2",
+     "icon": "🛕",
+     "items": [
+      "angkor-wat",
+      "khmer",
+      "country"
+     ]
+    },
+    {
+     "id": "u11-12",
+     "title": "Cambodia 3",
+     "icon": "🛕",
+     "items": [
+      "village",
+      "province",
+      "map"
+     ]
+    },
+    {
+     "id": "u11-13",
+     "title": "Transport 1",
+     "icon": "🛵",
+     "items": [
+      "car",
+      "motorbike",
+      "bicycle",
+      "bus"
+     ]
+    },
+    {
+     "id": "u11-14",
+     "title": "Transport 2",
+     "icon": "🛵",
+     "items": [
+      "airplane",
+      "boat",
+      "ride"
+     ]
+    },
+    {
+     "id": "u11-15",
+     "title": "Travelling 1",
+     "icon": "🧳",
+     "items": [
+      "go",
+      "come",
+      "walk"
+     ],
+     "sentences": [
+      "where-from",
+      "went-yesterday"
+     ]
+    },
+    {
+     "id": "u11-16",
+     "title": "Travelling 2",
+     "icon": "🧳",
+     "items": [
+      "wait",
+      "ticket",
+      "passport"
+     ],
+     "sentences": [
+      "where-going"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "title": "At home",
+   "subtitle": "Rooms, things and the kitchen",
+   "km": "ផ្ទះ",
+   "lessons": [
+    {
+     "id": "u12-1",
+     "title": "Rooms 1",
+     "icon": "🏠",
+     "items": [
+      "room",
+      "door",
+      "window"
+     ]
+    },
+    {
+     "id": "u12-2",
+     "title": "Rooms 2",
+     "icon": "🏠",
+     "items": [
+      "bed",
+      "kitchen",
+      "bathroom"
+     ]
+    },
+    {
+     "id": "u12-3",
+     "title": "Things 1",
+     "icon": "💡",
+     "items": [
+      "fire",
+      "fan",
+      "television",
+      "telephone"
+     ]
+    },
+    {
+     "id": "u12-4",
+     "title": "Things 2",
+     "icon": "💡",
+     "items": [
+      "computer",
+      "table",
+      "chair"
+     ]
+    },
+    {
+     "id": "u12-5",
+     "title": "Plates & spoons 1",
+     "icon": "🥢",
+     "items": [
+      "plate",
+      "spoon",
+      "fork",
+      "chopsticks"
+     ]
+    },
+    {
+     "id": "u12-6",
+     "title": "Plates & spoons 2",
+     "icon": "🥢",
+     "items": [
+      "glass",
+      "knife",
+      "pot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u13",
+   "title": "Animals",
+   "subtitle": "On the farm and in the wild",
+   "km": "សត្វ",
+   "lessons": [
+    {
+     "id": "u13-1",
+     "title": "On the farm 1",
+     "icon": "🐄",
+     "items": [
+      "animal",
+      "cow",
+      "pig"
+     ]
+    },
+    {
+     "id": "u13-2",
+     "title": "On the farm 2",
+     "icon": "🐄",
+     "items": [
+      "duck",
+      "horse",
+      "buffalo"
+     ]
+    },
+    {
+     "id": "u13-3",
+     "title": "Wild & at home 1",
+     "icon": "🐘",
+     "items": [
+      "elephant",
+      "monkey",
+      "snake",
+      "bird"
+     ]
+    },
+    {
+     "id": "u13-4",
+     "title": "Wild & at home 2",
+     "icon": "🐘",
+     "items": [
+      "mouse",
+      "mosquito",
+      "dog",
+      "cat"
+     ],
+     "sentences": [
+      "two-dogs",
+      "two-cats"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u14",
+   "title": "Work & school",
+   "subtitle": "Jobs, the office and the classroom",
+   "km": "ការងារ",
+   "lessons": [
+    {
+     "id": "u14-1",
+     "title": "Jobs 1",
+     "icon": "👩‍🌾",
+     "items": [
+      "farmer",
+      "police",
+      "soldier"
+     ]
+    },
+    {
+     "id": "u14-2",
+     "title": "Jobs 2",
+     "icon": "👩‍🌾",
+     "items": [
+      "cook-person",
+      "worker",
+      "fisherman"
+     ]
+    },
+    {
+     "id": "u14-3",
+     "title": "At work 1",
+     "icon": "💼",
+     "items": [
+      "job",
+      "work",
+      "office",
+      "company"
+     ]
+    },
+    {
+     "id": "u14-4",
+     "title": "At work 2",
+     "icon": "💼",
+     "items": [
+      "salary",
+      "boss",
+      "meet"
+     ]
+    },
+    {
+     "id": "u14-5",
+     "title": "At school 1",
+     "icon": "📚",
+     "items": [
+      "teacher",
+      "teacher-full",
+      "student",
+      "study"
+     ],
+     "sentences": [
+      "im-teacher"
+     ]
+    },
+    {
+     "id": "u14-6",
+     "title": "At school 2",
+     "icon": "📚",
+     "items": [
+      "teach",
+      "class",
+      "book"
+     ]
+    },
+    {
+     "id": "u14-7",
+     "title": "At school 3",
+     "icon": "📚",
+     "items": [
+      "paper",
+      "pen",
+      "pencil"
+     ]
+    },
+    {
+     "id": "u14-8",
+     "title": "Languages 1",
+     "icon": "🗣️",
+     "items": [
+      "language",
+      "english",
+      "speak",
+      "know-how"
+     ],
+     "sentences": [
+      "speak-english"
+     ]
+    },
+    {
+     "id": "u14-9",
+     "title": "Languages 2",
+     "icon": "🗣️",
+     "items": [
+      "letter",
+      "word",
+      "sentence"
+     ]
+    },
+    {
+     "id": "u14-10",
+     "title": "Languages 3",
+     "icon": "🗣️",
+     "items": [
+      "translate",
+      "chinese",
+      "french"
+     ]
+    },
+    {
+     "id": "u14-11",
+     "title": "Languages 4",
+     "icon": "🗣️",
+     "items": [
+      "vietnam",
+      "thai",
+      "america"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u15",
+   "title": "Feelings",
+   "subtitle": "Happy, tired, afraid",
+   "km": "ចិត្ត",
+   "lessons": [
+    {
+     "id": "u15-1",
+     "title": "How I feel",
+     "icon": "😊",
+     "items": [
+      "glad",
+      "worried",
+      "angry",
+      "afraid"
+     ],
+     "sentences": [
+      "im-afraid"
+     ]
+    },
+    {
+     "id": "u15-2",
+     "title": "Tired",
+     "icon": "😴",
+     "items": [
+      "tired",
+      "weary",
+      "exhausted",
+      "bored"
+     ],
+     "sentences": [
+      "im-exhausted",
+      "im-tired"
+     ]
+    },
+    {
+     "id": "u15-3",
+     "title": "Heart & mind 1",
+     "icon": "💗",
+     "items": [
+      "heart-mind",
+      "like",
+      "love"
+     ],
+     "tip": "Many feeling words are built on ចិត្ត \"heart\": ចូលចិត្ត \"to like\" is literally \"enter the heart\".",
+     "sentences": [
+      "like-kuyteav",
+      "like-red"
+     ]
+    },
+    {
+     "id": "u15-4",
+     "title": "Heart & mind 2",
+     "icon": "💗",
+     "items": [
+      "miss",
+      "surprised",
+      "shy"
+     ],
+     "sentences": [
+      "miss-you"
+     ]
+    },
+    {
+     "id": "u15-5",
+     "title": "Smile & cry",
+     "icon": "😄",
+     "items": [
+      "smile",
+      "laugh",
+      "cry"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u16",
+   "title": "Little words",
+   "subtitle": "Questions, this and that, and, but",
+   "km": "នេះ",
+   "lessons": [
+    {
+     "id": "u16-1",
+     "title": "Question words",
+     "icon": "❓",
+     "items": [
+      "when",
+      "why",
+      "how",
+      "what-colloquial"
+     ],
+     "tip": "Question words go where the answer would go: លោកទៅណា? \"you go where?\""
+    },
+    {
+     "id": "u16-2",
+     "title": "This & that 1",
+     "icon": "👉",
+     "items": [
+      "this",
+      "that",
+      "some",
+      "true"
+     ],
+     "sentences": [
+      "this-morning",
+      "shirt-expensive"
+     ]
+    },
+    {
+     "id": "u16-3",
+     "title": "This & that 2",
+     "icon": "👉",
+     "items": [
+      "isnt-it",
+      "real",
+      "really"
+     ]
+    },
+    {
+     "id": "u16-4",
+     "title": "And, or, but 1",
+     "icon": "🔗",
+     "items": [
+      "and",
+      "or",
+      "with",
+      "for"
+     ]
+    },
+    {
+     "id": "u16-5",
+     "title": "And, or, but 2",
+     "icon": "🔗",
+     "items": [
+      "because",
+      "if",
+      "but"
+     ]
+    },
+    {
+     "id": "u16-6",
+     "title": "And, or, but 3",
+     "icon": "🔗",
+     "items": [
+      "also",
+      "also-dae",
+      "more"
+     ]
+    },
+    {
+     "id": "u16-7",
+     "title": "Not, already, will 1",
+     "icon": "⏳",
+     "items": [
+      "not",
+      "not-colloquial",
+      "already",
+      "will"
+     ],
+     "tip": "To say \"not\", wrap the verb: មិន + verb + ទេ.",
+     "sentences": [
+      "cant-speak-khmer",
+      "already-left"
+     ]
+    },
+    {
+     "id": "u16-8",
+     "title": "Not, already, will 2",
+     "icon": "⏳",
+     "items": [
+      "can",
+      "can-able",
+      "correct",
+      "wrong"
+     ],
+     "sentences": [
+      "school-tomorrow",
+      "what-time"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u17",
+   "title": "Everyday verbs",
+   "subtitle": "Want, know, go and do",
+   "km": "ធ្វើ",
+   "lessons": [
+    {
+     "id": "u17-1",
+     "title": "Want & know 1",
      "icon": "❤️",
      "items": [
       "want",
-      "like",
-      "love",
       "know",
-      "understand",
-      "believe",
-      "play"
+      "understand"
      ],
      "sentences": [
       "dont-understand",
-      "dont-know",
-      "dont-believe"
-     ],
-     "tip": "To say \"not\", wrap the verb: មិន + verb + ទេ. ខ្ញុំមិនយល់ទេ = I don't understand."
+      "dont-know"
+     ]
     },
     {
-     "id": "verb-2",
-     "title": "Daily actions",
-     "icon": "📖",
+     "id": "u17-2",
+     "title": "Want & know 2",
+     "icon": "❤️",
      "items": [
-      "study",
-      "work",
-      "sleep",
-      "look",
-      "listen",
-      "write",
-      "read",
-      "help"
+      "believe",
+      "know-person",
+      "remember"
      ],
      "sentences": [
-      "can-you-understand",
+      "dont-believe",
+      "want-rice"
+     ]
+    },
+    {
+     "id": "u17-3",
+     "title": "Want & know 3",
+     "icon": "❤️",
+     "items": [
+      "forget",
+      "think",
+      "need"
+     ],
+     "sentences": [
+      "need-doctor",
+      "want-coffee"
+     ]
+    },
+    {
+     "id": "u17-4",
+     "title": "Talking 1",
+     "icon": "💬",
+     "items": [
+      "ask",
+      "answer",
+      "tell",
+      "call"
+     ],
+     "sentences": [
+      "want-market",
       "learn-khmer"
      ]
     },
     {
-     "id": "verb-3",
-     "title": "Describing things",
-     "icon": "✨",
+     "id": "u17-5",
+     "title": "Talking 2",
+     "icon": "💬",
+     "items": [
+      "say",
+      "listen",
+      "write"
+     ],
+     "sentences": [
+      "can-you-understand",
+      "need-water"
+     ]
+    },
+    {
+     "id": "u17-6",
+     "title": "Talking 3",
+     "icon": "💬",
+     "items": [
+      "read",
+      "look",
+      "see"
+     ],
+     "sentences": [
+      "need-medicine",
+      "want-buy-hat"
+     ]
+    },
+    {
+     "id": "u17-7",
+     "title": "Doing 1",
+     "icon": "🔧",
+     "items": [
+      "do",
+      "help",
+      "have",
+      "use"
+     ],
+     "sentences": [
+      "how-old",
+      "call-police"
+     ]
+    },
+    {
+     "id": "u17-8",
+     "title": "Doing 2",
+     "icon": "🔧",
+     "items": [
+      "look-for",
+      "lose",
+      "receive",
+      "send"
+     ],
+     "sentences": [
+      "want-coffee-q"
+     ]
+    },
+    {
+     "id": "u17-9",
+     "title": "Doing 3",
+     "icon": "🔧",
+     "items": [
+      "begin",
+      "finish",
+      "play"
+     ],
+     "sentences": [
+      "stroll"
+     ]
+    },
+    {
+     "id": "u17-10",
+     "title": "Moving 1",
+     "icon": "🏃",
+     "items": [
+      "enter",
+      "go-out",
+      "sit",
+      "stand"
+     ]
+    },
+    {
+     "id": "u17-11",
+     "title": "Moving 2",
+     "icon": "🏃",
+     "items": [
+      "run",
+      "swim",
+      "open",
+      "close"
+     ],
+     "sentences": [
+      "open-door"
+     ]
+    },
+    {
+     "id": "u17-12",
+     "title": "Daily life 1",
+     "icon": "🛁",
+     "items": [
+      "sleep",
+      "bathe",
+      "wash"
+     ]
+    },
+    {
+     "id": "u17-13",
+     "title": "Daily life 2",
+     "icon": "🛁",
+     "items": [
+      "cook",
+      "live",
+      "marry"
+     ],
+     "sentences": [
+      "where-live"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u18",
+   "title": "Describing things",
+   "subtitle": "Big, new, easy, many",
+   "km": "ល្អ",
+   "lessons": [
+    {
+     "id": "u18-1",
+     "title": "Big & small 1",
+     "icon": "📏",
      "items": [
       "good",
       "big",
       "small",
-      "beautiful",
-      "hot",
-      "cold",
-      "many",
-      "few",
-      "very",
-      "sick"
+      "long"
      ],
+     "tip": "Describing words come after the noun, and ណាស់ \"very\" comes after the describing word.",
      "sentences": [
-      "very-pretty"
-     ],
-     "tip": "Describing words come after the noun, and ណាស់ nah (\"very\") after the describing word."
-    },
-    {
-     "id": "verb-4",
-     "title": "Questions",
-     "icon": "❓",
-     "items": [
-      "who",
-      "when",
-      "why",
-      "what-colloquial",
-      "which",
-      "this",
-      "that",
-      "some",
-      "already",
-      "will"
-     ],
-     "sentences": [
-      "already-left",
-      "this-morning"
-     ],
-     "tip": "Question words go where the answer would go: លោកទៅណា? \"you go where?\" = Where are you going?"
-    },
-    {
-     "id": "verb-5",
-     "title": "Speaking Khmer",
-     "icon": "🗣️",
-     "items": [
-      "speak",
-      "language",
-      "english",
-      "know-how",
-      "letter",
-      "have",
-      "can",
-      "a-little",
-      "again"
-     ],
-     "sentences": [
-      "speak-english",
-      "cant-speak-khmer"
+      "elephant-big"
      ]
     },
     {
-     "id": "verb-6",
-     "title": "Animals & more",
-     "icon": "🐕",
+     "id": "u18-2",
+     "title": "Big & small 2",
+     "icon": "📏",
      "items": [
-      "dog",
-      "cat",
-      "chicken",
-      "fish",
-      "two",
-      "big"
+      "short",
+      "tall",
+      "low"
+     ]
+    },
+    {
+     "id": "u18-3",
+     "title": "New & old 1",
+     "icon": "✨",
+     "items": [
+      "beautiful",
+      "old",
+      "new",
+      "fat"
      ],
      "sentences": [
-      "two-dogs"
+      "very-pretty"
+     ]
+    },
+    {
+     "id": "u18-4",
+     "title": "New & old 2",
+     "icon": "✨",
+     "items": [
+      "thin",
+      "fresh",
+      "dirty"
+     ]
+    },
+    {
+     "id": "u18-5",
+     "title": "Easy & hard 1",
+     "icon": "🧩",
+     "items": [
+      "easy",
+      "difficult",
+      "important",
+      "quiet"
+     ]
+    },
+    {
+     "id": "u18-6",
+     "title": "Easy & hard 2",
+     "icon": "🧩",
+     "items": [
+      "busy",
+      "free",
+      "fast"
+     ],
+     "sentences": [
+      "im-busy"
+     ]
+    },
+    {
+     "id": "u18-7",
+     "title": "How much 1",
+     "icon": "⚖️",
+     "items": [
+      "many",
+      "few",
+      "a-little",
+      "heavy"
+     ],
+     "sentences": [
+      "thanks-a-lot"
+     ]
+    },
+    {
+     "id": "u18-8",
+     "title": "How much 2",
+     "icon": "⚖️",
+     "items": [
+      "light",
+      "same",
+      "different"
      ]
     }
    ]

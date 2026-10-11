@@ -1,0 +1,58 @@
+[
+ {
+  "combo": "អុំ",
+  "ipa_a": "[om]",
+  "ipa_o": "[um]",
+  "ungegn_a": "om",
+  "ungegn_o": "ŭm"
+ },
+ {
+  "combo": "អំ",
+  "ipa_a": "[ɑm]",
+  "ipa_o": "[um]",
+  "ungegn_a": "âm",
+  "ungegn_o": "um"
+ },
+ {
+  "combo": "អាំ",
+  "ipa_a": "[am]",
+  "ipa_o": "[ŏəm]",
+  "ungegn_a": "ăm",
+  "ungegn_o": "ŏâm"
+ },
+ {
+  "combo": "អះ",
+  "ipa_a": "[ah]",
+  "ipa_o": "[ĕəh]",
+  "ungegn_a": "ăh",
+  "ungegn_o": "eăh"
+ },
+ {
+  "combo": "អិះ",
+  "ipa_a": "[eh]",
+  "ipa_o": "[ih]",
+  "ungegn_a": "ĕh",
+  "ungegn_o": "ĭh"
+ },
+ {
+  "combo": "អុះ",
+  "ipa_a": "[oh]",
+  "ipa_o": "[uh]",
+  "ungegn_a": "ŏh",
+  "ungegn_o": "ŭh"
+ },
+ {
+  "combo": "អេះ",
+  "ipa_a": "[eh]",
+  "ipa_o": "[ih]",
+  "ungegn_a": "éh",
+  "ungegn_o": "éh"
+ },
+ {
+  "combo": "អោះ",
+  "ipa_a": "[ɑh]",
+  "ipa_o": "[ŭəh]",
+  "ungegn_a": "aôh",
+  "ungegn_o": "ŏăh"
+ }
+]

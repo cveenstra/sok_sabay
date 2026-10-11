@@ -8,6 +8,7 @@ const { items } = load('items.json');
 const script = load('script.json');
 const { sentences } = load('sentences.json');
 const course = load('course.json');
+const letters = load('letters.json');
 
 const errors = [];
 const fail = (msg) => errors.push(msg);
@@ -77,6 +78,54 @@ for (const it of items.filter((x) => Number.isInteger(x.value))) {
   if (it.digits && it.digits !== digitString) fail(`item ${it.id}: digits ${it.digits} should be ${digitString} for ${it.value}`);
 }
 
+// Independent vowels, diacritic combinations and marks (Wikipedia: Khmer script).
+const indIds = uniqueIds(script.independents, 'independents');
+const combIds = uniqueIds(script.combos, 'combos');
+const markIds = uniqueIds(script.marks, 'marks');
+for (const v of script.independents) {
+  if (!v.chars?.length || !v.chars.every((c) => /^[\u17A3-\u17B3]$/u.test(c))) fail(`independent ${v.id}: chars must be independent vowel letters (U+17A3–U+17B3)`);
+  for (const f of ['rom', 'ipa']) if (!v[f]) fail(`independent ${v.id}: missing ${f}`);
+  if (v.example && !(v.example.km.includes(v.chars[0]) || v.chars.some((c) => v.example.km.includes(c)))) fail(`independent ${v.id}: example ${v.example.km} does not contain it`);
+}
+for (const k of script.combos) {
+  if (!k.char.startsWith(DOTTED) || !/^[\u17B6-\u17C8]+$/u.test(k.sign)) fail(`combo ${k.id}: needs dotted circle + vowel/diacritic signs`);
+  for (const f of ['ipa_a', 'ipa_o', 'rom_a', 'rom_o']) if (!k[f]) fail(`combo ${k.id}: missing ${f}`);
+}
+for (const m of script.marks) {
+  if (!/^[\u17C6-\u17D3\u17DD]$/u.test(m.char)) fail(`mark ${m.id}: "${m.char}" is not a Khmer sign`);
+  if (!m.shown.includes(m.char)) fail(`mark ${m.id}: shown form must contain the mark`);
+  for (const f of ['name_km', 'name_rom', 'summary']) if (!m[f]) fail(`mark ${m.id}: missing ${f}`);
+}
+for (const c of script.consonants) {
+  if (c.char === 'ឡ') { if (c.sub) fail('ឡ has no subscript form (Wikipedia)'); continue; }
+  if (c.sub !== DOTTED + '\u17D2' + c.char) fail(`consonant ${c.id}: subscript should be coeng + ${c.char}`);
+}
+
+// ---- letters course ----
+const groupIds = uniqueIds(letters.groups, 'letter groups');
+const letterRefs = { consonants: consIds, vowels: vowIds, combos: combIds, indep: indIds, marks: markIds, subs: consIds, digits: digIds };
+const taught = {};
+for (const g of letters.groups) {
+  if (!g.title) fail(`letter group ${g.id}: missing title`);
+  let n = 0;
+  for (const [field, ids] of Object.entries(letterRefs)) {
+    for (const id of g[field] || []) {
+      n += 1;
+      if (!ids.has(id)) fail(`letter group ${g.id}: unknown ${field} id ${id}`);
+      const key = `${field}:${id}`;
+      if (taught[key]) fail(`letter group ${g.id}: ${key} already taught in ${taught[key]}`);
+      taught[key] = g.id;
+    }
+  }
+  if (n === 0) fail(`letter group ${g.id}: empty`);
+  if (n > 6) fail(`letter group ${g.id}: ${n} symbols; keep sets to 6 or fewer`);
+}
+for (const id of consIds) if (!taught[`consonants:${id}`]) fail(`consonant ${id} is not taught in any letter group`);
+for (const id of vowIds) if (!taught[`vowels:${id}`]) fail(`vowel ${id} is not taught in any letter group`);
+for (const sec of letters.sections) for (const gid of sec.groups) if (!groupIds.has(gid)) fail(`letters section "${sec.title}": unknown group ${gid}`);
+const inSections = new Set(letters.sections.flatMap((x) => x.groups));
+for (const gid of groupIds) if (!inSections.has(gid)) fail(`letter group ${gid} is not in any section`);
+
 // ---- sentences ----
 const sentIds = uniqueIds(sentences, 'sentences');
 for (const s of sentences) {
@@ -100,14 +149,19 @@ for (const u of course.units) {
       for (const id of l[field] || []) { n += 1; if (!ids.has(id)) fail(`lesson ${l.id}: unknown ${field} id ${id}`); }
     }
     if (n === 0) fail(`lesson ${l.id}: has no content`);
-    if ((l.items || []).length > 0 && (l.items || []).length < 4 && !(l.consonants || l.vowels || l.digits)) fail(`lesson ${l.id}: fewer than 4 items leaves too few answer options`);
+    // The on-ramp: a lesson introduces at most four new words (the very first, three).
+    if ((l.items || []).length > 4) fail(`lesson ${l.id}: ${l.items.length} new words; keep it to 4`);
   }
 }
+const firstLesson = course.units[0]?.lessons[0];
+if (firstLesson && (firstLesson.items || []).length > 3) fail('the first lesson should introduce at most 3 words');
 const used = new Set(course.units.flatMap((u) => u.lessons.flatMap((l) => l.items || [])));
+const twice = course.units.flatMap((u) => u.lessons.flatMap((l) => l.items || [])).filter((id, i, a) => a.indexOf(id) !== i);
+if (twice.length) fail(`items introduced in more than one lesson: ${[...new Set(twice)].join(', ')}`);
 const unused = items.filter((it) => !used.has(it.id) && !sentences.some((s) => s.tokens.includes(it.id)));
 if (unused.length) console.warn(`note: ${unused.length} items are not taught in any lesson or sentence: ${unused.map((x) => x.id).join(', ')}`);
 
-const summary = `${course.units.length} units, ${lessonIds.size} lessons, ${items.length} items, ${sentences.length} sentences, ${script.consonants.length} consonants (${aSeries} a-series, ${oSeries} o-series), ${script.vowels.length} vowels, ${script.digits.length} digits`;
+const summary = `${course.units.length} units, ${lessonIds.size} lessons, ${items.length} items, ${sentences.length} sentences, ${letters.groups.length} letter groups; ${script.consonants.length} consonants (${aSeries} a-series, ${oSeries} o-series), ${script.vowels.length} vowels, ${script.combos.length} vowel+mark combinations, ${script.independents.length} independent vowels, ${script.marks.length} marks, ${script.digits.length} digits`;
 if (errors.length) {
   console.error(errors.map((e) => `✗ ${e}`).join('\n'));
   console.error(`\n${errors.length} problem(s). ${summary}`);

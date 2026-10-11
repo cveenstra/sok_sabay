@@ -1,0 +1,80 @@
+[
+ {
+  "char": "ំ",
+  "name_km": "និគ្គហិត",
+  "name_rom": "nĭkkôhĕt",
+  "function": "The Pali niggahīta, related to the anusvara. A small circle written over a consonant or a following dependent vowel, it nasalizes the inherent or dependent vowel, with the addition of [m]; long vowels are also shortened. For details see Modification by diacritics."
+ },
+ {
+  "char": "ះ",
+  "name_km": "រះមុខ",
+  "name_rom": "reăhmŭkh\"shining face\"",
+  "function": "Related to the visarga. A pair of small circles written after a consonant or a following dependent vowel, it modifies and adds final aspiration /h/ to the inherent or dependent vowel. For details see Modification by diacritics."
+ },
+ {
+  "char": "ៈ",
+  "name_km": "យុគលពិន្ទុ",
+  "name_rom": "yŭkoălpĭntŭ",
+  "function": "A \"pair of dots\", a fairly recently introduced diacritic, written after a consonant to indicate that it is to be followed by a short vowel and a glottal stop. See Modification by diacritics."
+ },
+ {
+  "char": "៉",
+  "name_km": "មូសិកទន្ត",
+  "name_rom": "musĕkâtônd\"mouse teeth\"",
+  "function": "Two short vertical lines, written above a consonant, used to convert some o-series consonants (ង ញ ម យ រ វ) to a-series. It is also used with ប bâ to convert it to a p sound (see Supplementary consonants)."
+ },
+ {
+  "char": "៊",
+  "name_km": "ត្រីស័ព្ទ",
+  "name_rom": "treisăpt",
+  "function": "A wavy line, written above a consonant, used to convert some a-series consonants (ស ហ ប អ) to o-series."
+ },
+ {
+  "char": "ុ",
+  "name_km": "ក្បៀសក្រោម",
+  "name_rom": "kbiĕs kraôm",
+  "function": "Also known as បុកជើង bŏk cheung (\"collision foot\"); a vertical line written under a consonant, used in place of the diacritics treisăpt and musĕkâtônd when they would be impeded by superscript vowels."
+ },
+ {
+  "char": "់",
+  "name_km": "បន្តក់",
+  "name_rom": "bânták",
+  "function": "A small vertical line written over the last consonant of a syllable, indicating shortening (and corresponding change in quality) of certain vowels. See Modification by diacritics."
+ },
+ {
+  "char": "៌",
+  "name_km": "របាទ រេផៈ",
+  "name_rom": "rôbat réphă",
+  "function": "This superscript diacritic occurs in Sanskrit loanwords and corresponds to the Devanagari diacritic repha. It originally represented an r sound (and is romanized as r in the UNGEGN system). Now, in most cases, the consonant above which it appears, and the diacritic itself, are unpronounced. Examples: ធម៌ thôrm [tʰɔə] (\"dharma\"), កាណ៌ karn [kaː] (from karṇa), សួគ៌ា suŏrkéa [suəkiə] (\"Svarga\")."
+ },
+ {
+  "char": "៍",
+  "name_km": "ទណ្ឌឃាដ",
+  "name_rom": "tôndôkhéad",
+  "function": "Written over a final consonant to indicate that it is unpronounced. (Such unpronounced letters are still romanized in the UNGEGN system.)"
+ },
+ {
+  "char": "៎",
+  "name_km": "កាកបាទ",
+  "name_rom": "kakâbat",
+  "function": "Also known as a \"crow's foot\", used in writing to indicate the rising intonation of an exclamation or interjection; often placed on particles such as /na/, /nɑː/, /nɛː/, /ʋəːj/, and on ចា៎ះ /caːh/, a word for \"yes\" used by females."
+ },
+ {
+  "char": "៏",
+  "name_km": "អស្តា",
+  "name_rom": "âsda\"number eight\"",
+  "function": "Used in a few words to show that a consonant with no dependent vowel is to be pronounced with its inherent vowel, rather than as a final consonant."
+ },
+ {
+  "char": "័",
+  "name_km": "សំយោគសញ្ញា",
+  "name_rom": "sâmyoŭk sânhnhéa",
+  "function": "Used in some Sanskrit and Pali loanwords (although alternative spellings usually exist); it is written above a consonant to indicate that the syllable contains a particular short vowel; see Modification by diacritics."
+ },
+ {
+  "char": "៑",
+  "name_km": "វិរាម",
+  "name_rom": "vĭréam",
+  "function": "A mostly obsolete diacritic, corresponding to the virāma, which suppresses a consonant's inherent vowel."
+ }
+]

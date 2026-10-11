@@ -241,6 +241,98 @@
    "src": "wikipedia:Khmer language § Nouns and pronouns"
   },
   {
+   "id": "what-time",
+   "tokens": [
+    "hour",
+    "how-much",
+    "already"
+   ],
+   "en": "What time is it?",
+   "src": "wiktionary:what time is it (Khmer translation)"
+  },
+  {
+   "id": "how-old",
+   "tokens": [
+    "question-marker",
+    "you",
+    "have",
+    "age",
+    "how-much",
+    "already"
+   ],
+   "en": "How old are you?",
+   "src": "wiktionary:how old are you (Khmer translation)"
+  },
+  {
+   "id": "need-doctor",
+   "tokens": [
+    "i",
+    "need",
+    "doctor"
+   ],
+   "en": "I need a doctor.",
+   "src": "wiktionary:I need a doctor (Khmer translation)"
+  },
+  {
+   "id": "call-police",
+   "tokens": [
+    "help",
+    "call",
+    "police",
+    "come"
+   ],
+   "en": "Call the police!",
+   "src": "wiktionary:call the police (Khmer translation)"
+  },
+  {
+   "id": "where-live",
+   "tokens": [
+    "question-marker",
+    "you",
+    "live",
+    "at",
+    "where"
+   ],
+   "en": "Where do you live?",
+   "src": "wiktionary:where do you live (Khmer translation)"
+  },
+  {
+   "id": "im-sick",
+   "tokens": [
+    "i",
+    "sick"
+   ],
+   "en": "I'm sick.",
+   "src": "wiktionary:I'm sick (Khmer translation)"
+  },
+  {
+   "id": "im-cold",
+   "tokens": [
+    "i",
+    "feel-cold"
+   ],
+   "en": "I'm cold.",
+   "src": "wiktionary:I'm cold (Khmer translation)"
+  },
+  {
+   "id": "miss-you",
+   "tokens": [
+    "miss",
+    "you-intimate"
+   ],
+   "en": "I miss you.",
+   "src": "wiktionary:I miss you (Khmer translation)"
+  },
+  {
+   "id": "im-exhausted",
+   "tokens": [
+    "i",
+    "exhausted"
+   ],
+   "en": "I'm tired.",
+   "src": "wiktionary:I'm tired (Khmer translation)"
+  },
+  {
    "id": "want-rice",
    "tokens": [
     "i",
@@ -332,6 +424,189 @@
    ],
    "en": "I like kuyteav (noodle soup).",
    "src": "composed: subject + verb + object (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "where-hospital",
+   "tokens": [
+    "question-marker",
+    "hospital",
+    "at",
+    "where"
+   ],
+   "en": "Where is the hospital?",
+   "src": "composed: pattern of \"where is the toilet\" (wiktionary)"
+  },
+  {
+   "id": "where-bank",
+   "tokens": [
+    "question-marker",
+    "bank",
+    "at",
+    "where"
+   ],
+   "en": "Where is the bank?",
+   "src": "composed: pattern of \"where is the toilet\" (wiktionary)"
+  },
+  {
+   "id": "need-water",
+   "tokens": [
+    "i",
+    "need",
+    "water"
+   ],
+   "en": "I need water.",
+   "src": "composed: pattern of \"I need a doctor\" (wiktionary)"
+  },
+  {
+   "id": "need-medicine",
+   "tokens": [
+    "i",
+    "need",
+    "medicine"
+   ],
+   "en": "I need medicine.",
+   "src": "composed: pattern of \"I need a doctor\" (wiktionary)"
+  },
+  {
+   "id": "have-headache",
+   "tokens": [
+    "i",
+    "headache"
+   ],
+   "en": "I have a headache.",
+   "src": "composed: pattern of \"I'm sick\" (wiktionary)"
+  },
+  {
+   "id": "im-tired",
+   "tokens": [
+    "i",
+    "tired"
+   ],
+   "en": "I'm tired (out of breath).",
+   "src": "composed: pattern of \"I'm hungry\" (wiktionary)"
+  },
+  {
+   "id": "im-afraid",
+   "tokens": [
+    "i",
+    "afraid"
+   ],
+   "en": "I'm afraid.",
+   "src": "composed: pattern of \"I'm hungry\" (wiktionary)"
+  },
+  {
+   "id": "im-busy",
+   "tokens": [
+    "i",
+    "busy"
+   ],
+   "en": "I'm busy.",
+   "src": "composed: pattern of \"I'm hungry\" (wiktionary)"
+  },
+  {
+   "id": "want-buy-hat",
+   "tokens": [
+    "i",
+    "want",
+    "buy",
+    "hat"
+   ],
+   "en": "I want to buy a hat.",
+   "src": "composed: pattern ខ្ញុំ ចង់ + verb (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "shirt-expensive",
+   "tokens": [
+    "shirt",
+    "this",
+    "price",
+    "too-much"
+   ],
+   "en": "This shirt is too expensive.",
+   "src": "composed: noun + នេះ + adjective (wikipedia:Khmer language § Adjectives and adverbs)"
+  },
+  {
+   "id": "hot-today",
+   "tokens": [
+    "today",
+    "hot",
+    "very"
+   ],
+   "en": "It is very hot today.",
+   "src": "composed: pattern adjective + ណាស់ (wikipedia:Khmer language § Adjectives and adverbs)"
+  },
+  {
+   "id": "market-far",
+   "tokens": [
+    "market",
+    "far",
+    "no"
+   ],
+   "en": "Is the market far?",
+   "src": "composed: yes/no question with ទេ (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "two-cats",
+   "tokens": [
+    "cat",
+    "two"
+   ],
+   "en": "two cats",
+   "src": "composed: pattern of \"two dogs\" (wikipedia:Khmer language § Nouns and pronouns)"
+  },
+  {
+   "id": "like-red",
+   "tokens": [
+    "i",
+    "like",
+    "colour",
+    "red"
+   ],
+   "en": "I like the colour red.",
+   "src": "composed: subject + verb + object (wikipedia:Khmer language § Syntax)"
+  },
+  {
+   "id": "elephant-big",
+   "tokens": [
+    "elephant",
+    "big",
+    "very"
+   ],
+   "en": "The elephant is very big.",
+   "src": "composed: pattern adjective + ណាស់ (wikipedia:Khmer language § Adjectives and adverbs)"
+  },
+  {
+   "id": "im-teacher",
+   "tokens": [
+    "i",
+    "be",
+    "teacher-full"
+   ],
+   "en": "I am a teacher.",
+   "src": "composed: noun + ជា + noun (wiktionary:ជា, \"to be\")"
+  },
+  {
+   "id": "want-coffee-q",
+   "tokens": [
+    "question-marker",
+    "you",
+    "want",
+    "drink",
+    "coffee",
+    "no"
+   ],
+   "en": "Do you want to drink coffee?",
+   "src": "composed: pattern of \"do you speak English\" (wiktionary)"
+  },
+  {
+   "id": "open-door",
+   "tokens": [
+    "please",
+    "open",
+    "door"
+   ],
+   "en": "Please open the door.",
+   "src": "composed: សូម + verb, a polite request (wiktionary:សូម)"
   }
  ]
 }

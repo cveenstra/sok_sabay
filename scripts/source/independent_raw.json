@@ -1,0 +1,107 @@
+[
+ {
+  "chars": [
+   "ឥ"
+  ],
+  "ipa": "[ʔə], [ʔɨ], [ʔəj]",
+  "gd": "e",
+  "ungegn": "ĕ"
+ },
+ {
+  "chars": [
+   "ឦ"
+  ],
+  "ipa": "[ʔəj]",
+  "gd": "ei",
+  "ungegn": "ei"
+ },
+ {
+  "chars": [
+   "ឧ"
+  ],
+  "ipa": "[ʔo], [ʔu], [ʔao]",
+  "gd": "o",
+  "ungegn": "ŏ, ŭ"
+ },
+ {
+  "chars": [
+   "ឩ"
+  ],
+  "ipa": "[ʔou], [ʔuː]",
+  "gd": "ou",
+  "ungegn": "not given"
+ },
+ {
+  "chars": [
+   "ឪ"
+  ],
+  "ipa": "[ʔəw]",
+  "gd": "au",
+  "ungegn": "âu"
+ },
+ {
+  "chars": [
+   "ឫ"
+  ],
+  "ipa": "[rɨ]",
+  "gd": "rue",
+  "ungegn": "rœ̆"
+ },
+ {
+  "chars": [
+   "ឬ"
+  ],
+  "ipa": "[rɨː]",
+  "gd": "rueu",
+  "ungegn": "rœ"
+ },
+ {
+  "chars": [
+   "ឭ"
+  ],
+  "ipa": "[lɨ]",
+  "gd": "lue",
+  "ungegn": "lœ̆"
+ },
+ {
+  "chars": [
+   "ឮ"
+  ],
+  "ipa": "[lɨː]",
+  "gd": "lueu",
+  "ungegn": "lœ"
+ },
+ {
+  "chars": [
+   "ឯ"
+  ],
+  "ipa": "[ʔae], [ʔɛː], [ʔeː]",
+  "gd": "ae",
+  "ungegn": "ê"
+ },
+ {
+  "chars": [
+   "ឰ"
+  ],
+  "ipa": "[ʔaj]",
+  "gd": "ai",
+  "ungegn": "ai"
+ },
+ {
+  "chars": [
+   "ឱ",
+   "ឲ"
+  ],
+  "ipa": "[ʔao]",
+  "gd": "ao",
+  "ungegn": "aô"
+ },
+ {
+  "chars": [
+   "ឳ"
+  ],
+  "ipa": "[ʔaw]",
+  "gd": "au",
+  "ungegn": "au"
+ }
+]

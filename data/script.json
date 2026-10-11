@@ -1,5 +1,5 @@
 {
- "source": "Wikipedia: Khmer script (consonant and dependent vowel tables, UNGEGN + IPA); Khmer numerals",
+ "source": "Wikipedia: Khmer script (consonant, subscript, dependent vowel, independent vowel and diacritic tables, UNGEGN + IPA); Khmer numerals",
  "consonants": [
   {
    "id": "c01",
@@ -8,7 +8,14 @@
    "ipa_name": "[kɑː]",
    "ipa": "[k]",
    "value": "k",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ក",
+   "cluster": {
+    "km": "ឆ្កែ",
+    "rom": "chkae",
+    "en": "dog",
+    "item": "dog"
+   }
   },
   {
    "id": "c02",
@@ -17,7 +24,8 @@
    "ipa_name": "[kʰɑː]",
    "ipa": "[kʰ]",
    "value": "kh",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ខ"
   },
   {
    "id": "c03",
@@ -26,7 +34,14 @@
    "ipa_name": "[kɔː]",
    "ipa": "[k]",
    "value": "k",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្គ",
+   "cluster": {
+    "km": "ផ្គរ",
+    "rom": "phkɔɔ",
+    "en": "thunder",
+    "item": "thunder"
+   }
   },
   {
    "id": "c04",
@@ -35,7 +50,8 @@
    "ipa_name": "[kʰɔː]",
    "ipa": "[kʰ]",
    "value": "kh",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ឃ"
   },
   {
    "id": "c05",
@@ -44,7 +60,14 @@
    "ipa_name": "[ŋɔː]",
    "ipa": "[ŋ]",
    "value": "ng",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ង",
+   "cluster": {
+    "km": "ថ្ងៃ",
+    "rom": "thngay",
+    "en": "day; sun",
+    "item": "day"
+   }
   },
   {
    "id": "c06",
@@ -53,7 +76,14 @@
    "ipa_name": "[cɑː]",
    "ipa": "[c]",
    "value": "ch",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ច",
+   "cluster": {
+    "km": "បញ្ចប់",
+    "rom": "bɑñcɑp",
+    "en": "to finish",
+    "item": "finish"
+   }
   },
   {
    "id": "c07",
@@ -62,7 +92,14 @@
    "ipa_name": "[cʰɑː]",
    "ipa": "[cʰ]",
    "value": "chh",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ឆ",
+   "cluster": {
+    "km": "វិច្ឆិកា",
+    "rom": "vɨcchekaa",
+    "en": "November",
+    "item": "november"
+   }
   },
   {
    "id": "c08",
@@ -71,7 +108,14 @@
    "ipa_name": "[cɔː]",
    "ipa": "[c]",
    "value": "ch",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ជ",
+   "cluster": {
+    "km": "អញ្ជើញ",
+    "rom": "ʼɑñcəəñ",
+    "en": "please (invitation); to invite",
+    "item": "invite"
+   }
   },
   {
    "id": "c09",
@@ -80,7 +124,8 @@
    "ipa_name": "[cʰɔː]",
    "ipa": "[cʰ]",
    "value": "chh",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ឈ"
   },
   {
    "id": "c10",
@@ -89,7 +134,14 @@
    "ipa_name": "[ɲɔː]",
    "ipa": "[ɲ]",
    "value": "nh",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ញ",
+   "cluster": {
+    "km": "ផ្ញើ",
+    "rom": "phñaə",
+    "en": "to send",
+    "item": "send"
+   }
   },
   {
    "id": "c11",
@@ -98,7 +150,14 @@
    "ipa_name": "[ɗɑː]",
    "ipa": "[ɗ]",
    "value": "d",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ដ",
+   "cluster": {
+    "km": "ក្ដៅ",
+    "rom": "kdaw",
+    "en": "hot",
+    "item": "hot"
+   }
   },
   {
    "id": "c12",
@@ -107,7 +166,14 @@
    "ipa_name": "[tʰɑː]",
    "ipa": "[tʰ]",
    "value": "th",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ឋ",
+   "cluster": {
+    "km": "សណ្ឋាគារ",
+    "rom": "sɑnthaakiə",
+    "en": "hotel",
+    "item": "hotel"
+   }
   },
   {
    "id": "c13",
@@ -116,7 +182,14 @@
    "ipa_name": "[ɗɔː]",
    "ipa": "[ɗ]",
    "value": "d",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ឌ",
+   "cluster": {
+    "km": "វេជ្ជបណ្ឌិត",
+    "rom": "vɨccĕəʼbɑndɨt",
+    "en": "medical doctor (formal)",
+    "item": "physician"
+   }
   },
   {
    "id": "c14",
@@ -125,7 +198,8 @@
    "ipa_name": "[tʰɔː]",
    "ipa": "[tʰ]",
    "value": "th",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ឍ"
   },
   {
    "id": "c15",
@@ -134,7 +208,8 @@
    "ipa_name": "[nɑː]",
    "ipa": "[n]",
    "value": "n",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ណ"
   },
   {
    "id": "c16",
@@ -143,7 +218,14 @@
    "ipa_name": "[tɑː]",
    "ipa": "[t]",
    "value": "t",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ត",
+   "cluster": {
+    "km": "វត្ត",
+    "rom": "vŏət",
+    "en": "wat, pagoda, Buddhist temple",
+    "item": "pagoda"
+   }
   },
   {
    "id": "c17",
@@ -152,7 +234,14 @@
    "ipa_name": "[tʰɑː]",
    "ipa": "[tʰ]",
    "value": "th",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ថ",
+   "cluster": {
+    "km": "ស្ថានីយ",
+    "rom": "sthaanii",
+    "en": "station",
+    "item": "station"
+   }
   },
   {
    "id": "c18",
@@ -161,7 +250,14 @@
    "ipa_name": "[tɔː]",
    "ipa": "[t]",
    "value": "t",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ទ",
+   "cluster": {
+    "km": "ផ្ទះ",
+    "rom": "phtĕəh",
+    "en": "house, home",
+    "item": "house"
+   }
   },
   {
    "id": "c19",
@@ -170,7 +266,14 @@
    "ipa_name": "[tʰɔː]",
    "ipa": "[tʰ]",
    "value": "th",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ធ",
+   "cluster": {
+    "km": "ប្រពន្ធ",
+    "rom": "prɑpŭən",
+    "en": "wife",
+    "item": "wife"
+   }
   },
   {
    "id": "c20",
@@ -179,7 +282,14 @@
    "ipa_name": "[nɔː]",
    "ipa": "[n]",
    "value": "n",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ន",
+   "cluster": {
+    "km": "ខ្នង",
+    "rom": "khnɑɑng",
+    "en": "back",
+    "item": "back"
+   }
   },
   {
    "id": "c21",
@@ -188,7 +298,14 @@
    "ipa_name": "[ɓɑː]",
    "ipa": "[ɓ], [p]",
    "value": "b, p",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ប",
+   "cluster": {
+    "km": "ក្បាល",
+    "rom": "kbaal",
+    "en": "head",
+    "item": "head"
+   }
   },
   {
    "id": "c22",
@@ -197,7 +314,8 @@
    "ipa_name": "[pʰɑː]",
    "ipa": "[pʰ]",
    "value": "ph",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ផ"
   },
   {
    "id": "c23",
@@ -206,7 +324,14 @@
    "ipa_name": "[pɔː]",
    "ipa": "[p]",
    "value": "p",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ព",
+   "cluster": {
+    "km": "ខ្ពស់",
+    "rom": "khpŭəh",
+    "en": "tall, high",
+    "item": "tall"
+   }
   },
   {
    "id": "c24",
@@ -215,7 +340,14 @@
    "ipa_name": "[pʰɔː]",
    "ipa": "[pʰ]",
    "value": "ph",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ភ",
+   "cluster": {
+    "km": "ម្ភៃ",
+    "rom": "mphɨy",
+    "en": "twenty",
+    "item": "twenty"
+   }
   },
   {
    "id": "c25",
@@ -224,7 +356,14 @@
    "ipa_name": "[mɔː]",
    "ipa": "[m]",
    "value": "m",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ម",
+   "cluster": {
+    "km": "ថ្ម",
+    "rom": "thmɑɑ",
+    "en": "stone",
+    "item": "stone"
+   }
   },
   {
    "id": "c26",
@@ -233,7 +372,14 @@
    "ipa_name": "[jɔː]",
    "ipa": "[j]",
    "value": "y",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្យ",
+   "cluster": {
+    "km": "ឲ្យ",
+    "rom": "ʼaoy",
+    "en": "to give",
+    "item": "give"
+   }
   },
   {
    "id": "c27",
@@ -242,7 +388,14 @@
    "ipa_name": "[rɔː]",
    "ipa": "[r]",
    "value": "r",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្រ",
+   "cluster": {
+    "km": "ក្រៅ",
+    "rom": "kraw",
+    "en": "outside",
+    "item": "outside"
+   }
   },
   {
    "id": "c28",
@@ -251,7 +404,14 @@
    "ipa_name": "[lɔː]",
    "ipa": "[l]",
    "value": "l",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្ល",
+   "cluster": {
+    "km": "ខ្លី",
+    "rom": "khləy",
+    "en": "short (in length)",
+    "item": "short"
+   }
   },
   {
    "id": "c29",
@@ -260,7 +420,14 @@
    "ipa_name": "[ʋɔː]",
    "ipa": "[ʋ]",
    "value": "v",
-   "series": "o"
+   "series": "o",
+   "sub": "◌្វ",
+   "cluster": {
+    "km": "ធ្វើ",
+    "rom": "thvəə",
+    "en": "to do, to make",
+    "item": "do"
+   }
   },
   {
    "id": "c30",
@@ -269,7 +436,14 @@
    "ipa_name": "[sɑː]",
    "ipa": "[s]",
    "value": "s",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ស",
+   "cluster": {
+    "km": "បក្សី",
+    "rom": "baksəy",
+    "en": "bird",
+    "item": "bird"
+   }
   },
   {
    "id": "c31",
@@ -278,7 +452,14 @@
    "ipa_name": "[hɑː]",
    "ipa": "[h]",
    "value": "h",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្ហ",
+   "cluster": {
+    "km": "ម្ហូប",
+    "rom": "mhoup",
+    "en": "food, dish",
+    "item": "food"
+   }
   },
   {
    "id": "c32",
@@ -296,7 +477,14 @@
    "ipa_name": "[ʔɑː]",
    "ipa": "[ʔ]",
    "value": "'",
-   "series": "a"
+   "series": "a",
+   "sub": "◌្អ",
+   "cluster": {
+    "km": "ល្អ",
+    "rom": "lʼɑɑ",
+    "en": "good",
+    "item": "good"
+   }
   }
  ],
  "vowels": [
@@ -443,6 +631,359 @@
    "ipa_o": "[əɨ]",
    "rom_a": "au",
    "rom_o": "ŏu"
+  }
+ ],
+ "combos": [
+  {
+   "id": "k01",
+   "char": "◌ុំ",
+   "sign": "ុំ",
+   "example": "អុំ",
+   "ipa_a": "[om]",
+   "ipa_o": "[um]",
+   "rom_a": "om",
+   "rom_o": "ŭm",
+   "note": "The ំ adds a final m and shortens the vowel."
+  },
+  {
+   "id": "k02",
+   "char": "◌ំ",
+   "sign": "ំ",
+   "example": "អំ",
+   "ipa_a": "[ɑm]",
+   "ipa_o": "[um]",
+   "rom_a": "âm",
+   "rom_o": "um",
+   "note": "The ំ adds a final m and shortens the vowel."
+  },
+  {
+   "id": "k03",
+   "char": "◌ាំ",
+   "sign": "ាំ",
+   "example": "អាំ",
+   "ipa_a": "[am]",
+   "ipa_o": "[ŏəm]",
+   "rom_a": "ăm",
+   "rom_o": "ŏâm",
+   "note": "The ំ adds a final m and shortens the vowel."
+  },
+  {
+   "id": "k04",
+   "char": "◌ះ",
+   "sign": "ះ",
+   "example": "អះ",
+   "ipa_a": "[ah]",
+   "ipa_o": "[ĕəh]",
+   "rom_a": "ăh",
+   "rom_o": "eăh",
+   "note": "The ះ adds a final h."
+  },
+  {
+   "id": "k05",
+   "char": "◌ិះ",
+   "sign": "ិះ",
+   "example": "អិះ",
+   "ipa_a": "[eh]",
+   "ipa_o": "[ih]",
+   "rom_a": "ĕh",
+   "rom_o": "ĭh",
+   "note": "The ះ adds a final h."
+  },
+  {
+   "id": "k06",
+   "char": "◌ុះ",
+   "sign": "ុះ",
+   "example": "អុះ",
+   "ipa_a": "[oh]",
+   "ipa_o": "[uh]",
+   "rom_a": "ŏh",
+   "rom_o": "ŭh",
+   "note": "The ះ adds a final h."
+  },
+  {
+   "id": "k07",
+   "char": "◌េះ",
+   "sign": "េះ",
+   "example": "អេះ",
+   "ipa_a": "[eh]",
+   "ipa_o": "[ih]",
+   "rom_a": "éh",
+   "rom_o": "éh",
+   "note": "The ះ adds a final h."
+  },
+  {
+   "id": "k08",
+   "char": "◌ោះ",
+   "sign": "ោះ",
+   "example": "អោះ",
+   "ipa_a": "[ɑh]",
+   "ipa_o": "[ŭəh]",
+   "rom_a": "aôh",
+   "rom_o": "ŏăh",
+   "note": "The ះ adds a final h."
+  }
+ ],
+ "independents": [
+  {
+   "id": "i01",
+   "chars": [
+    "ឥ"
+   ],
+   "rom": "ĕ",
+   "ipa": "[ʔə], [ʔɨ], [ʔəj]",
+   "example": {
+    "km": "ឥឡូវ",
+    "rom": "ʼəyləw",
+    "en": "now",
+    "item": "now"
+   }
+  },
+  {
+   "id": "i02",
+   "chars": [
+    "ឦ"
+   ],
+   "rom": "ei",
+   "ipa": "[ʔəj]"
+  },
+  {
+   "id": "i03",
+   "chars": [
+    "ឧ"
+   ],
+   "rom": "ŏ, ŭ",
+   "ipa": "[ʔo], [ʔu], [ʔao]",
+   "example": {
+    "km": "ឧសភា",
+    "rom": "ʼosaʼphiə",
+    "en": "May",
+    "item": "may"
+   }
+  },
+  {
+   "id": "i04",
+   "chars": [
+    "ឪ"
+   ],
+   "rom": "âu",
+   "ipa": "[ʔəw]",
+   "example": {
+    "km": "ឪពុក",
+    "rom": "ʼəwpuk",
+    "en": "father",
+    "item": "father"
+   }
+  },
+  {
+   "id": "i05",
+   "chars": [
+    "ឫ"
+   ],
+   "rom": "rœ̆",
+   "ipa": "[rɨ]"
+  },
+  {
+   "id": "i06",
+   "chars": [
+    "ឬ"
+   ],
+   "rom": "rœ",
+   "ipa": "[rɨː]",
+   "example": {
+    "km": "ឬ",
+    "rom": "rɨɨ",
+    "en": "or",
+    "item": "or"
+   }
+  },
+  {
+   "id": "i07",
+   "chars": [
+    "ឭ"
+   ],
+   "rom": "lœ̆",
+   "ipa": "[lɨ]"
+  },
+  {
+   "id": "i08",
+   "chars": [
+    "ឮ"
+   ],
+   "rom": "lœ",
+   "ipa": "[lɨː]"
+  },
+  {
+   "id": "i09",
+   "chars": [
+    "ឯ"
+   ],
+   "rom": "ê",
+   "ipa": "[ʔae], [ʔɛː], [ʔeː]",
+   "example": {
+    "km": "ឯង",
+    "rom": "ʼaeng",
+    "en": "you (to a close friend or someone younger)",
+    "item": "you-intimate"
+   }
+  },
+  {
+   "id": "i10",
+   "chars": [
+    "ឰ"
+   ],
+   "rom": "ai",
+   "ipa": "[ʔaj]"
+  },
+  {
+   "id": "i11",
+   "chars": [
+    "ឱ",
+    "ឲ"
+   ],
+   "rom": "aô",
+   "ipa": "[ʔao]",
+   "example": {
+    "km": "ឲ្យ",
+    "rom": "ʼaoy",
+    "en": "to give",
+    "item": "give"
+   }
+  },
+  {
+   "id": "i12",
+   "chars": [
+    "ឳ"
+   ],
+   "rom": "au",
+   "ipa": "[ʔaw]"
+  }
+ ],
+ "marks": [
+  {
+   "id": "m01",
+   "char": "ំ",
+   "shown": "◌ំ",
+   "name_km": "និគ្គហិត",
+   "name_rom": "nĭkkôhĕt",
+   "summary": "Adds a final m sound and makes the vowel nasal and short.",
+   "example": {
+    "km": "ធំ",
+    "rom": "thom",
+    "en": "big",
+    "item": "big"
+   }
+  },
+  {
+   "id": "m02",
+   "char": "ះ",
+   "shown": "◌ះ",
+   "name_km": "រះមុខ",
+   "name_rom": "reăhmŭkh",
+   "summary": "Adds a final h sound after the vowel.",
+   "example": {
+    "km": "កោះ",
+    "rom": "kɑh",
+    "en": "island",
+    "item": "island"
+   }
+  },
+  {
+   "id": "m03",
+   "char": "ៈ",
+   "shown": "◌ៈ",
+   "name_km": "យុគលពិន្ទុ",
+   "name_rom": "yŭkoălpĭntŭ",
+   "summary": "Shows a short vowel followed by a glottal stop.",
+   "example": {
+    "km": "កុម្ភៈ",
+    "rom": "komphĕəʼ",
+    "en": "February",
+    "item": "february"
+   }
+  },
+  {
+   "id": "m04",
+   "char": "់",
+   "shown": "◌់",
+   "name_km": "បន្តក់",
+   "name_rom": "bânták",
+   "summary": "Written over a final consonant: shortens the vowel before it.",
+   "example": {
+    "km": "កង់",
+    "rom": "kɑng",
+    "en": "bicycle; wheel",
+    "item": "bicycle"
+   }
+  },
+  {
+   "id": "m05",
+   "char": "៉",
+   "shown": "◌៉",
+   "name_km": "មូសិកទន្ត",
+   "name_rom": "musĕkâtônd",
+   "summary": "Turns some o-series letters (ង ញ ម យ រ វ) into a-series. On ប it gives a p sound.",
+   "example": {
+    "km": "ញ៉ាំ",
+    "rom": "ñam",
+    "en": "to eat",
+    "item": "eat"
+   }
+  },
+  {
+   "id": "m06",
+   "char": "៊",
+   "shown": "◌៊",
+   "name_km": "ត្រីស័ព្ទ",
+   "name_rom": "treisăpt",
+   "summary": "Turns some a-series letters (ស ហ ប អ) into o-series.",
+   "example": {
+    "km": "ប៊ិច",
+    "rom": "bɨc",
+    "en": "pen",
+    "item": "pen"
+   }
+  },
+  {
+   "id": "m07",
+   "char": "៍",
+   "shown": "◌៍",
+   "name_km": "ទណ្ឌឃាដ",
+   "name_rom": "tôndôkhéad",
+   "summary": "Written over a final consonant to show it is silent.",
+   "example": {
+    "km": "សប្តាហ៍",
+    "rom": "sappədaa",
+    "en": "week",
+    "item": "week"
+   }
+  },
+  {
+   "id": "m08",
+   "char": "៌",
+   "shown": "◌៌",
+   "name_km": "របាទ",
+   "name_rom": "rôbat",
+   "summary": "In Sanskrit loanwords. The letter under it and the mark itself are usually silent.",
+   "example": {
+    "km": "ពណ៌",
+    "rom": "pɔə",
+    "en": "colour",
+    "item": "colour"
+   }
+  },
+  {
+   "id": "m09",
+   "char": "័",
+   "shown": "◌័",
+   "name_km": "សំយោគសញ្ញា",
+   "name_rom": "sâmyoŭk sânhnhéa",
+   "summary": "In some Sanskrit and Pali loanwords: marks a particular short vowel.",
+   "example": {
+    "km": "នំបុ័ង",
+    "rom": "num pang",
+    "en": "bread",
+    "item": "bread"
+   }
   }
  ],
  "digits": [

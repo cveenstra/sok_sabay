@@ -5,7 +5,7 @@ Pages are cached under scripts/source/html/ (not committed)."""
 import json,re,html,sys,time,urllib.parse,urllib.request,os,hashlib
 def strip(t): return html.unescape(re.sub(r'\s+',' ',re.sub(r'<[^>]+>',' ',t))).strip()
 HERE=os.path.dirname(os.path.abspath(__file__)); SRC=os.path.join(HERE,'source'); os.makedirs(os.path.join(SRC,'html'),exist_ok=True)
-def fname(w): return os.path.join(SRC,'html',+hashlib.md5(w.encode()).hexdigest()+'.html')
+def fname(w): return os.path.join(SRC,'html',hashlib.md5(w.encode()).hexdigest()+'.html')
 def fetch(word):
     f=fname(word)
     if os.path.exists(f): return open(f).read()
@@ -39,10 +39,11 @@ def parse(k):
     return {'status':'ok','wt':wt,'ipa':ipa,'defs':defs}
 if __name__=='__main__':
     words=[w for w in open(sys.argv[1]).read().split('\n') if w.strip() and not w.startswith('#')]
-    out={}
-    for w in words:
+    vpath=os.path.join(SRC,'verified.json')
+    old=json.load(open(vpath)) if os.path.exists(vpath) else {}
+    for i,w in enumerate(words):
         k,_,eng=w.partition('|'); k=k.strip()
-        r=parse(fetch(k)); out[k]=r
+        r=parse(fetch(k)); old[k]=r
         print(f"{k}\t{eng.strip()}\t{r['status']}\t{' / '.join(r.get('wt',[]))}\t{' ; '.join(r.get('defs',[]))[:170]}",flush=True)
-    old=json.load(open(os.path.join(SRC,'verified.json'))) if os.path.exists(os.path.join(SRC,'verified.json')) else {}
-    old.update(out); json.dump(old,open(os.path.join(SRC,'verified.json'),'w'),ensure_ascii=False,indent=1)
+        if i%20==19: json.dump(old,open(vpath,'w'),ensure_ascii=False,indent=1)
+    json.dump(old,open(vpath,'w'),ensure_ascii=False,indent=1)
